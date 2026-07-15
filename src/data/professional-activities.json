@@ -1,0 +1,55 @@
+[
+  {
+    "startDate": "09/1988",
+    "endDate": "08/1990",
+    "description": "Enseignement de mathématiques, en tant que professeur agrégée, au Lycée Lakanal de Sceaux (92), puis au Lycée de Liévin (62)"
+  },
+  {
+    "startDate": "10/1991",
+    "endDate": "09/1993",
+    "description": "Enseignement de mathématiques en tant que monitrice à l'Université Paris VI"
+  },
+  {
+    "startDate": "10/1993",
+    "endDate": "09/1995",
+    "description": "Enseignement de mathématiques en tant qu'Attachée Temporaire d'Enseignement et de Recherche à l'Université Paris VI"
+  },
+  {
+    "startDate": "10/1995",
+    "endDate": "09/1997",
+    "description": "Sans emploi"
+  },
+  {
+    "startDate": "10/1997",
+    "endDate": "12/2005",
+    "description": "Chargée de recherche au CNRS, UMR 8519 « Savoirs et textes » (CNRS - Universités Lille 3 et Lille 1)"
+  },
+  {
+    "startDate": "01/2006",
+    "endDate": "09/2008",
+    "description": "Chargée de recherche au CNRS, UMR 6576 « Centre d'études supérieures de la Renaissance (CESR) » (CNRS – Université François Rabelais, Tours)"
+  },
+  {
+    "startDate": "10/2008",
+    "endDate": "10/2011",
+    "description": "Directrice de recherche au CESR"
+  },
+  {
+    "startDate": "01/2012",
+    "endDate": "06/2012",
+    "description": "Visiting Fellow à All Souls College d'Oxford"
+  },
+  {
+    "startDate": "11/2011",
+    "description": "Directrice de recherche dans le laboratoire SPHERE"
+  },
+  {
+    "startDate": "01/2018",
+    "endDate": "03/2022",
+    "description": "Directrice de SPHERE"
+  },
+  {
+    "startDate": "04/2022",
+    "description": "Directrice de recherche dans le laboratoire AUSONIUS"
+  }
+]
