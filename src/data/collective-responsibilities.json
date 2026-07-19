@@ -3,67 +3,119 @@
     "title": "Participation à des instances collectives",
     "items": [
       {
-        "startDate": "2000",
-        "endDate": "2005",
+        "periods": [
+          {
+            "startDate": "2000",
+            "endDate": "2005"
+          }
+        ],
         "description": "Membre du conseil de laboratoire de l'UMR 8519 « Savoirs et Textes » (Lille)"
       },
       {
-        "startDate": "2005",
-        "endDate": "2011",
+        "periods": [
+          {
+            "startDate": "2005",
+            "endDate": "2011"
+          }
+        ],
         "description": "Membre du conseil de laboratoire du CESR (Tours) ; correspondante formation de l'unité"
       },
       {
-        "startDate": "2005",
-        "endDate": "2011",
+        "periods": [
+          {
+            "startDate": "2005",
+            "endDate": "2011"
+          }
+        ],
         "description": "Membre du conseil d'UFR du CESR (Tours)"
       },
       {
-        "startDate": "2013",
-        "endDate": "2018",
+        "periods": [
+          {
+            "startDate": "2013",
+            "endDate": "2018"
+          }
+        ],
         "description": "Membre du bureau (équivalent du conseil de laboratoire) de l'UMR SPHERE (Paris)"
       },
       {
-        "startDate": "2016",
-        "endDate": "2018",
+        "periods": [
+          {
+            "startDate": "2016",
+            "endDate": "2018"
+          }
+        ],
         "description": "Membre élue du conseil scientifique du GIS Humanités"
       },
       {
-        "startDate": "10/2017",
-        "endDate": "12/2017",
+        "periods": [
+          {
+            "startDate": "10/2017",
+            "endDate": "12/2017"
+          }
+        ],
         "description": "Membre du groupe de préfiguration de l'UFR IHSS (rédaction des statuts et du règlement intérieur)"
       },
       {
-        "startDate": "2015",
-        "endDate": "2019",
+        "periods": [
+          {
+            "startDate": "2015",
+            "endDate": "2019"
+          }
+        ],
         "description": "Membre du bureau du GDR « Histoire des mathématiques »"
       },
       {
-        "startDate": "01/2018",
-        "endDate": "03/2023",
+        "periods": [
+          {
+            "startDate": "01/2018",
+            "endDate": "03/2023"
+          }
+        ],
         "description": "Directrice de SPHERE"
       },
       {
-        "startDate": "01/2018",
-        "endDate": "03/2023",
+        "periods": [
+          {
+            "startDate": "01/2018",
+            "endDate": "03/2023"
+          }
+        ],
         "description": "Membre de droit du conseil scientifique de l'UFR « Institut Humanités, Sciences et Sociétés » (IHSS), auquel est rattachée SPHERE"
       },
       {
-        "startDate": "2016",
-        "endDate": "2018",
+        "periods": [
+          {
+            "startDate": "2016",
+            "endDate": "2018"
+          }
+        ],
         "description": "Membre du conseil scientifique de l'ED 400 « Savoirs scientifiques : Epistémologie, Histoire des sciences, didactique des disciplines », Université Paris Diderot"
       },
       {
-        "startDate": "01/2018",
-        "endDate": "03/2023",
+        "periods": [
+          {
+            "startDate": "01/2018",
+            "endDate": "03/2023"
+          }
+        ],
         "description": "Membre élue du conseil de l'UFR IHSS"
       },
       {
-        "startDate": "01/2018",
-        "endDate": "03/2023",
+        "periods": [
+          {
+            "startDate": "01/2018",
+            "endDate": "03/2023"
+          }
+        ],
         "description": "Membre élue du département HPS de l'UFR IHSS"
       },
       {
-        "startDate": "01/2023",
+        "periods": [
+          {
+            "startDate": "01/2023"
+          }
+        ],
         "description": "Membre nommée à la Commission administrative paritaire (CAP) du CNRS",
         "pinned": true
       }
@@ -73,15 +125,24 @@
     "title": "Participation à des instances d'évaluation",
     "items": [
       {
-        "startDate": "2016",
+        "periods": [
+          {
+            "startDate": "2016"
+          }
+        ],
         "description": "Membre nommée puis élue à la section 72 du CNU"
       },
       {
-        "dates": ["2013", "2016"],
+        "dates": [
+          "2013",
+          "2016"
+        ],
         "description": "Expertises pour l'agence italienne d'évaluation, l'ANUR (Agenzia Nazionale di Valutazione del Sistema Universitario e della Ricerca)"
       },
       {
-        "dates": ["2016"],
+        "dates": [
+          "2016"
+        ],
         "description": "Expertises pour l'HCERES du Centre François Viète (Nantes) et des « Archives Henri Poincaré » (Nancy)"
       }
     ]
@@ -90,15 +151,21 @@
     "title": "Jurys du CNRS",
     "items": [
       {
-        "dates": ["2018"],
+        "dates": [
+          "2018"
+        ],
         "description": "Membre de la commission régionale d'interclassement pour la BAP F à la délégation régionale Paris Villejuif"
       },
       {
-        "dates": ["2019"],
+        "dates": [
+          "2019"
+        ],
         "description": "Membre de la commission régionale d'interclassement pour les BAP G et J à la délégation régionale Paris Villejuif"
       },
       {
-        "dates": ["2019"],
+        "dates": [
+          "2019"
+        ],
         "description": "Présidente du Jury de l'examen de sélection professionnelle pour l'accès au grade d'Ingénieur de Recherche Hors Classe (IRHC)"
       }
     ]

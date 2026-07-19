@@ -1,55 +1,108 @@
 [
   {
     "periods": [
-      { "startDate": "10/1997", "endDate": "06/2001" },
-      { "startDate": "10/2002", "endDate": "06/2003" }
+      {
+        "startDate": "10/1997",
+        "endDate": "06/2001"
+      },
+      {
+        "startDate": "10/2002",
+        "endDate": "06/2003"
+      }
     ],
     "description": "Organisation d'un séminaire d'histoire des mathématiques à Lille",
-    "collaborators": ["Bernard Vitrac", "Ahmed Djebbar"],
-    "precisions": "Collaboration avec Bernard Vitrac et Ahmed Djebbar pour la période 2002-2003"
+    "collaborators": [
+      "Bernard Vitrac",
+      "Ahmed Djebbar"
+    ],
+    "details": "Collaboration avec Bernard Vitrac et Ahmed Djebbar pour la période 2002-2003"
   },
   {
-    "periods": [{ "startDate": "07/2000", "endDate": "06/2002" }],
+    "periods": [
+      {
+        "startDate": "07/2000",
+        "endDate": "06/2002"
+      }
+    ],
     "description": "Responsable du projet « La réception des Éléments d'Euclide au Moyen-Age et à la Renaissance »",
-    "precisions": [
-      "Projet ayant reçu une Aide à Projet Nouveau du CNRS.",
-      "A donné lieu à la publication d'un numéro spécial de la Revue d'histoire des sciences (n° 56/2, 2003)"
-    ]
+    "details": "Projet ayant reçu une Aide à Projet Nouveau du CNRS. A donné lieu à la publication d'un numéro spécial de la Revue d'histoire des sciences (n° 56/2, 2003)"
   },
   {
-    "periods": [{ "startDate": "2003", "endDate": "2006" }],
+    "periods": [
+      {
+        "startDate": "2003",
+        "endDate": "2006"
+      }
+    ],
     "description": "Responsable du projet « Formes d'articulation entre mathématiques et philosophie naturelle (XIVe-XVIe siècles) »",
-    "precisions": "Dans le cadre de l'AC « Histoire des savoirs » du CNRS"
+    "details": "Dans le cadre de l'AC « Histoire des savoirs » du CNRS"
   },
   {
-    "periods": [{ "startDate": "2006", "endDate": "2011" }],
+    "periods": [
+      {
+        "startDate": "2006",
+        "endDate": "2011"
+      }
+    ],
     "description": "Responsable du projet « Algèbre », au sein de l'équipe d'histoire des sciences du CESR"
   },
   {
-    "periods": [{ "startDate": "09/2012", "endDate": "06/2022" }],
+    "periods": [
+      {
+        "startDate": "09/2012",
+        "endDate": "06/2022"
+      }
+    ],
     "description": "Responsable du séminaire d'histoire des mathématiques à la Renaissance, à SPHERE ; co-responsable du sous-axe « Philosophie naturelle de l'Antiquité à l'Age classique »"
   },
   {
-    "periods": [{ "startDate": "06/2024", "endDate": "12/2025" }],
+    "periods": [
+      {
+        "startDate": "06/2024",
+        "endDate": "12/2025"
+      }
+    ],
     "description": "Porteuse du projet « Point de basculement entre l'aristotélisme et la science classique : la tradition parisienne des Calculatores – PBASC »",
-    "precisions": "Financé par le GPR Human Past, Université de Bordeaux (11 816 euros)"
+    "details": "Financé par le GPR Human Past, Université de Bordeaux (11 816 euros)"
   },
   {
-    "periods": [{ "startDate": "09/2024", "endDate": "08/2027" }],
+    "periods": [
+      {
+        "startDate": "09/2024",
+        "endDate": "08/2027"
+      }
+    ],
     "description": "Membre du projet « Euclide à l'époque moderne : Une histoire des transmissions, traductions et transformations interculturelles des éléments – EUCLIDES »",
-    "collaborators": ["V. Di Risi", "A. Axworthy"],
-    "precisions": "Dirigé par V. Di Risi et A. Axworthy. Financé par l'ANR Appel Franco-allemand en sciences humaines et sociales"
+    "collaborators": [
+      "V. Di Risi",
+      "A. Axworthy"
+    ],
+    "details": "Dirigé par V. Di Risi et A. Axworthy. Financé par l'ANR Appel Franco-allemand en sciences humaines et sociales"
   },
   {
-    "periods": [{ "startDate": "04/2025", "endDate": "03/2026" }],
+    "periods": [
+      {
+        "startDate": "04/2025",
+        "endDate": "03/2026"
+      }
+    ],
     "description": "Membre du projet « Physicoom »",
-    "collaborators": ["N. Weill-Parot"],
-    "precisions": "Financé par PSL Global Seed Fund, porté par N. Weill-Parot"
+    "collaborators": [
+      "N. Weill-Parot"
+    ],
+    "details": "Financé par PSL Global Seed Fund, porté par N. Weill-Parot"
   },
   {
-    "periods": [{ "startDate": "2023", "endDate": "2028" }],
+    "periods": [
+      {
+        "startDate": "2023",
+        "endDate": "2028"
+      }
+    ],
     "description": "Membre du Advisory Board du projet « i² – The Impossible and the Imaginable: Late-Medieval Semantics of Impossibility and the Roots of Complex Mathematics » (ERC Starting Grant)",
-    "collaborators": ["G. Ciola"],
-    "precisions": "Dirigé par G. Ciola"
+    "collaborators": [
+      "G. Ciola"
+    ],
+    "details": "Dirigé par G. Ciola"
   }
 ]

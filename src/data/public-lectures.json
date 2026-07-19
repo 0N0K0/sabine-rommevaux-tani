@@ -25,27 +25,27 @@
   },
   {
     "title": "L'université médiévale : un lieu de débat",
-    "note": "Conférence grand public",
+    "details": "Conférence grand public",
     "venue": "Les médiévales de Fournols",
     "date": "7/8 octobre 2023",
     "url": "https://www.fetes-medievales.com/site/les-medievales-de-fournols"
   },
   {
     "title": "La fabuleuse histoire des Eléments d'Euclide",
-    "note": "Conférence grand public",
+    "details": "Conférence grand public",
     "place": "Espace La Croix-Davids, Bourg sur Gironde",
     "date": "8 février 2024",
     "url": "https://www.facebook.com/espacelacroixdavids/posts/899514955199817/"
   },
   {
     "title": "Le Bureau des enquêtes",
-    "note": "Animatrice de l'atelier",
+    "details": "Animatrice de l'atelier",
     "place": "CAP Sciences, Bordeaux",
     "date": "24 novembre 2024"
   },
   {
     "title": "Les outils à disposition de l'historien pour étudier l'enseignement de la géométrie à l'université de Paris au Moyen Age",
-    "note": "Conférence grand public",
+    "details": "Conférence grand public",
     "venue": "Les Samedis de Cabara",
     "date": "7 mars 2026"
   }
