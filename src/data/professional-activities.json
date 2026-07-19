@@ -22,34 +22,47 @@
   {
     "startDate": "10/1997",
     "endDate": "12/2005",
-    "description": "Chargée de recherche au CNRS, UMR 8519 « Savoirs et textes » (CNRS - Universités Lille 3 et Lille 1)"
+    "description": "Chargée de recherche au CNRS, UMR 8519 « Savoirs et textes » (CNRS - Universités Lille 3 et Lille 1)",
+    "pinned": true
   },
   {
     "startDate": "01/2006",
     "endDate": "09/2008",
-    "description": "Chargée de recherche au CNRS, UMR 6576 « Centre d'études supérieures de la Renaissance (CESR) » (CNRS – Université François Rabelais, Tours)"
+    "description": "Chargée de recherche au CNRS, UMR 6576 « Centre d'études supérieures de la Renaissance (CESR) » (CNRS – Université François Rabelais, Tours)",
+    "pinned": true
+  },
+  {
+    "startDate": "16/07/2008",
+    "endDate": "31/07/2008",
+    "description": "Visiting Fellow au Queens College d’Oxford",
+    "pinned": true
   },
   {
     "startDate": "10/2008",
     "endDate": "10/2011",
-    "description": "Directrice de recherche au CESR"
+    "description": "Directrice de recherche au CESR",
+    "pinned": true
   },
   {
     "startDate": "01/2012",
     "endDate": "06/2012",
-    "description": "Visiting Fellow à All Souls College d'Oxford"
+    "description": "Visiting Fellow à All Souls College d'Oxford",
+    "pinned": true
   },
   {
     "startDate": "11/2011",
-    "description": "Directrice de recherche dans le laboratoire SPHERE"
+    "description": "Directrice de recherche dans le laboratoire SPHERE",
+    "pinned": true
   },
   {
     "startDate": "01/2018",
     "endDate": "03/2022",
-    "description": "Directrice de SPHERE"
+    "description": "Directrice de SPHERE",
+    "pinned": true
   },
   {
     "startDate": "04/2022",
-    "description": "Directrice de recherche dans le laboratoire AUSONIUS"
+    "description": "Directrice de recherche dans le laboratoire AUSONIUS",
+    "pinned": true
   }
 ]

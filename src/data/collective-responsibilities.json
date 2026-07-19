@@ -64,7 +64,8 @@
       },
       {
         "startDate": "01/2023",
-        "description": "Membre nommée à la Commission administrative paritaire (CAP) du CNRS"
+        "description": "Membre nommée à la Commission administrative paritaire (CAP) du CNRS",
+        "pinned": true
       }
     ]
   },
