@@ -1,30 +1,60 @@
-[
-  {
-    "periods": [
-      { "startDate": "2002", "endDate": "2005" },
-      { "startDate": "11/2020" }
-    ],
-    "description": "Membre du comité de rédaction de la Revue d'histoire des mathématiques (SMF)"
-  },
-  {
-    "periods": [
-      { "startDate": "2010", "endDate": "2025" }
-    ],
-    "description": "Membre du comité éditorial de la revue Almagest (Brepols)"
-  },
-  {
-    "periods": [
-      { "startDate": "2016", "endDate": "2017" }
-    ],
-    "description": "Membre du comité de lecture de la revue Cahiers François Viète (en ligne, libre accès)"
-  },
-  {
-    "periods": [
-      { "startDate": "2017" }
-    ],
-    "description": "Membre du comité scientifique de la revue Cahiers François Viète (en ligne, libre accès)"
-  },
-  {
-    "description": "Responsable du thème « La logique et les mathématiques », comportant 3 vol., dans l'Encyclopédie « Sciences », domaine « Histoire des sciences », aux éditions ISTE"
-  }
-]
+{
+  "title": "Activités liées à l'édition",
+  "content": [
+    {
+      "periods": [
+        { "startDate": "2002", "endDate": "2005" },
+        { "startDate": "11/2020" }
+      ],
+      "label": "Membre du comité de rédaction",
+      "details": [
+        {
+          "value": "Revue d'histoire des mathématiques, SMF",
+          "link": "https://smf.emath.fr/publications/revue-dhistoire-des-mathematiques"
+        }
+      ]
+    },
+    {
+      "periods": [{ "startDate": "2010", "endDate": "2025" }],
+      "label": "Membre du comité éditorial",
+      "details": [
+        {
+          "value": "Revue Almagest, aux éditions Brepols",
+          "link": "https://www.brepolsonline.net/content/journals/almagest"
+        }
+      ]
+    },
+    {
+      "periods": [{ "startDate": "2016", "endDate": "2017" }],
+      "label": "Membre du comité de lecture",
+      "details": [
+        {
+          "value": "Cahiers François Viète (libre accès en ligne)",
+          "link": "https://journals.openedition.org/cahierscfv/"
+        }
+      ]
+    },
+    {
+      "periods": [{ "startDate": "2017" }],
+      "label": "Membre du comité scientifique",
+      "details": [
+        {
+          "value": "Cahiers François Viète (libre accès en ligne)",
+          "link": "https://journals.openedition.org/cahierscfv/"
+        }
+      ]
+    },
+    {
+      "label": "Responsable du thème « La logique et les mathématiques »",
+      "details": [
+        {
+          "value": "3 volumes"
+        },
+        {
+          "value": "Encyclopédie « Sciences », domaine « Histoire des sciences », aux éditions ISTE",
+          "link": "https://www.istegroup.com/fr/theme/la-logique-et-les-mathematiques/"
+        }
+      ]
+    }
+  ]
+}

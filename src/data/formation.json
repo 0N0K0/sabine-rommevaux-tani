@@ -1,52 +1,55 @@
-[
-  {
-    "description": "Maîtrise de mathématiques pures",
-    "dates": ["1986"],
-    "details": [
-      {
-        "key": "Université",
-        "value": "Université Strasbourg I"
-      }
-    ]
-  },
-  {
-    "description": "Agrégation de mathématiques",
-    "dates": ["1987"]
-  },
-  {
-    "description": "Doctorat d'histoire des mathématiques",
-    "dates": ["30/09/1994"],
-    "details": [
-      {
-        "key": "Université",
-        "value": "Université de Nantes"
-      },
-      {
-        "key": "Directeur de thèse",
-        "value": "M. le Professeur J. Dhombres"
-      },
-      {
-        "key": "Sujet",
-        "value": "Un jalon dans l'histoire de la théorie des proportions au XVIe siècle : le commentaire de Clavius au livre V des Éléments d'Euclide"
-      },
-      {
-        "key": "Mention",
-        "value": "Très honorable, avec félicitations"
-      }
-    ]
-  },
-  {
-    "description": "Habilitation à diriger des recherches en philosophie",
-    "dates": ["23/02/2007"],
-    "details": [
-      {
-        "key": "Université",
-        "value": "Université de Tours"
-      },
-      {
-        "key": "Thème",
-        "value": "Théorie des rapports (XIIIe - XVIe siècles) : réception, assimilation, innovation"
-      }
-    ]
-  }
-]
+{
+  "title": "Formation",
+  "content": [
+    {
+      "label": "Maîtrise de mathématiques pures",
+      "dates": ["1986"],
+      "details": [
+        {
+          "key": "Université",
+          "value": "Université Strasbourg I"
+        }
+      ]
+    },
+    {
+      "label": "Agrégation de mathématiques",
+      "dates": ["1987"]
+    },
+    {
+      "label": "Doctorat d'histoire des mathématiques",
+      "dates": ["30/09/1994"],
+      "details": [
+        {
+          "key": "Université",
+          "value": "Université de Nantes"
+        },
+        {
+          "key": "Directeur de thèse",
+          "value": "M. le Professeur J. Dhombres"
+        },
+        {
+          "key": "Sujet",
+          "value": "Un jalon dans l'histoire de la théorie des proportions au XVIe siècle : le commentaire de Clavius au livre V des Éléments d'Euclide"
+        },
+        {
+          "key": "Mention",
+          "value": "Très honorable, avec félicitations"
+        }
+      ]
+    },
+    {
+      "label": "Habilitation à diriger des recherches en philosophie",
+      "dates": ["23/02/2007"],
+      "details": [
+        {
+          "key": "Université",
+          "value": "Université de Tours"
+        },
+        {
+          "key": "Thème",
+          "value": "Théorie des rapports (XIIIe - XVIe siècles) : réception, assimilation, innovation"
+        }
+      ]
+    }
+  ]
+}

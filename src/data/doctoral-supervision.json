@@ -1,22 +1,44 @@
-[
-  {
-    "periods": [
-      {
-        "startDate": "11/2012",
-        "endDate": "12/2019"
-      }
-    ],
-    "student": "Philippe Debroise",
-    "title": "Mathématiques de l'intensité et Merveilles de la nature. Étude sur le Tractatus de configurationibus qualitatum et motuum de Nicole Oresme"
-  },
-  {
-    "periods": [
-      {
-        "startDate": "11/2021"
-      }
-    ],
-    "student": "Nadiejda Tamitegama",
-    "title": "De elementis arithmetice artis de Jordanus",
-    "details": "Soutenance prévue en 2027"
-  }
-]
+{
+  "title": "Encadrement doctoral",
+  "content": [
+    {
+      "periods": [
+        {
+          "startDate": "11/2012",
+          "endDate": "12/2019"
+        }
+      ],
+      "details": [
+        {
+          "key": "Étudiant",
+          "value": "Philippe Debroise"
+        },
+        {
+          "key": "Sujet",
+          "value": "Mathématiques de l'intensité et Merveilles de la nature. Étude sur le Tractatus de configurationibus qualitatum et motuum de Nicole Oresme"
+        }
+      ]
+    },
+    {
+      "periods": [
+        {
+          "startDate": "11/2021"
+        }
+      ],
+      "details": [
+        {
+          "key": "Étudiante",
+          "value": "Nadiejda Tamitegama"
+        },
+        {
+          "key": "Sujet",
+          "value": "De elementis arithmetice artis de Jordanus"
+        },
+        {
+          "key": "Soutenance prévue",
+          "value": "2027"
+        }
+      ]
+    }
+  ]
+}
