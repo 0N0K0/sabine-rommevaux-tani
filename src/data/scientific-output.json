@@ -1734,6 +1734,77 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Organisation de colloques internationaux",
+      "content": [
+        {
+          "periods": [{ "startDate": "15/03/2002", "endDate": "16/03/2002" }],
+          "place": "Villeneuve d’Ascq",
+          "label": "La réception des Eléments d’Euclide au Moyen Age et à la Renaissance",
+          "details": [{ "value": "Université Lille 3" }]
+        },
+        {
+          "periods": [{ "startDate": "24/11/2006", "endDate": "25/11/2006" }],
+          "place": "Tours",
+          "label": "Formes d’articulation entre mathématiques et philosophie naturelle (XIVe – XVIe siècles)",
+          "details": [
+            { "value": "Centre d’études supérieures de la Renaissance" }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "30/06/2008", "endDate": "04/07/2008" }],
+          "place": "Tours",
+          "label": "Proportions",
+          "details": [
+            {
+              "value": "Centre d’études supérieures de la Renaissance"
+            },
+            {
+              "key": "Co-organisateurs",
+              "value": "Philippe Vendrix et Vasco Zara"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "13/05/2009", "endDate": "15/05/2009" }],
+          "place": "Tours",
+          "label": "Unité ou pluralité de l’algèbre en Europe (XIIe-XVIe siècles)",
+          "details": [
+            {
+              "value": "Centre d’études supérieures de la Renaissance"
+            },
+            {
+              "key": "Co-organisateurs",
+              "value": "Maryvonne Spiesser et Maria Rosa Massa-Estève"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "08/12/2010", "endDate": "10/12/2010" }],
+          "place": "Tours",
+          "label": "Ce que les mathématiciens de la Renaissance disent des mathématiques et de leurs applications",
+          "details": [
+            {
+              "value": "Centre d’études supérieures de la Renaissance"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "18/11/2021", "endDate": "19/11/2021" }],
+          "place": "Paris",
+          "label": "Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13e siècle",
+          "details": [
+            {
+              "value": "SPHERE"
+            },
+            {
+              "key": "Co-organisateurs",
+              "value": "Iacopo Costa (LEM), Ana Maria Mora Marquez (Université de Gothenburg) et Laurent Cessali (Université de Genève)"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
