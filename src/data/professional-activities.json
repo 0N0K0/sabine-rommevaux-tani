@@ -6,7 +6,12 @@
         "endDate": "08/1990"
       }
     ],
-    "description": "Enseignement de mathématiques, en tant que professeur agrégée, au Lycée Lakanal de Sceaux (92), puis au Lycée de Liévin (62)"
+    "description": "Enseignement de mathématiques, en tant que professeur agrégée",
+    "details": [
+      {
+        "value": ["Lycée Lakanal de Sceaux (92)", "Lycée de Liévin (62)"]
+      }
+    ]
   },
   {
     "periods": [
@@ -15,7 +20,8 @@
         "endDate": "09/1993"
       }
     ],
-    "description": "Enseignement de mathématiques en tant que monitrice à l'Université Paris VI"
+    "description": "Enseignement de mathématiques, en tant que monitrice",
+    "details": [{ "value": "Université Paris VI" }]
   },
   {
     "periods": [
@@ -24,7 +30,8 @@
         "endDate": "09/1995"
       }
     ],
-    "description": "Enseignement de mathématiques en tant qu'Attachée Temporaire d'Enseignement et de Recherche à l'Université Paris VI"
+    "description": "Enseignement de mathématiques en tant qu'Attachée Temporaire d'Enseignement et de Recherche",
+    "details": [{ "value": "Université Paris VI" }]
   },
   {
     "periods": [
@@ -42,7 +49,12 @@
         "endDate": "12/2005"
       }
     ],
-    "description": "Chargée de recherche au CNRS, UMR 8519 « Savoirs et textes » (CNRS - Universités Lille 3 et Lille 1)",
+    "description": "Chargée de recherche au CNRS",
+    "details": [
+      {
+        "value": "UMR 8519 « Savoirs et textes » (CNRS - Universités Lille 3 et Lille 1)"
+      }
+    ],
     "pinned": true
   },
   {
@@ -52,7 +64,12 @@
         "endDate": "09/2008"
       }
     ],
-    "description": "Chargée de recherche au CNRS, UMR 6576 « Centre d'études supérieures de la Renaissance (CESR) » (CNRS – Université François Rabelais, Tours)",
+    "description": "Chargée de recherche au CNRS",
+    "details": [
+      {
+        "value": "UMR 6576 « Centre d'études supérieures de la Renaissance (CESR) » (CNRS – Université François Rabelais, Tours)"
+      }
+    ],
     "pinned": true
   },
   {
@@ -62,7 +79,12 @@
         "endDate": "31/07/2008"
       }
     ],
-    "description": "Visiting Fellow au Queens College d’Oxford",
+    "description": "Visiting Fellow",
+    "details": [
+      {
+        "value": "Queens College d’Oxford"
+      }
+    ],
     "pinned": true
   },
   {
@@ -72,7 +94,8 @@
         "endDate": "10/2011"
       }
     ],
-    "description": "Directrice de recherche au CESR",
+    "description": "Directrice de recherche",
+    "details": [{ "value": "CESR" }],
     "pinned": true
   },
   {
@@ -82,7 +105,12 @@
         "endDate": "06/2012"
       }
     ],
-    "description": "Visiting Fellow à All Souls College d'Oxford",
+    "description": "Visiting Fellow",
+    "details": [
+      {
+        "value": "All Souls College d'Oxford"
+      }
+    ],
     "pinned": true
   },
   {
@@ -91,7 +119,12 @@
         "startDate": "11/2011"
       }
     ],
-    "description": "Directrice de recherche dans le laboratoire SPHERE",
+    "description": "Directrice de recherche",
+    "details": [
+      {
+        "value": "laboratoire SPHERE"
+      }
+    ],
     "pinned": true
   },
   {
@@ -102,6 +135,11 @@
       }
     ],
     "description": "Directrice de SPHERE",
+    "details": [
+      {
+        "value": "laboratoire SPHERE"
+      }
+    ],
     "pinned": true
   },
   {
@@ -110,7 +148,12 @@
         "startDate": "04/2022"
       }
     ],
-    "description": "Directrice de recherche dans le laboratoire AUSONIUS",
+    "description": "Directrice de recherche",
+    "details": [
+      {
+        "value": "laboratoire AUSONIUS"
+      }
+    ],
     "pinned": true
   }
 ]

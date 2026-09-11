@@ -1,22 +1,28 @@
 [
   {
-    "title": "Histoire des mathématiques du Moyen Âge latin et de la Renaissance",
-    "description": [
-      "La réception des Éléments d'Euclide, en particulier la théorie des proportions",
-      "L'algèbre"
+    "description": "Histoire des mathématiques du Moyen Âge latin et de la Renaissance",
+    "details": [
+      {
+        "value": [
+          "La réception des Éléments d'Euclide, en particulier la théorie des proportions",
+          "L'algèbre"
+        ]
+      }
     ]
   },
   {
-    "title": "Histoire de la philosophie naturelle au Moyen Âge latin",
-    "description": [
-      "La tradition des Calculatores d'Oxford (XIVe siècle)",
-      "L'utilisation des mathématiques dans cette tradition"
+    "description": "Histoire de la philosophie naturelle au Moyen Âge latin",
+    "details": [
+      {
+        "value": [
+          "La tradition des Calculatores d'Oxford (XIVe siècle)",
+          "L'utilisation des mathématiques dans cette tradition"
+        ]
+      }
     ]
   },
   {
-    "title": "Histoire de la philosophie médiévale latine",
-    "description": [
-      "La philosophie mathématique de Raoul le Breton"
-    ]
+    "description": "Histoire de la philosophie médiévale latine",
+    "details": [{ "value": "La philosophie mathématique de Raoul le Breton" }]
   }
 ]

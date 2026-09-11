@@ -1,18 +1,26 @@
 [
   {
     "description": "Maîtrise de mathématiques pures",
-    "date": "1986",
-    "university": "Université Strasbourg I"
+    "dates": ["1986"],
+    "details": [
+      {
+        "key": "Université",
+        "value": "Université Strasbourg I"
+      }
+    ]
   },
   {
     "description": "Agrégation de mathématiques",
-    "date": "1987"
+    "dates": ["1987"]
   },
   {
     "description": "Doctorat d'histoire des mathématiques",
-    "date": "30 septembre 1994",
-    "university": "Université de Nantes",
+    "dates": ["30/09/1994"],
     "details": [
+      {
+        "key": "Université",
+        "value": "Université de Nantes"
+      },
       {
         "key": "Directeur de thèse",
         "value": "M. le Professeur J. Dhombres"
@@ -29,9 +37,12 @@
   },
   {
     "description": "Habilitation à diriger des recherches en philosophie",
-    "date": "23 février 2007",
-    "university": "Université de Tours",
+    "dates": ["23/02/2007"],
     "details": [
+      {
+        "key": "Université",
+        "value": "Université de Tours"
+      },
       {
         "key": "Thème",
         "value": "Théorie des rapports (XIIIe - XVIe siècles) : réception, assimilation, innovation"
