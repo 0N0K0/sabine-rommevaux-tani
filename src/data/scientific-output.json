@@ -1354,6 +1354,386 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Analyses d’ouvrages",
+      "content": [
+        {
+          "dates": ["1999"],
+          "label": "Die älteste lateinische Schrift über das indische Rechnen nach al-Hwarizmi",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "Menso Folkerts"
+            },
+            { "key": "Collaboration", "value": "Paul Kunitzsch" },
+            {
+              "key": "Travaux",
+              "value": "Édition, traduction et commentaire"
+            },
+            {
+              "key": "Pages",
+              "value": "289 à 291"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Historia Mathematica, 26"
+            }
+          ]
+        },
+        {
+          "dates": ["2001"],
+          "label": "Johannes de Muris, De arte mensurandi : A geometrical handbook of the fourteenth century",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "H. L. L. Busard"
+            },
+            {
+              "key": "Travaux",
+              "value": "Édition"
+            },
+            {
+              "key": "Pages",
+              "value": "264 à 265"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Revue d’Histoire des Sciences, 54/2"
+            }
+          ]
+        },
+        {
+          "dates": ["2003"],
+          "label": "Une histoire de la science arabe. Entretiens avec Jean Rosmorduc",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "Ahmed Djebbar"
+            },
+            {
+              "key": "Dans",
+              "value": "Bulletin de Philosophie médiévale VII"
+            },
+            {
+              "key": "Pages",
+              "value": "544 à 545"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Archives de Philosophie, 66"
+            }
+          ]
+        },
+        {
+          "dates": ["2004"],
+          "label": "Abū l-‘Abbās an-Nayrīzī : Exzerpte aus (Ps.-?) Simplicis’ Kommentar zu den Definitionen, Postulaten und Axiomen in Euclids Elementa I",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "Rüdiger Arnzen"
+            },
+            {
+              "key": "Travaux",
+              "value": "Édition et glossaires arabes et latins"
+            },
+            {
+              "key": "Pages",
+              "value": "115 à 116"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Historia Mathematica, 31"
+            }
+          ]
+        },
+        {
+          "dates": ["2008"],
+          "label": "Campanus of Novara and Euclid’s Elements",
+          "link": "",
+          "details": [
+            {
+              "value": "Ouvrage en 2 volumes"
+            },
+            {
+              "key": "Auteur",
+              "value": "Hubert L. L. Busard"
+            },
+            {
+              "key": "Pages",
+              "value": "213 à 215"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Revue d’histoire des sciences, 61"
+            }
+          ]
+        },
+        {
+          "dates": ["2008"],
+          "label": "Fibonacci’s De practica Geometrie",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "Barnabas Hughes"
+            },
+            {
+              "key": "Travaux",
+              "value": "Édition"
+            },
+            {
+              "key": "Pages",
+              "value": "152 à 156"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Aestimatio, 5"
+            }
+          ]
+        },
+        {
+          "dates": ["2009"],
+          "label": "Vollständiger Lehrgang der Arithmetik, nachwort von Eberhard Knobloch, Deutsche übersetzung von Eberhard Knobloch und Otto Schönberger, Königshausen & Neumann, Würzburg",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "Michael Stifel"
+            },
+            {
+              "key": "Pages",
+              "value": "661"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Archives internationales d’Histoire des sciences, 59"
+            }
+          ]
+        },
+        {
+          "dates": ["2010"],
+          "label": "Regiomontano e il rinnovamento del sapere matematico e astronomico nel Quattrocento",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "Michela Malpangotto"
+            },
+            {
+              "key": "Pages",
+              "value": "307 à 308"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Revue d’histoire des sciences, 63"
+            }
+          ]
+        },
+        {
+          "dates": ["2012"],
+          "label": "Guillaume de Conches : Philosophie et science au XIIe siècle",
+          "link": "",
+          "details": [
+            {
+              "value": "Ouvrage collectif"
+            },
+            {
+              "key": "Auteurs",
+              "value": "Barbara Obrist et Irene Caiazzo"
+            },
+            {
+              "key": "Pages",
+              "value": "780"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Isis, 103/4"
+            }
+          ]
+        },
+        {
+          "dates": ["2012"],
+          "label": "Expertus sum. L’expérience par les sens dans la philosophie naturelle médiévale",
+          "link": "",
+          "image": "",
+          "details": [
+            {
+              "value": "Actes de colloque"
+            },
+            {
+              "key": "Auteurs",
+              "value": "Thomas Bénatouïl et Isabelle Draelants"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Archives internationales d’Histoire des sciences, 62"
+            }
+          ]
+        },
+        {
+          "dates": ["2014"],
+          "label": "Lire, choisir, écrire : La vulgarisation des savoirs du Moyen Âge à la Renaissance",
+          "link": "",
+          "details": [
+            {
+              "value": "Ouvrage collectif"
+            },
+            {
+              "key": "Auteur",
+              "value": "Violaine Giacomotto-Charra et Christine Silvi"
+            },
+            {
+              "key": "Pages",
+              "value": "364 à 365"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Revue d’histoire des sciences, 67"
+            }
+          ]
+        },
+        {
+          "dates": ["2014"],
+          "label": "Controverses. Accords et désaccords en sciences humaines et sociales",
+          "link": "",
+          "details": [
+            {
+              "value": "Ouvrage collectif"
+            },
+            {
+              "key": "Auteur",
+              "value": "Yves Gingras"
+            },
+            {
+              "key": "Pages",
+              "value": "368 à 370"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Revue d’histoire des sciences, 67"
+            }
+          ]
+        },
+        {
+          "dates": ["2018"],
+          "label": "Le mathématicien renaissant et son savoir : le statut des mathématiques selon Oronce Fine",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "Angela Axworthy"
+            },
+            {
+              "key": "Pages",
+              "value": "111 à 112"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Revue d’histoire des sciences, 71/1"
+            }
+          ]
+        },
+        {
+          "dates": ["2020"],
+          "label": "Penser les Mathématiques au XVIe siècle",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "Shin Higashi"
+            },
+            {
+              "key": "Pages",
+              "value": "162 à 163"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Isis, 11/1"
+            }
+          ]
+        },
+        {
+          "dates": ["2024"],
+          "label": "François de Foix de Candalle: Euclidean authorship in the sixteenth century",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "Benjamin Wardhaugh"
+            },
+            {
+              "key": "Pages",
+              "value": "177 à 192"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Br. J. Hist. Math., 39/3"
+            }
+          ]
+        },
+        {
+          "dates": ["2025"],
+          "label": "L’Action à distance : au Moyen Âge et au-delà",
+          "link": "",
+          "details": [
+            {
+              "value": "Ouvrage collectif"
+            },
+            {
+              "key": "Auteurs",
+              "value": "Béatrice Delaurenti et Nicolas Weill-Parot"
+            },
+            {
+              "key": "Pages",
+              "value": "493 à 495"
+            },
+            {
+              "key": "Éditeur",
+              "value": "Revue d’histoire des sciences, 78/2"
+            }
+          ]
+        },
+        {
+          "dates": ["à paraître"],
+          "label": "Archimedea",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "Francesco Maurolico"
+            },
+            {
+              "key": "Travaux",
+              "value": "Texte latin avec traduction italienne-anglaise, édité par Riccardo Bellé, Pier Daniele Napolitani et Beatrice Sisana"
+            },
+
+            {
+              "key": "Éditeur",
+              "value": "British Journal for the History of Mathematics"
+            }
+          ]
+        },
+        {
+          "dates": ["à paraître"],
+          "label": "The Geometry of Coincidence. Nicholas of Cusa and the Quadrature of the circle",
+          "link": "",
+          "details": [
+            {
+              "key": "Auteur",
+              "value": "Federica De Felice"
+            },
+            {
+              "key": "Éditeur",
+              "value": "British Journal for the History of Mathematics"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
