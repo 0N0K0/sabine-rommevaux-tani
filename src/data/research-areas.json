@@ -1,0 +1,32 @@
+{
+  "title": "Domaines de recherche",
+  "level": 1,
+  "content": [
+    {
+      "label": "Histoire des mathématiques du Moyen Âge latin et de la Renaissance",
+      "details": [
+        {
+          "value": [
+            "La réception des Éléments d'Euclide, en particulier la théorie des proportions",
+            "L'algèbre"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Histoire de la philosophie naturelle au Moyen Âge latin",
+      "details": [
+        {
+          "value": [
+            "La tradition des Calculatores d'Oxford (XIVe siècle)",
+            "L'utilisation des mathématiques dans cette tradition"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Histoire de la philosophie médiévale latine",
+      "details": [{ "value": "La philosophie mathématique de Raoul le Breton" }]
+    }
+  ]
+}

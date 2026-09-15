@@ -1,0 +1,1664 @@
+{
+  "title": "Manifestations scientifiques",
+  "level": 4,
+  "content": [
+    {
+      "title": "Organisation de colloques internationaux",
+      "content": [
+        {
+          "periods": [{ "startDate": "15/03/2002", "endDate": "16/03/2002" }],
+          "place": "Université Lille 3, Villeneuve d’Ascq",
+          "label": "La réception des Eléments d’Euclide au Moyen Age et à la Renaissance"
+        },
+        {
+          "periods": [{ "startDate": "24/11/2006", "endDate": "25/11/2006" }],
+          "place": "Centre d’Études Supérieures de la Renaissance (CESR), Tours",
+          "label": "Formes d’articulation entre mathématiques et philosophie naturelle (XIVe – XVIe siècles)"
+        },
+        {
+          "periods": [{ "startDate": "30/06/2008", "endDate": "04/07/2008" }],
+          "place": "Centre d’études supérieures de la Renaissance (CESR), Tours",
+          "label": "Proportions",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Philippe Vendrix (CESR) et Vasco Zara (Université de Bourgogne)"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "13/05/2009", "endDate": "15/05/2009" }],
+          "place": "Centre d’études supérieures de la Renaissance (CESR), Tours",
+          "label": "Unité ou pluralité de l’algèbre en Europe (XIIe-XVIe siècles)",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Maryvonne Spiesser (Université Toulouse 3 Paul Sabatier) et Maria Rosa Massa-Estève (Université Polytechnique de Catalogne)"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "08/12/2010", "endDate": "10/12/2010" }],
+          "place": "Centre d’Études Supérieures de la Renaissance (CESR), Tours",
+          "label": "Ce que les mathématiciens de la Renaissance disent des mathématiques et de leurs applications"
+        },
+        {
+          "periods": [{ "startDate": "18/11/2021", "endDate": "19/11/2021" }],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13e siècle",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Iacopo Costa (LEM), Ana Maria Mora Marquez (Université de Gothenburg) et Laurent Cessali (Université de Genève)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Organisation de journées d’études",
+      "content": [
+        {
+          "dates": ["07/12/2002"],
+          "place": "niversité Lille 3, Villeneuve d’Ascq",
+          "label": "Le livre V des Eléments d’Euclide"
+        },
+        {
+          "periods": [{ "startDate": "04/04/2003", "endDate": "05/04/2003" }],
+          "place": "Université Lille 3, Villeneuve d’Ascq",
+          "label": "La question du continu au Moyen Age"
+        },
+        {
+          "dates": ["12/05/2004"],
+          "place": "Paris",
+          "label": "Mathématiques et philosophie de la nature au Moyen Age",
+          "details": [
+            {
+              "value": "Séminaire de l’IHP"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "06/10/2005", "endDate": "08/10/2005" }],
+          "place": "Université Paris 4, Paris",
+          "label": "Journée d’études en hommage à Gérard Simon",
+          "details": [
+            {
+              "key": "organisée avec",
+              "value": "Bernard Joly (Université Lille 3)"
+            }
+          ]
+        },
+        {
+          "dates": ["01/12/2006"],
+          "place": "Centre d’études supérieures de la Renaissance (CESR), Tours",
+          "label": "Algèbre et arithmétique"
+        },
+        {
+          "dates": ["15/06/2007"],
+          "place": "Centre d’études supérieures de la Renaissance (CESR), Tours",
+          "label": "Algébrisation du livre X des Éléments d’Euclide"
+        },
+
+        {
+          "dates": ["11/01/2008"],
+          "place": "Centre d’études supérieures de la Renaissance (CESR), Tours",
+          "label": "Autour de l’algèbre de Pedro Nuñez"
+        },
+        {
+          "dates": ["06/01/2013"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Les calculatores d’Oxford",
+          "details": [
+            {
+              "value": "Séminaire Sciences et philosophie de l’Antiquité à l’Age classique"
+            }
+          ]
+        },
+        {
+          "dates": ["15/04/2013"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Algèbre arabe, algèbre au Moyen Age latin et à la Renaissance",
+          "details": [
+            {
+              "value": "Séminaire Histoire et philosophie des mathématiques"
+            },
+            {
+              "key": "organisé avec",
+              "value": "Odile Kouteynikoff (Laboratoire SPHERE)"
+            }
+          ]
+        },
+        {
+          "dates": ["05/12/2013"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "La notion de nature au Moyen-Âge",
+          "details": [
+            {
+              "value": "Séminaire Sciences et Philosophie de l’Antiquité à l’Age classique"
+            }
+          ]
+        },
+        {
+          "dates": ["16/01/2014"],
+          "place": "Espace Mendès France, Poitiers",
+          "label": "Cadres théoriques en confrontation avec la nature et l’expérience au Moyen Age"
+        },
+        {
+          "dates": ["07/04/2014"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Algèbres arabes et gréco-latines du IXe au XVIe siècles",
+          "details": [
+            {
+              "value": "Séminaire d’histoire des mathématiques"
+            }
+          ]
+        },
+        {
+          "dates": ["15/01/2015"],
+          "place": "Espace Mendès France, Poitiers",
+          "label": "Les libertés de la pensée médiévale"
+        },
+        {
+          "dates": ["14/01/2016"],
+          "place": "Espace Mendès France, Poitiers",
+          "label": "L’apport de la science et de la philosophie arabe à l’Europe occidentale"
+        },
+        {
+          "dates": ["12/01/2017"],
+          "place": "Espace Mendès France, Poitiers",
+          "label": "Le legs médiéval : héritage humaniste des érudits arabes et latins du Moyen Age"
+        },
+        {
+          "dates": ["21/06/2018"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Peut-on parler de la génération comme d’un mouvement ?",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Daniel Di Liscia (Université de Munich)"
+            }
+          ]
+        },
+        {
+          "dates": ["18/10/2018"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (XIIIe - XIVe siècle)",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Aurora Panzica (Fonds National Suisse de la Recherche Scientifique)"
+            }
+          ]
+        },
+        {
+          "dates": ["06/06/2019"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Le temps dans la physique du XIVe siècle",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Daniel Di Liscia (Université de Munich)"
+            }
+          ]
+        },
+        {
+          "dates": ["27/02/2020"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Méthodologies pour l’édition critique de textes mathématiques et philosophiques de l’Antiquité",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Valérie Cordonier (Laboratoire SPHERE)"
+            }
+          ]
+        },
+        {
+          "dates": ["23/06/2022"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Problemata de philosophie naturelle : l’imaginaire, le merveilleux, le quotidien",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Aurora Panzica (Fonds National Suisse de la Recherche Scientifique)"
+            }
+          ]
+        },
+        {
+          "dates": ["16/03/2023"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "La perfection des espèces et le fondement métaphysique de la science médiévale",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Daniel Di Liscia (Université de Munich)"
+            }
+          ]
+        },
+        {
+          "dates": ["14/02/2024"],
+          "place": "Institut AUSONIUS, Bordeaux",
+          "label": "Les problemata en langues vernaculaires",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Aurora Panzica (Fonds National Suisse de la Recherche Scientifique)"
+            }
+          ]
+        },
+        {
+          "dates": ["23/05/2024"],
+          "place": "Université Bordeaux-Montaigne, Bordeaux",
+          "label": "Sciences et savoirs en Aquitaine à l’époque de Montaigne",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Anne Boucharain (Université Bordeaux-Montaigne) et Violaine Giacomotto-Charra (Université Bordeaux-Montaigne)"
+            }
+          ]
+        },
+        {
+          "dates": ["13/01/2025"],
+          "place": "Université Bordeaux-Montaigne, Bordeaux",
+          "label": "Les sources de Jacques Almain pour son traitement de la quantité dans les Embammata Pysicialia",
+          "details": [
+            {
+              "key": "organisé avec",
+              "value": "Daniel Di Liscia (Université de Munich)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Conférences invitées dans des congrès internationaux",
+      "content": [
+        {
+          "dates": ["12/1990"],
+          "place": "Alger",
+          "label": "Ahmad ibn Yusuf et son <i>Traité sur la proportion et la proportionnalité</i>",
+          "details": [
+            {
+              "value": "Troisième colloque maghrébin sur l'histoire des mathématiques"
+            }
+          ]
+        },
+        {
+          "dates": ["12/1994"],
+          "place": "Hammamet",
+          "label": "Les débats autour de la définition de la proportionnalité du livre V des <i>Eléments</i> d'Euclide dans les traditions arabe et latine du xe au xviie siècle",
+          "details": [
+            {
+              "value": "Cinquième colloque maghrébin sur l'histoire des mathématiques"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "20/07/1998", "endDate": "26/07/1998" }],
+          "place": "Les Treilles",
+          "label": "La proportionnalité arithmétique dans le livre VII de l’édition de Campanus des <i>Eléments</i> d’Euclide",
+          "details": [
+            {
+              "value": "Colloque international « History and Philosophy of Greek Mathematics »"
+            }
+          ]
+        },
+        {
+          "dates": ["04/2001"],
+          "place": "Lyon",
+          "label": "Les introductions aux <i>Éléments</i> d’Euclide au Moyen-Age et à la Renaissance",
+          "details": [
+            {
+              "value": "Colloque international « Méthodes et statut des sciences au Moyen-Age et à la Renaissance »"
+            }
+          ]
+        },
+        {
+          "dates": ["03/2002"],
+          "place": "Lille",
+          "label": "L’incommensurabilité de la diagonale et du côté d’un carré dans les <i>Questiones</i> de Blaise de Parme sur le traité des proportions de Bradwardine",
+          "details": [
+            { "key": "en collaboration avec", "value": "Joël Biard" },
+            {
+              "value": "Colloque international « La réception des Eléments d’Euclide au Moyen Age et à la Renaissance »"
+            }
+          ]
+        },
+        {
+          "dates": ["01/2004"],
+          "place": "Barcelone",
+          "label": "Le commentaire de Clavius aux <i>Éléments</i> d’Euclide (1589) : structure et enjeux",
+          "details": [
+            {
+              "value": "Col-loquis d’Historia de la Cienca i de la Tecnica"
+            }
+          ]
+        },
+        {
+          "dates": ["10/2005"],
+          "place": "Paris",
+          "label": "La sphère touche le plan en un point : une question mathématique ?",
+          "details": [
+            {
+              "value": "Colloque international en l’honneur de Gérard Simon"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "24/11/2006", "endDate": "25/11/2006" }],
+          "place": "Centre d’études supérieures de la Renaissance (CESR), Tours",
+          "label": "Le <i>De continuo</i> de Thomas Bradwardine : ouvrage mathématique ou de philosophie naturelle ?",
+          "details": [
+            {
+              "value": "Colloque international « Formes d’articulation entre mathématiques et philosophie naturelle (xive – xvie siècles)"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "24/04/2007", "endDate": "27/04/2007" }],
+          "place": "Clermont Ferrand",
+          "label": "Eléments d’une nouvelle théorie des rapports au XIVe siècle",
+          "details": [
+            {
+              "value": "Colloque international « Traditions euclidiennes »"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "18/10/2007", "endDate": "21/10/2007" }],
+          "place": "Grenade",
+          "label": "Objets mathématiques, objets physiques dans des traités du xive et du xve siècles",
+          "details": [
+            {
+              "value": "Colloque final du programme « From Natural Philosophy to Science » de l’ESF"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "25/10/2007", "endDate": "27/10/2007" }],
+          "place": "Paris",
+          "label": "La théorie des rapports de rapports de Pedro Nuñez",
+          "details": [
+            {
+              "value": "Congrès de la SISM (Société italienne d’histoire des mathématiques)"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "03/06/2008", "endDate": "07/06/2008" }],
+          "place": "Villejuif",
+          "label": "Types de démonstration des des traités de philosophie naturelle des XIVe et XVe siècles",
+          "details": [
+            {
+              "value": "Colloque « Démonstration »"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "30/06/2008", "endDate": "04/07/2008" }],
+          "place": "Centre d’Études Supérieures de la Renaissance (CESR), Tours",
+          "label": "De la proportion au rapport",
+          "details": [
+            {
+              "value": "LIe Colloque d’études humanistes, « Proportions »"
+            },
+            {
+              "key": "organisé avec",
+              "value": "Philippe Vendrix et Vasco Zara"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "27/01/2009", "endDate": "30/01/2009" }],
+          "place": "Université Paris 4, Paris",
+          "label": "La constitution d’un vocabulaire mathématique dans les traductions des <i>Éléments</i> d’Euclide du XIIe siècle",
+          "details": [
+            {
+              "key": "dans",
+              "value": "<i>Sciences et langues au Moyen Âge</i>, atelier franco-allemand, organisé par Joëlle Ducos et Raymund Wilhelm"
+            },
+            {
+              "key": "organisé par",
+              "value": "Joëlle Ducos et Raymund Wilhelm"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "13/05/2009", "endDate": "15/05/2009" }],
+          "place": "Tours",
+          "label": "Qu’est-ce qu’algèbre pour Christoph Clavius ?",
+          "details": [
+            {
+              "value": "Colloque « Unité et pluralité de l’algèbre »"
+            },
+            {
+              "key": "organisé par",
+              "value": "Sabine Rommevaux-Tani"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "14/07/2009", "endDate": "17/07/2009" }],
+          "place": "Elati, Grèce",
+          "label": "The transmission of Euclid’s <i>Elements</i> to Latin West",
+          "details": [
+            {
+              "value": "Summer research seminar of the project <i>Hephaestus</i>, the Programme of History, Philosophy and Didactics of Science and Technology (HPDST) of the National Hellenic Research Foundation"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "18/09/2009", "endDate": "19/09/2009" }],
+          "place": "Urbino, Italie",
+          "label": "La versione commandiniana degli “Elementi” di Euclide",
+          "details": [
+            {
+              "value": "Convegno internazionale « Federico Commandino (1509-1975): Umanesimo e Matematica nel Rinascimento Urbinate »"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "21/10/2010", "endDate": "22/10/2010" }],
+          "place": "Toulouse",
+          "label": "Question d’une mathématicienne à l’histoire des mathématiques : Qu’est-ce que l’algèbre à la Renaissance ?",
+          "details": [
+            {
+              "value": "Colloque d’histoire des mathématiques en l’honneur de Maryvonne Spiesser"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "08/12/2010", "endDate": "10/12/2010" }],
+          "place": "Centre d’Études Supérieures de la Renaissance (CESR), Tours",
+          "label": "Les préfaces des traités mathématiques de Clavius",
+          "details": [
+            {
+              "value": "Colloque international « Ce que les mathématiciens de la Renaissance disent des mathématiques et de leurs applications »"
+            },
+            {
+              "key": "organisé avec",
+              "value": "Maryvonne Spiesser et Maria-Rosa Massa-Estève"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "16/12/2010", "endDate": "17/12/2010" }],
+          "place": "All Souls College, Oxford",
+          "label": "Studies on Euclid’s <i>Elements</i> and their reception in Middle Ages",
+          "details": [
+            {
+              "value": "Colloque international « The history of the history of mathematics »"
+            },
+            {
+              "key": "organisé par",
+              "value": "Benjamin Wardhaugh"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "19/11/2012", "endDate": "22/11/2012" }],
+          "place": "Pise",
+          "label": "Les liens entre arithmétique et algèbre dans l’Algebra de Christoph Clavius",
+          "details": [
+            {
+              "value": "Colloque international « Algebra and Arithmetic during the Sixteenth and the Seventeenth centuries »"
+            }
+          ]
+        },
+        {
+          "dates": ["19/10/2012"],
+          "place": "Rome",
+          "label": "La place de l’Algebra (1608) de Clavius dans les développements de l’algèbre au XVIe siècle",
+          "details": [
+            {
+              "value": "Colloque « 400° ANNIVERSARIO DI CHRISTOPHORUS CLAVIUS Princeps mathematicorum nostri temporis »"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "13/12/2012", "endDate": "15/12/2012" }],
+          "place": "Centre d’études de la traduction, Paris",
+          "label": "Enjeux des traductions de textes médiévaux latins de philosophie naturelle",
+          "details": [
+            {
+              "value": "Colloque « Traduction et innovation »"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "17/06/2013", "endDate": "19/06/2013" }],
+          "place": "Pise",
+          "label": "La réduction syllogistique des livres I à VI des <i>Éléments</i> par Dasypodius. Méthodes et enjeux",
+          "details": [
+            {
+              "value": "Congrès international « Geometry and Logic. The Shape of Mathematical Proof from Antiquity to the Early Modern Age »"
+            },
+            {
+              "key": "organisé par",
+              "value": "le Max Planck Institut (Berlin) et la Scuola Normale Superiore (Pise)"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "10/10/2013", "endDate": "12/10/2013" }],
+          "place": "Université de Turin, Turin",
+          "label": "Réception des travaux des algébristes italiens par quelques algébristes européens du XVIe siècle",
+          "details": [
+            {
+              "value": "Congrès international « Mathematical Schools and National Identity in Modern and Contemporary Italy »"
+            },
+            {
+              "key": "organisé par le",
+              "value": "Département de mathématiques « Giuseppe Peano »"
+            }
+          ]
+        },
+        {
+          "dates": ["25/03/2014"],
+          "place": "Berlin",
+          "label": "L’enseignement de la géométrie par Conrad Dasypodius, à Strasbourg, au XVIe siècle",
+          "details": [
+            {
+              "value": "Colloquium du Max Planck Institut"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "04/11/2015", "endDate": "06/11/2015" }],
+          "place": "Marseille",
+          "label": "Michael Stifel lecteur de la Practica arithmetice de Cardano",
+          "details": [
+            {
+              "value": "Colloque international « Histoire et philosophie des mathématiques et disciplines associées en Méditerranée »"
+            }
+          ]
+        },
+        {
+          "dates": ["20/05/2017"],
+          "place": "Departmento de Matemática, Universidade de Aveiro, Aveiro",
+          "label": "Statut de la géométrie dans l’Arithmetica integra de Stifel",
+          "details": [
+            {
+              "value": "1st Annual Workshop of the History of Mathematics Group"
+            }
+          ]
+        },
+        {
+          "dates": ["19/10/2017"],
+          "place": "Munich Center for Mathematical Philosophy, Université de Munich, Munich",
+          "label": "Demonstration styles in natural philosophy and mathematics in the 14th and 15th centuries",
+          "details": [
+            {
+              "value": "Colloquium in Philosophy, Logic and Philosophy of Science"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "16/11/2017", "endDate": "17/11/2017" }],
+          "place": "Centre d’Études Supérieures de la Renaissance (CESR), Tours",
+          "label": "Considérations sur l’altération, l’augmentation et le mouvement local dans la seconde rédaction des Questions de Blaise de Parme sur le livre VII de la Physique",
+          "details": [
+            {
+              "value": "Colloque international « Blaise de Parme : Physique et psychologie »"
+            },
+            {
+              "key": "organisé par",
+              "value": "Joël Biard et Aurélien Robert"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "23/05/2018", "endDate": "25/05/2018" }],
+          "place": "Munich",
+          "label": "Les questions sur le mouvement local dans le traité anonyme <i>De sex inconvenientibus</i>",
+          "details": [
+            {
+              "value": "Colloque international « Quantifying Aristotle. The impact, spread and decline of the <i>Calculatores</i> tradition »"
+            },
+            {
+              "key": "organisé par",
+              "value": "Daniel Di Liscia"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "18/11/2021", "endDate": "19/11/2021" }],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "La science mathématique dans les <i>Questiones mathematice</i> de Raoul le Breton",
+          "details": [
+            {
+              "key": "en collaboration avec",
+              "value": "Aurélien Robert (Laboratoire SPHERE)"
+            },
+            {
+              "value": "Colloque international « Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13e siècle »"
+            },
+            {
+              "key": "organisé avec",
+              "value": "Iacopo Costa (LEM), Ana Maria Mora Marquez (Université de Gothenburg), Laurent Cessali (Université de Genève)"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "18/01/2021", "endDate": "22/01/2021" }],
+          "place": "Observatoire de Paris",
+          "label": "Rôle de la géométrie dans l’Arithmetica integra de Michael Stifel",
+          "details": [
+            {
+              "value": "Workshop international « Geometrical reasoning and visual culture – shaping astronomy and other scientiae mediae »"
+            },
+            { "key": "organisé par", "value": "Samuel Gesner" }
+          ]
+        },
+        {
+          "dates": ["05/11/2021"],
+          "place": "Université de Munich, Munich",
+          "label": "The paradoxes caused by the different ways of determining the speed of motion in the anonymous treatise <i>De sex inconvenientibus</i>.",
+          "details": [
+            {
+              "value": "Workshop international « The Concept of Motion in Late Medieval Philosophy »"
+            },
+            { "key": "organisé par", "value": "Daniel Di Liscia" }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "01/09/2022", "endDate": "30/11/2022" }],
+          "place": "Université de Leuven, Leuven",
+          "label": "A Science of mathematicalia in the <i>Questiones mathematice</i> of Radulphus Brito",
+          "details": [
+            {
+              "value": "Série de workshops internationaux « Premodern Mathematical Thought »"
+            },
+            { "key": "organisé par", "value": "Clelia Crialesi" }
+          ]
+        },
+        {
+          "dates": ["17/03/2023"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "L’œuvre mathématique d’Elie Vinet, humaniste, enseignant au collège de Guyenne à Bordeaux",
+          "details": [
+            {
+              "value": "Séminaire Mathématiques de l’Antiquité à l’Âge classique"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "28/06/2023", "endDate": "29/06/2023" }],
+          "place": "Paris",
+          "label": "Nombre du philosophe, nombre du mathématicien",
+          "details": [
+            {
+              "value": "Colloque international « Quid sit numerus ? Théories et conceptualisations du nombre au Moyen Âge et à la Renaissance »"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "29/11/2023", "endDate": "01/12/2023" }],
+          "place": "Genève",
+          "label": "Les mathématiques et les sciences au temps de Philippe de Vitry",
+          "details": [
+            {
+              "value": "Colloque international « Philippe de Vitry en son temps »"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "09/10/2024", "endDate": "10/10/2024" }],
+          "place": "Florence",
+          "label": "Réflexions sur l’enseignement de la géométrie à l’université de Paris, aux XIIIe et XIVe s",
+          "details": [
+            {
+              "value": "Colloque international « Surveying the Realm of Medieval Geometry (XII-XV c.) »"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "14/11/2024", "endDate": "15/11/2024" }],
+          "place": "Zurich",
+          "label": "Les sources de l’historien pour appréhender l’enseignement de la géométrie à l’université de Paris au Moyen Âge",
+          "details": [
+            {
+              "value": "Colloque de la RHM"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "18/11/2024", "endDate": "19/11/2024" }],
+          "place": "Université Paris Cité, Paris",
+          "label": "Les <i>Éléments</i> d’Euclide comme manuel d’enseignement au Moyen Âge et à la Renaissance",
+          "details": [
+            {
+              "value": "Colloque international « Euclid in the Modern Age, A History of Cross-Cultural Transmissions, Translations and Transformations of the Elements »"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "18/03/2026", "endDate": "19/03/2026" }],
+          "place": "Paris",
+          "label": "Les <i>Questiones breves</i> issues des <i>Questiones super physicam (ultima lectura)</i> de Buridan",
+          "details": [
+            {
+              "value": "Colloque « Les commentaires de la <i>Physique</i> de la Bibliotheca Amploniana d’Erfurt »"
+            },
+            { "key": "organisé par", "value": "Nicolas Weill-Parot" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Autres conférences",
+      "content": [
+        {
+          "dates": ["06/2000"],
+          "place": "Lille, Maison de la Recherche",
+          "label": "L'irrationnalité dans la recension des <i>Éléments</i> de Campanus",
+          "details": [
+            {
+              "key": "organisé par",
+              "value": "Sabine Rommevaux-Tani"
+            },
+            {
+              "value": "Séminaire d’Histoire des mathématiques"
+            }
+          ]
+        },
+        {
+          "dates": ["06/2000"],
+          "place": "REHSEIS, Paris",
+          "label": "Le commentaire de Campanus aux <i>Éléments</i> d’Euclide : l’exemple de l’irrationalité",
+          "details": [
+            {
+              "value": "Journée d’études internationale sur la « Pratique des commentaires en mathématiques »"
+            },
+            {
+              "key": "organisée dans le cadre du",
+              "value": "Séminaire « Histoire des sciences, histoire du texte »"
+            }
+          ]
+        },
+        {
+          "dates": ["10/2002"],
+          "place": "Lille",
+          "label": "Présentation générale du commentaire de Clavius au livre V des <i>Éléments</i>",
+          "details": [
+            {
+              "value": "Séminaire d’histoire des mathématiques : Antiquité, Moyen Âge, Renaissance"
+            },
+            {
+              "key": "organisé avec",
+              "value": "Bernard Vitrac, Ahmed Djebbar"
+            }
+          ]
+        },
+        {
+          "dates": ["11/2002"],
+          "place": "Lille",
+          "label": "La théorie des médiétés dans l’Arithmétique de Jordanus, le commentaire de Clavius aux <i>Éléments</i>, et l’Algèbre de Clavius",
+          "details": [
+            {
+              "value": "Séminaire d’histoire des mathématiques : Antiquité, Moyen Âge, Renaissance"
+            },
+            {
+              "key": "organisé avec",
+              "value": "Bernard Vitrac, Ahmed Djebbar"
+            }
+          ]
+        },
+        {
+          "dates": ["12/2002"],
+          "place": "Lille",
+          "label": "La définition de la similitude des rapports dans le commentaire de Clavius au livre V des <i>Éléments</i>",
+          "details": [
+            {
+              "value": "Journée d’études internationale sur « Le livre V des <i>Éléments</i> d’Euclide »"
+            }
+          ]
+        },
+        {
+          "dates": ["04/2003"],
+          "place": "Lille",
+          "label": "Le <i>De continuo</i> de Thomas Bradwardine",
+          "details": [
+            {
+              "value": "Journées d’étude internationale sur la question du continu"
+            }
+          ]
+        },
+        {
+          "dates": ["05/2003"],
+          "place": "Tours",
+          "label": "Les règles du mouvement de Blaise de Parme",
+          "details": [
+            {
+              "value": "Journées d’études internationale sur le mouvement"
+            }
+          ]
+        },
+        {
+          "dates": ["04/2004"],
+          "place": "Poitiers",
+          "label": "Les paradoxes de la mathématisation du continu au XVIe siècle",
+          "details": [
+            {
+              "value": "Congrès d’histoire des sciences et des techniques"
+            }
+          ]
+        },
+        {
+          "dates": ["05/2004"],
+          "place": "IHP",
+          "label": "Mathématiques et mouvement aux XIVe et XVe siècles",
+          "details": [
+            {
+              "value": "Journée d’études « Mathématiques et philosophie de la nature au Moyen Âge »"
+            },
+            {
+              "key": "organisée par",
+              "value": "Sabine Rommevaux-Tani"
+            },
+            {
+              "key": "dans le cadre du",
+              "value": "Séminaire d’Histoire des mathématiques de l’IHP"
+            }
+          ]
+        },
+        {
+          "dates": ["11/2005"],
+          "place": "Université de Nantes",
+          "label": "La question du mouvement aux XIVe et XVe siècles",
+          "details": [
+            {
+              "value": "Séminaire d’histoire des mathématiques"
+            }
+          ]
+        },
+        {
+          "dates": ["12/2005"],
+          "place": "Université Lille 3, Lille",
+          "label": "Le calcul sur les rapports de rapports dans les traités de Nicole Oresme",
+          "details": [
+            {
+              "value": "Séminaire « Les mathématiques grecques anciennes et leur postérité »"
+            }
+          ]
+        },
+        {
+          "dates": ["06/04/2007"],
+          "place": "IHP",
+          "label": "Les enjeux pédagogiques dans le commentaire de Clavius aux <i>Éléments</i> d’Euclide",
+          "details": [
+            {
+              "key": "dans le cadre du",
+              "value": "Séminaire de l’IHP « Les <i>Éléments</i> d’Euclide à la Renaissance : un texte d’enseignement ? »"
+            },
+            {
+              "key": "organisé par",
+              "value": "Alain Bernard et Christine Proust"
+            }
+          ]
+        },
+        {
+          "dates": ["15/06/2007"],
+          "place": "Tours",
+          "label": "Les quantités irrationnelles dans l’Algèbre de Clavius",
+          "details": [
+            {
+              "value": "Journée d’études internationale « Algébrisation du livre X des <i>Éléments</i> d’Euclide »"
+            }
+          ]
+        },
+        {
+          "dates": ["02/2008"],
+          "place": "Paris",
+          "label": "Qu’est-ce qu’un rapport ? : les réponses de Campanus et de Blaise de Parme",
+          "details": [
+            {
+              "value": "Séminaire « Épistémologie et histoire des idées mathématiques »"
+            }
+          ]
+        },
+        {
+          "dates": ["06/06/2008"],
+          "place": "Toulouse",
+          "label": "La question des liens entre algèbre, arithmétique et géométrie, ou comment l’algèbre fait éclater la dichotomie entre les disciplines",
+          "details": [
+            {
+              "value": "Journée d’études « Réflexions autour du <i>Libro de algebra</i> de Pedro Nuñez »"
+            },
+            {
+              "key": "organisée par",
+              "value": "Maryvonne Spiesser"
+            }
+          ]
+        },
+        {
+          "dates": ["13/11/2008"],
+          "place": "Lille",
+          "label": "Les applications de l’algèbre à l’arithmétique et à la géométrie dans le <i>Libro de algebra en arithmetica y geometria</i> de Pedro Nuñez (1567)",
+          "details": [
+            {
+              "value": "Séminaire d’histoire des mathématiques"
+            }
+          ]
+        },
+        {
+          "dates": ["06/02/2009"],
+          "place": "Centre d’Études Supérieures de la Renaissance (CESR), Tours",
+          "label": "Sources grecques et latines dans le commentaire de Clavius aux <i>Éléments</i> d’Euclide",
+          "details": [
+            {
+              "value": "Journée d’études « Articulation entre textes antiques et tradition médiévale dans le domaine scientifique à la Renaissance »"
+            },
+            {
+              "key": "organisée avec",
+              "value": "Jacqueline Vons"
+            }
+          ]
+        },
+        {
+          "dates": ["19/06/2009"],
+          "place": "Limoges",
+          "label": "La théorie des proportions dans l’arithmétique de Stifel",
+          "details": [
+            {
+              "value": "Journée d’études autour de l’algèbre de Stifel"
+            },
+            {
+              "key": "organisée par",
+              "value": "François Loget"
+            }
+          ]
+        },
+        {
+          "dates": ["28/09/2009"],
+          "place": "Lisbonne, Portugal",
+          "label": "La théorie des proportions dans le <i>Liber de triplici motu</i> d’Alvarus Thomas",
+          "details": [
+            {
+              "value": "Journée d’étude sur Alvarus Thomas"
+            },
+            {
+              "key": "organisée par",
+              "value": "Henrique Leitao"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "16/11/2009", "endDate": "17/11/2009" }],
+          "place": "Tours",
+          "label": "Théorie du vide chez Blaise de Parme",
+          "details": [
+            {
+              "value": "Journée d’étude « La physique du vide au Moyen Âge »"
+            },
+            {
+              "key": "organisée par",
+              "value": "Joël Biard"
+            }
+          ]
+        },
+        {
+          "dates": ["06/01/2010"],
+          "place": "Limoges",
+          "label": "Pourquoi étudier une théorie de l’aimant erronée du XIVe siècle ?",
+          "details": [
+            {
+              "value": "Séminaire d’histoire des sciences"
+            },
+            {
+              "key": "organisé par",
+              "value": "François Loget"
+            }
+          ]
+        },
+        {
+          "dates": ["20/09/2010"],
+          "place": "Toulouse",
+          "label": "La lecture arithmétique du Livre X des <i>Éléments</i> d’Euclide par Stifel",
+          "details": [
+            {
+              "value": "Journée d’études « Autour de l’Arithmetica integra de Stifel (1544) : deuxième partie »"
+            },
+            {
+              "key": "organisée par",
+              "value": "Maryvonne Spiesser"
+            }
+          ]
+        },
+        {
+          "dates": ["07/04/2011"],
+          "place": "Université de Limoges, Limoges",
+          "label": "Christoph Clavius lecteur de l’Arithmetica integra de Michael Stifel",
+          "details": [
+            {
+              "value": "Séminaire « Autour de l’Arithmetica integra de Michael Stifel »"
+            },
+            {
+              "key": "organisé par",
+              "value": "François Loget"
+            }
+          ]
+        },
+        {
+          "dates": ["24/02/2012"],
+          "place": "Maison Française d’Oxford",
+          "label": "La réception des Calculatores d’Oxford en France et en Italie : quelques exemples",
+          "details": [
+            {
+              "value": "History of Science Seminar"
+            }
+          ]
+        },
+        {
+          "dates": ["04/04/2012"],
+          "place": "All Souls College, Oxford",
+          "label": "L’irrationalité des nombres dans l’arithmétique de Stevin",
+          "details": [
+            {
+              "value": "Journée d’étude sur l’algèbre à la Renaissance"
+            },
+            {
+              "key": "organisée par",
+              "value": "Sabine Rommevaux-Tani"
+            }
+          ]
+        },
+        {
+          "dates": ["25/06/2012"],
+          "place": "Oxford, Queen’s College",
+          "label": "Fernel’s <i>De proportionibus libri duo</i> (1528)",
+          "details": [
+            {
+              "value": "History of Mathematics Seminar"
+            },
+            {
+              "key": "organisé par",
+              "value": "Jackie Stedall"
+            }
+          ]
+        },
+        {
+          "dates": ["26/10/2012", "16/11/2012"],
+          "place": "Université Paris 7, Paris",
+          "label": "Le <i>De proportionibus libri duo</i> de Jean Fernel (1528)",
+          "details": [
+            {
+              "value": "Séminaire d’histoire des mathématiques à la Renaissance, deux séances"
+            },
+            {
+              "key": "organisé avec",
+              "value": "Odile Kouteynikoff"
+            }
+          ]
+        },
+        {
+          "dates": ["06/01/2013"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Six inconvénients découlant de la règle du mouvement de Thomas Bradwardine dans un texte anonyme du XIVe siècle",
+          "details": [
+            {
+              "value": "Journée d’études sur « Les calculatores d’Oxford »"
+            },
+            {
+              "key": "dans le cadre du",
+              "value": "Séminaire Sciences et philosophie de l’Antiquité à l’Âge classique"
+            }
+          ]
+        },
+        {
+          "dates": ["26/03/2013"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Commandino, éditeur des <i>Éléments</i> d’Euclide au XVIe siècle, entre sources grecques et latines et préoccupations de mathématicien",
+          "details": [
+            {
+              "value": "Séminaire « Circulation et traductions des savoirs »"
+            }
+          ]
+        },
+        {
+          "dates": ["25/04/2013"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Une question sur le magnétisme dans un texte anonyme du XIVe siècle",
+          "details": [
+            {
+              "value": "Séminaire « Modèles de transmission physique dans la tradition péripatéticienne »"
+            }
+          ]
+        },
+        {
+          "dates": ["05/06/2013"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Une arithmétique des nombres cossiques chez Stifel et Clavius, algébristes du XVIe siècle",
+          "details": [
+            {
+              "value": "Séminaire « Lecture de textes mathématiques »"
+            }
+          ]
+        },
+        {
+          "dates": ["05/12/2013"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Le terme “natura” dans quelques textes de Blaise de Parme",
+          "details": [
+            {
+              "value": "Séminaire Sciences et Philosophie de l’Antiquité à l’Âge classique"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "04/11/2013", "endDate": "11/11/2013" }],
+          "place": "Marseille",
+          "label": "Qu’est-ce qu’un corpus mathématique au Moyen Âge latin ?",
+          "details": [
+            {
+              "value": "École thématique du CNRS « Sources en histoire des mathématiques »"
+            },
+            {
+              "key": "organisée par le",
+              "value": "GDR Histoire des mathématiques"
+            }
+          ]
+        },
+        {
+          "dates": ["16/01/2014"],
+          "place": "Espace Mendès France, Poitiers",
+          "label": "Une théorie en apparente contradiction avec les résultats de l’expérience : le magnétisme",
+          "details": [
+            {
+              "value": "Journée d’études « Cadres théoriques en confrontation avec la nature et l’expérience au Moyen Âge »"
+            }
+          ]
+        },
+        {
+          "dates": ["10/02/2014"],
+          "place": "ENS Ulm",
+          "label": "Mode d’argumentations dans les écrits mathématiques de l’Occident médiéval latin",
+          "details": [
+            {
+              "value": "Séminaire « L’argumentation scientifique au Moyen Âge »"
+            }
+          ]
+        },
+        {
+          "dates": ["14/02/2014"],
+          "label": "L’usage de la théorie des rapports dans la construction des logarithmes par Johannes Kepler dans le <i>Chilias logarithmorum</i> (1624)",
+          "details": [
+            {
+              "value": "Séminaire d’histoire des mathématiques à la Renaissance"
+            }
+          ]
+        },
+        {
+          "dates": ["07/03/2014"],
+          "place": "Université Bordeaux Montaigne, Bordeaux",
+          "label": "Exemples d’écrits mathématiques dans l’Occident médiéval latin",
+          "details": [
+            {
+              "value": "Séminaire « Formes du savoir »"
+            }
+          ]
+        },
+        {
+          "dates": ["03/04/2014"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Discussions médiévales sur le vide, en particulier dans les Questions sur la physique de Blaise de Parme (XIVe s.)",
+          "details": [
+            {
+              "value": "Groupe de travail des doctorants en histoire et philosophie de la physique de SPHERE"
+            }
+          ]
+        },
+        {
+          "dates": ["07/04/2014"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Démonstrations géométriques des algorithmes de résolution des équations du second degré : al-Khwarizmi, Abu Kamil, Nuñez",
+          "details": [
+            {
+              "value": "Séminaire d’histoire des mathématiques"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "28/04/2014", "endDate": "30/04/2014" }],
+          "place": "Lyon",
+          "label": "Conrad Dasypodius, professeur de mathématiques à Strasbourg, au XVIe siècle",
+          "details": [
+            {
+              "value": "Congrès de la SFHST"
+            }
+          ]
+        },
+        {
+          "dates": ["19/05/2014"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Les nouvelles théories des rapports mathématiques du XIVe au XVIe siècle",
+          "details": [
+            {
+              "value": "Séminaire d’histoire et de philosophie des mathématiques"
+            }
+          ]
+        },
+        {
+          "dates": ["28/05/2014"],
+          "place": "Queen’s College, Oxford",
+          "label": "A theory of measure of ratios in Kepler’s <i>Chilias logarithmorum</i> (1624)",
+          "details": [
+            {
+              "value": "Séminaire d’histoire des mathématiques"
+            }
+          ]
+        },
+        {
+          "dates": ["12/11/2014"],
+          "place": "Université Paris 6, Paris",
+          "label": "Projets pédagogiques de Dasypodius, enseignant de mathématiques à Strasbourg au XVIe siècle",
+          "details": [
+            {
+              "value": "Séminaire Histoire des sciences mathématiques"
+            }
+          ]
+        },
+        {
+          "dates": ["15/01/2015"],
+          "place": "Espace Mendès France, Poitiers",
+          "label": "Penser le vide malgré l’interdit aristotélicien",
+          "details": [
+            {
+              "value": "Journée d’études « Les libertés de la pensée médiévale »"
+            }
+          ]
+        },
+        {
+          "dates": ["18/03/2015"],
+          "place": "Grenoble",
+          "label": "Pourquoi faire des mathématiques au Moyen Âge ?",
+          "details": [
+            {
+              "value": "Semaine des mathématiques"
+            },
+            {
+              "key": "organisée par l'",
+              "value": "Académie de Grenoble"
+            }
+          ]
+        },
+        {
+          "dates": ["17/04/2015"],
+          "label": "La résolution des équations du troisième degré par Simon Stevin dans l’Arithmetique (1585) : des avancées significatives par rapport à l’exposé de G. Cardano dans l’Ars magna (1545)",
+          "details": [
+            {
+              "value": "Séminaires Mathématiques arabes – Mathématiques à la Renaissance"
+            }
+          ]
+        },
+        {
+          "dates": ["15/06/2015"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Considérations sur le travail de Campanus (XIIIe siècle) concernant les principes des <i>Éléments</i> d’Euclide et quelques exemples de sa diffusion au XVIe siècle",
+          "details": [
+            {
+              "value": "Séminaire d’histoire et de philosophie des mathématiques"
+            }
+          ]
+        },
+        {
+          "dates": ["07/10/2015"],
+          "place": "ENS",
+          "label": "Pourquoi Gérard Simon m’a-t-il suggéré d’étudier la construction keplérienne des logarithmes ?",
+          "details": [
+            {
+              "value": "Journée d’études « Gérard Simon, le philosophe et l’historien »"
+            }
+          ]
+        },
+        {
+          "dates": ["15/12/2015"],
+          "place": "Université de Lille, Lille",
+          "label": "Sur un traité anonyme représentatif d’une physique développée à Oxford au XIVe siècle",
+          "details": [
+            {
+              "value": "Archeologia Scientiae, Séminaire de philosophie et histoire des sciences"
+            }
+          ]
+        },
+        {
+          "dates": ["14/01/2016"],
+          "place": "Espace Mendès France, Poitiers",
+          "label": "Modes de transmission de la science et de la philosophie arabe à l’Occident latin",
+          "details": [
+            {
+              "value": "Journée d’études « L’apport de la Science arabe à l’Occident latin »"
+            }
+          ]
+        },
+        {
+          "dates": ["20/10/2016"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Expériences de pensée et recours aux « experimenta » dans un texte de philosophie naturelle anonyme du XIVe siècle, le <i>De sex inconvenientibus</i>",
+          "details": [
+            {
+              "value": "Journée d’études « Place de l’étrange, du surprenant, de l’inexplicable dans le corpus des textes médiévaux en langue arabe, persane et latine (1) : L’examen de l’attitude des savants »"
+            },
+            {
+              "key": "dans le cadre du",
+              "value": "Séminaire « Sciences et philosophie de l’Antiquité à l’Âge classique »"
+            }
+          ]
+        },
+        {
+          "dates": ["18/11/2016"],
+          "label": "Les rôles des figures dans l’Arithmetica Integra de Michael Stifel (1544)",
+          "details": [
+            {
+              "key": "en collaboration avec",
+              "value": "Odile Kouteynikoff"
+            },
+            {
+              "value": "Séminaire d’histoire des mathématiques à la Renaissance"
+            }
+          ]
+        },
+        {
+          "dates": ["12/01/2017"],
+          "place": "Espace Mendès France, Poitiers",
+          "label": "Ce que les éditeurs des <i>Éléments</i> d’Euclide à la Renaissance doivent à ce « barbare » de Campanus",
+          "details": [
+            {
+              "value": "Journée d’études « Le legs médiéval : héritage humaniste des érudits arabes et latins du Moyen Âge »"
+            },
+            {
+              "key": "organisée par",
+              "value": "Sabine Rommevaux-Tani"
+            }
+          ]
+        },
+        {
+          "dates": ["23/02/2017"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Une théorie de la mesure des rapports dans le <i>Chilias Logarithmorum</i> de Kepler (1624) : un ancrage médiéval",
+          "details": [
+            {
+              "value": "Séminaire « Mathématiques à l’Âge classique »"
+            },
+            {
+              "key": "organisé par",
+              "value": "David Rabouin et Sébastien Maronne"
+            }
+          ]
+        },
+        {
+          "dates": ["28/03/2017"],
+          "place": "Nantes",
+          "label": "Comment dépasser le strict cadre des autorités : l’exemple du <i>De sex inconvenientibus</i>, traité anonyme de philosophie naturelle du XIVe siècle",
+          "details": [
+            {
+              "value": "Séminaire du Centre François Viète"
+            }
+          ]
+        },
+        {
+          "dates": ["21/12/2017"],
+          "place": "EPHE, Paris",
+          "label": "Nombres qui dénomment, nombres génériques, nombres qui quantifient arbitrairement : plusieurs aspects de l’usage des nombres dans des traités de mathématiques et de philosophie naturelle des XIIIe et XIVe siècles",
+          "details": [
+            {
+              "value": "Séminaire « Nombre et figure au Moyen Âge »"
+            },
+            {
+              "key": "organisé par",
+              "value": "Joëlle Ducos, Stéphane Lamassé"
+            }
+          ]
+        },
+        {
+          "dates": ["15/01/2018"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Quelques exemples de l’influence du mode d’enseignement dans les universités médiévales sur le style des démonstrations mathématiques",
+          "details": [
+            {
+              "value": "Journée d’études « Contextes d’enseignement et démonstration mathématique »"
+            },
+            {
+              "key": "organisée par",
+              "value": "Christine Proust"
+            }
+          ]
+        },
+        {
+          "dates": ["16/03/2018"],
+          "place": "IHP, Paris",
+          "label": "Le nombre dans les <i>Questiones mathematice</i> de Radulphus Brito",
+          "details": [
+            {
+              "value": "Journée d’études « Des mathématiques médiévales - savoirs, textes, langues et enseignement »"
+            },
+            { "key": "organisée par", "value": "Marc Moyon" },
+            {
+              "key": "dans le cadre du",
+              "value": "Séminaire d’histoire des mathématiques de l’IHP"
+            }
+          ]
+        },
+        {
+          "dates": ["21/06/2018"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "La détermination de la rapidité de la génération des formes élémentaires dans le <i>De sex inconvenientibus</i>, traité anonyme du XIVe siècle",
+          "details": [
+            {
+              "value": "Journée d’études « Peut-on parler de la génération comme d’un mouvement ? »"
+            },
+            {
+              "key": "organisée avec",
+              "value": "Daniel di Liscia"
+            }
+          ]
+        },
+        {
+          "dates": ["18/10/2018"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Les références aux <i>Météorologiques</i> dans le <i>De sex inconvenientibus</i>, à propos de la génération des qualités premières par les corps célestes au moyen de la lumière",
+          "details": [
+            {
+              "value": "Journée d’études « Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (13e-14e siècles) »"
+            },
+            {
+              "key": "organisée avec",
+              "value": "Valérie Cordonier"
+            }
+          ]
+        },
+        {
+          "dates": ["07/02/2019"],
+          "place": "ENS Ulm",
+          "label": "Le <i>De sex inconvenientibus</i>, un exemple de traité de philosophie naturelle du XIVe siècle",
+          "details": [
+            {
+              "value": "Les Jeudis de l’HPS"
+            }
+          ]
+        },
+        {
+          "dates": ["06/06/2019"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Velocity without time, motion without resistance in Questions on the Physics of Blasius of Parma",
+          "details": [
+            {
+              "value": "Journée d’études « Le temps dans la physique du XIVe siècle »"
+            },
+            {
+              "key": "organisée avec",
+              "value": "Daniel Di Liscia"
+            }
+          ]
+        },
+        {
+          "dates": ["16/10/2019"],
+          "place": "Göteborg",
+          "label": "The indivisibility of quantity according to Radulphus Brito",
+          "details": [
+            {
+              "value": "Séminaire sur Radulphus Brito"
+            }
+          ]
+        },
+        {
+          "dates": ["27/11/2019"],
+          "place": "Bordeaux",
+          "label": "Un exemple d’enseignement humaniste des mathématiques au travers des ouvrages de Conrad Dasypodius, professeur au Gymnasium de Strasbourg, dans la seconde moitié du XVIe siècle",
+          "details": [
+            {
+              "value": "Rencontres d’histoire des sciences de Bordeaux"
+            }
+          ]
+        },
+        {
+          "dates": ["13/12/2019"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Les ajouts à la seconde édition de Clavius des <i>Éléments</i> d’Euclide",
+          "details": [
+            {
+              "value": "Journée d’études « Euclid on the road transcultural, Workshop III : On Clavius’ Edition of Euclid »"
+            },
+            {
+              "key": "organisée par",
+              "value": "Vincenzo de Risi, Max Planck Institute for the History of Science in Berlin"
+            }
+          ]
+        },
+        {
+          "dates": ["20/02/2020"],
+          "place": "Sarton Centre for History of Science, Gand",
+          "label": "On the Oxford Calculators and their Legacy up to Galileo",
+          "details": [
+            {
+              "value": "Séminaire « Concepts and methods in philosophy and history of science »"
+            }
+          ]
+        },
+        {
+          "dates": ["18/05/2021"],
+          "place": "Oxford",
+          "label": "<i>De sex inconvenientibus</i>, an example of a 14th century treatise on natural philosophy",
+          "details": [
+            {
+              "value": "Seminar in the History of the Exact Sciences"
+            }
+          ]
+        },
+        {
+          "dates": ["26/03/2021"],
+          "place": "EPHE, Paris",
+          "label": "L’action à distance de l’aimant dans quelques textes du XIVe siècle",
+          "details": [
+            {
+              "value": "Journée d’études « L’action à distance au Moyen Âge et à la Renaissance »"
+            },
+            {
+              "key": "organisée par",
+              "value": "Béatrice Delaurenti et Nicolas Weil-Parrot"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "31/03/2022", "endDate": "01/04/2022" }],
+          "place": "Université Bordeaux Montaigne, Bordeaux",
+          "label": "L’œuvre mathématique d’Elie Vinet",
+          "details": [
+            {
+              "value": "Journées d’études « La culture des juristes et des médecins & L’éducation au collège de Guyenne à l’époque de Montaigne »"
+            },
+            {
+              "key": "organisée par",
+              "value": "Violaine Giacomotto-Charra et Xavier Prévost"
+            }
+          ]
+        },
+        {
+          "dates": ["15/04/2022"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Les <i>Questiones mathematice</i> de Raoul le Breton",
+          "details": [
+            {
+              "value": "Séminaire Mathématiques de l’Antiquité à l’âge classique"
+            }
+          ]
+        },
+        {
+          "dates": ["23/06/2022"],
+          "place": "Laboratoire SPHERE, Paris",
+          "label": "Remarques préliminaires sur les <i>Problemata</i> dans les <i>Questiones super libros physicorum</i> de Blaise de Parme",
+          "details": [
+            {
+              "value": "Journée d’études « Problemata de philosophie naturelle : l’imaginaire, le merveilleux, le quotidien »"
+            },
+            {
+              "key": "organisée avec",
+              "value": "Aurora Panzica"
+            }
+          ]
+        },
+        {
+          "dates": ["16/09/2022"],
+          "place": "Université de Leuven, Leuven (en visio-conférence)",
+          "label": "A Science of mathematicalia in the <i>Questiones mathematice</i> of Radulphus Brito",
+          "details": [
+            {
+              "value": "Workshop « Premodern Mathematical Thought »"
+            },
+            {
+              "key": "organisé par",
+              "value": "Clelia Ciralesi"
+            }
+          ]
+        },
+        {
+          "dates": ["14/06/2024"],
+          "place": "Lettres Sorbonne Université, Paris",
+          "label": "La dispute à la faculté des arts : pédagogie et innovation",
+          "details": [
+            {
+              "value": "Journée d’études « Querelles. Penser par la dispute, de controverses médiévales en questions de médiévistes »"
+            }
+          ]
+        },
+        {
+          "dates": ["13/01/2025"],
+          "place": "Université Bordeaux-Montaigne, Bordeaux",
+          "label": "Les doctrines sur la quantité continue discutées par Jacques Almain dans ses <i>Embammata Physicalia</i>",
+          "details": [
+            {
+              "value": "Journée d’études « Les sources de Jacques Almain pour son traitement de la quantité dans les <i>Embammata Physicalia</i> »"
+            },
+            {
+              "key": "organisée avec",
+              "value": "Daniel Di Liscia"
+            }
+          ]
+        },
+        {
+          "dates": ["13/05/2025"],
+          "label": "L’histoire des sciences médiévales dans ARCHEION, Archivio di storia della scienza",
+          "details": [
+            {
+              "value": "Séminaire « L’Académie internationale d’histoire des sciences au fil des archives et de ses publications »"
+            }
+          ]
+        },
+        {
+          "dates": ["29/11/2025"],
+          "place": "Paris",
+          "label": "Introduction sur l’édition critique numérique des <i>Embammata Physicalia</i> de Jacques Almain",
+          "details": [
+            {
+              "value": "Journée d’études « L’enseignement de la philosophie naturelle à Paris au début du XVIe siècle. La physique de Jacques Almain en contexte »"
+            },
+            {
+              "key": "organisée avec",
+              "value": "Christophe Grellard et Daniel Di Liscia"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
