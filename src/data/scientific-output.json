@@ -6,15 +6,18 @@
       "content": [
         {
           "dates": ["2005"],
-          "label": "Clavius : une clé pour Euclide à la Renaissance",
-          "link": "https://www.vrin.fr/livre/9782711617876/clavius-une-cle-pour-euclide-au-xvie-siecle",
-          "details": [{ "value": "Vrin, Mathesis, 2005" }]
+          "label": "<i>Clavius : une clé pour Euclide à la Renaissance</i>, Paris, Vrin, 2005",
+          "link": "https://www.vrin.fr/livre/9782711617876/clavius-une-cle-pour-euclide-au-xvie-siecle"
         },
         {
           "dates": ["2014"],
-          "label": "Les nouvelles théories des rapports mathématiques du XIVe au XVIe siècle",
+          "label": "<i>Les nouvelles théories des rapports mathématiques du XIVe au XVIe siècle</i>, Turnhout, Brepols",
           "link": "https://www.brepols.net/products/IS-9782503530673-1",
-          "details": [{ "value": "Brepols, 2014" }]
+          "details": [
+            {
+              "value": "Avec l’Algorismus proportionum de Nicole Oresme, édité, traduit et commenté"
+            }
+          ]
         }
       ]
     },
@@ -22,120 +25,121 @@
       "title": "Editions critiques",
       "content": [
         {
-          "label": "Blaise de Parme, Questiones circa tractatum proportionum magistri Thome Braduardini",
+          "dates": ["2005"],
+          "label": "Blaise de Parme, Questiones circa tractatum proportionum magistri Thome Braduardini, Paris, Vrin",
           "link": "https://www.vrin.fr/livre/9782711617906/quaestiones-circa-tractatum-proportionum-magistri-thome-braduardini",
           "details": [
             {
-              "value": "Introduction et édition critique de Joël Biard et Sabine Rommevaux"
-            },
-            {
-              "value": "Vrin, Textes philosophiques du Moyen Age"
+              "value": "Introduction et édition critique en collaboration avec Joël Biard"
             }
-          ],
-          "dates": ["2005"]
+          ]
         },
         {
-          "label": "Blaise de Parme, Questiones circa tractatum proportionum magistri Thome Braduardini, 1ère version, Questio 7 : « Utrum velocitas motus sequitur proportionem potentie motive ad resistentiam. »",
+          "dates": ["2008"],
+          "displayDates": false,
+          "label": "Blaise de Parme, <i>Questiones circa tractatum proportionum magistri Thome Braduardini</i>, 1ère version, Questio 7 : « Utrum velocitas motus sequitur proportionem potentie motive ad resistentiam. »",
           "details": [
-            { "value": "transcription de Joël Biard et Sabine Rommevaux" },
+            { "value": "transcription" },
             {
-              "key": "Dans",
-              "value": "Sabine Rommevaux, Joël Biard (Dir.). Mathématiques et théorie du mouvement (XIVe—XVIe siècles). Presses universitaires du Septentrion, Villeneuve d’Ascq, 2008",
-              "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
+              "key": "en collaboration avec",
+              "value": "Joël Biard"
             },
-            { "key": "Pages", "value": "53-57" }
-          ],
-          "dates": ["2008"]
+            {
+              "key": "<i>in</i>",
+              "value": "en collaboration avec Joël Biard (Dir.), <i>Mathématiques et théorie du mouvement (XIVe—XVIe siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008), p. 53-57",
+              "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
+            }
+          ]
         },
         {
+          "dates": ["2009"],
           "label": "Blaise de Parme, Quaestio « Utrum spericum positum supra planum tangat ipsum precise in puncto »",
           "details": [
             {
-              "value": "Édition critique avec traduction française de Joël Biard et Sabine Rommevaux"
+              "value": "édition critique et traduction"
             },
             {
-              "key": "Dans",
-              "value": "Joël Biard, Sabine Rommevaux. La question de Blaise de Parme sur le contact entre une sphère et un plan. Early Science and Medicine, 2009, 14",
-              "link": "https://brill.com/view/journals/esm/14/4/article-p476_3.xml?srsltid=AfmBOop02pFQS6WYY7EbBmQoRIyOStsgDtxbLXk8iReknq5DXb3ZKkv7"
+              "key": "en collaboration avec",
+              "value": "Joël Biard"
             },
-            { "key": "Pages", "value": "5505-538" }
-          ],
-          "dates": ["2009"]
+            {
+              "key": "<i>in</i>",
+              "value": "en collaboration avec Joël Biard, <i>La question de Blaise de Parme sur le contact entre une sphère et un plan</i>, Early Science and Medicine, 14 (2009), p. 505-538",
+              "link": "https://brill.com/view/journals/esm/14/4/article-p476_3.xml?srsltid=AfmBOop02pFQS6WYY7EbBmQoRIyOStsgDtxbLXk8iReknq5DXb3ZKkv7"
+            }
+          ]
         },
         {
+          "dates": ["2012"],
+          "displayDates": false,
           "label": "Blaise de Parme, Questiones diputate super octo libros physicorum. Liber IV, Quaestiones 4 & 5",
           "details": [
             {
-              "value": "édition critique et traduction de Joël Biard et Sabine Rommevaux"
+              "value": "édition critique et traduction"
             },
             {
-              "key": "Dans",
-              "value": "La nature et le vide dans la physique médiévale. Brepols, 2012",
+              "key": "en collaboration avec",
+              "value": "Joël Biard"
+            },
+            {
+              "key": "<i>in</i>",
+              "value": "<i>La nature et le vide dans la physique médiévale</i>, Turnhout, Brepols (2012), p. 317-378",
               "link": "https://www.brepols.net/products/IS-9782503544762-1"
-            },
-            {
-              "key": "Pages",
-              "value": "317-378"
             }
-          ],
-          "dates": ["2012"]
+          ]
         },
         {
+          "dates": ["2014"],
+          "displayDates": false,
           "label": "Nicole Oresme, Algorismus proportionum",
           "details": [
             {
-              "key": "Dans",
-              "value": "Sabine Rommevaux. Les nouvelles théories des rapports mathématiques du XIVe au XVIe siècle, Brepols, 2014",
+              "key": "<i>in</i>",
+              "value": "<i>Les nouvelles théories des rapports mathématiques du XIVe au XVIe siècle</i>, Turnhout, Brepols, 2014",
               "link": "https://www.brepols.net/products/IS-9782503530673-1"
             }
-          ],
-          "dates": ["2014"]
+          ]
         },
         {
-          "label": "« De sex inconvenientibus » Un traité anonyme de philosophie naturelle au XIVe siècle",
+          "dates": ["2022"],
+          "label": "<i>« De sex inconvenientibus » Un traité anonyme de philosophie naturelle au XIVe siècle</i>, Paris, Vrin",
           "link": "https://www.vrin.fr/livre/9782711630226/de-sex-inconvenientibus",
           "details": [
             {
-              "value": "Édition, introduction et étude doctrinale de Sabine Rommevaux-Tani"
-            },
-            {
-              "value": "« Textes philosophiques du Moyen Âge », Vrin, Paris"
+              "value": "édition, introduction et étude doctrinale"
             }
-          ],
-          "dates": ["2022"]
+          ]
         },
         {
-          "label": "Les Embammata physicalia de Jacques Almain",
+          "dates": ["2026"],
+          "label": "<i>Les</i> Embammata physicalia <i>de Jacques Almain</i>",
           "link": "http://almain.huma-num.fr",
           "details": [
             {
-              "value": "édition critique numérique de Sabine Rommevaux-Tani"
+              "value": "édition critique numérique"
             },
             {
               "value": "avec la collaboration de Daniel Di Liscia"
             }
-          ],
-          "dates": ["2026"]
+          ]
         },
         {
-          "label": "Les Problemata dans les Questiones super physicam de Blaise de Parme",
+          "dates": ["à paraître"],
+          "label": "<i>Les Problemata dans les</i> Questiones super physicam <i>de Blaise de Parme</i>",
           "link": "http://problemata.huma-num.fr",
           "details": [
             {
-              "value": "dition critique numérique de Sabine Rommevaux-Tani"
+              "value": "édition critique numérique et traduction"
             }
-          ],
-          "dates": ["2026"]
+          ]
         },
         {
-          "label": "Blasius de Parma, Questiones disputate super octo libros physicorum, livre VII",
-          "details": [{ "value": "Sabine Rommevaux-Tani" }],
-          "dates": ["en préparation"]
+          "dates": ["en préparation"],
+          "label": "Blasius de Parma, <i>Questiones disputate super octo libros physicorum</i>, livre VII"
         },
         {
-          "label": "Radulphus Brito, Questiones mathematiceI",
-          "details": [{ "value": "Sabine Rommevaux-Tani" }],
-          "dates": ["en préparation"]
+          "dates": ["en préparation"],
+          "label": "Radulphus Brito, <i>Questiones mathematiceI</i>"
         }
       ]
     },
@@ -143,40 +147,24 @@
       "title": "Traductions commentées",
       "content": [
         {
-          "label": "Thomas Bradwadine, Le continu, extraits",
+          "dates": ["2005"],
+          "displayDates": false,
+          "label": "Thomas Bradwadine, <i>Le continu</i>, extraits",
           "details": [
             {
-              "key": "Ouvrage",
-              "value": "De la théologie aux mathématiques : l’infini au XIVe siècle",
+              "key": "<i>in</i>",
+              "value": "Joël Biard et Jean Celeyrette (éds.), <i>De la théologie aux mathématiques : l’infini au XIVe siècle</i>, Paris, Les Belles Lettres (2005), p. 89-135",
               "link": "https://www.lesbelleslettres.com/livre/9782251181028/de-la-theologie-aux-mathematiques"
-            },
-            {
-              "key": "Auteurs",
-              "value": "Joël Biard et Jean Celeyrette"
-            },
-            {
-              "key": "Pages",
-              "value": "89 à 135"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Les Belles Lettres, Paris"
             }
-          ],
-          "dates": ["2005"]
+          ]
         },
         {
           "dates": ["2010"],
-          "label": "Thomas Bradwardine, Traité sur les rapports entre les mouvements, suivi de Nicole Oresme, Sur les rapports de rapports",
+          "label": "Thomas Bradwardine, <i>Traité sur les rapports entre les mouvements</i>, suivi de Nicole Oresme, <i>Sur les rapports de rapports</i>, Paris, Les Belles Lettres",
           "link": "https://www.lesbelleslettres.com/livre/9782251181097/traite-des-rapports-entre-les-rapidites-dans-les-mouvements-suivi-de-sur-les-rapports-de-rapports",
           "details": [
             {
-              "key": "Travaux",
-              "value": "Introduction, traduction et commentaires"
-            },
-            {
-              "key": "Éditeur",
-              "value": "« Sagesses médiévales », Les Belles Lettres, Paris"
+              "value": "introduction, traduction et commentaires"
             }
           ]
         }
@@ -187,100 +175,38 @@
       "content": [
         {
           "dates": ["2003"],
-          "label": "La réception des Éléments d’Euclide au Moyen Age et à la Renaissance",
-          "link": "https://www.persee.fr/doc/rhs_0151-4105_2003_num_56_2_2186",
-          "details": [
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des sciences, 56/2"
-            }
-          ]
+          "label": "<i>La réception des</i> Éléments <i>d’Euclide au Moyen Age et à la Renaissance</i>, Revue d’histoire des sciences, 56/2",
+          "link": "https://www.persee.fr/doc/rhs_0151-4105_2003_num_56_2_2186"
         },
         {
           "dates": ["2007"],
-          "label": "Sciences, textes et contextes ; Hommage à Gérard Simon",
-          "link": "https://shs.cairn.info/article/RHS_601_0007?lang=fr&ID_ARTICLE=RHS_601_0007",
-          "details": [
-            {
-              "key": "Collaboration",
-              "value": "Bernard Joly"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des sciences, 60/1"
-            }
-          ]
+          "label": "en collaboration avec Bernard Joly, <i>Sciences, textes et contextes ; Hommage à Gérard Simon</i>, Revue d’histoire des sciences, 60/1",
+          "link": "https://shs.cairn.info/article/RHS_601_0007?lang=fr&ID_ARTICLE=RHS_601_0007"
         },
         {
           "dates": ["2008"],
-          "label": "Mathématiques et théorie du mouvement (xive- xvie siècles)",
-          "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910",
-          "details": [
-            {
-              "key": "Co-auteur",
-              "value": "Joël Biard"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Presses universitaires du Septentrion, Villeneuve d’Ascq"
-            }
-          ]
+          "label": "en collaboration avec Joël Biard (éds.), <i>Mathématiques et théorie du mouvement (xive- xvie siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion",
+          "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
         },
         {
           "dates": ["2010"],
-          "label": "Mathématiques et connaissance du monde réel avant Galilée",
-          "link": "https://www.omniscience.fr/collections/Histoire-des-savoirs-5/MATH%C3%89MATIQUES-ET-CONNAISSANCES-DU-MONDE-R%C3%89EL-AVANT-18.html",
-          "details": [
-            {
-              "key": "Éditeur",
-              "value": "Omniscience, Paris"
-            }
-          ]
+          "label": "<i>Mathématiques et connaissance du monde réel avant Galilée</i>, Paris, Omniscience",
+          "link": "https://www.omniscience.fr/collections/Histoire-des-savoirs-5/MATH%C3%89MATIQUES-ET-CONNAISSANCES-DU-MONDE-R%C3%89EL-AVANT-18.html"
         },
         {
           "dates": ["2012"],
-          "label": "Proportions",
-          "link": "https://www.brepolsonline.net/content/books/10.1484/M.ER-EB.5.106720",
-          "details": [
-            {
-              "key": "Co-auteurs",
-              "value": "Philippe Vendrix et Vasco Zara"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Brepols, Turnhout"
-            }
-          ]
+          "label": "en collaboration avec Philippe Vendrix et Vasco Zara (éds), <i>Proportions</i>, Turnhout, Brepols",
+          "link": "https://www.brepolsonline.net/content/books/10.1484/M.ER-EB.5.106720"
         },
         {
           "dates": ["2012"],
-          "label": "La nature et le vide dans la physique médiévale. Études dédiées à Edward Grant",
-          "link": "https://www.brepols.net/products/IS-9782503544762-1",
-          "details": [
-            {
-              "key": "Co-auteur",
-              "value": "Joël Biard"
-            },
-            {
-              "key": "Éditeur",
-              "value": "« Studia Artistarum » 32, Brepols, Turnhout"
-            }
-          ]
+          "label": "en collaboration avec Joël Biard (éds), <i>La nature et le vide dans la physique médiévale.</i> Études dédiées à Edward Grant, Turnhout, Brepols",
+          "link": "https://www.brepols.net/products/IS-9782503544762-1"
         },
         {
           "dates": ["2012"],
-          "label": "Pluralité de l’algèbre à la Renaissance",
-          "link": "https://www.honorechampion.com/gb/champion/7907-book-08532398-9782745323989.html",
-          "details": [
-            {
-              "key": "Co-auteurs",
-              "value": "Maryvonne Spiesser et Maria-Rosa Massa Estève"
-            },
-            {
-              "key": "Éditeur",
-              "value": "« Savoir de Mantice », Champion, Paris"
-            }
-          ]
+          "label": "en collaboration avec Maryvonne Spiesser et Maria-Rosa Massa Estève (éds), <i>Pluralité de l’algèbre à la Renaissance</i>, Paris, Champion",
+          "link": "https://www.honorechampion.com/gb/champion/7907-book-08532398-9782745323989.html"
         }
       ]
     },
@@ -289,458 +215,210 @@
       "content": [
         {
           "dates": ["1993"],
-          "label": "Un exercice de combinatoire : les six grandeurs en proportion",
+          "displayDates": false,
+          "label": "« Un exercice de combinatoire : les six grandeurs en proportion », Sciences et techniques en perspective, 26 (1993), p. 1-21",
           "details": [
             {
-              "key": "Auteur",
-              "value": "Sabine Koelblen (Rommevaux)"
-            },
-            {
-              "key": "Pages",
-              "value": "1 à 21"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Sciences et techniques  en perspective, 26"
+              "key": "Publié sous le nom de",
+              "value": "Sabine Koelblen"
             }
           ]
         },
         {
           "dates": ["1994"],
-          "label": "Une pratique de la composition des raisons dans un exercice de combinatoire",
+          "displayDates": false,
+          "label": "« Une pratique de la composition des raisons dans un exercice de combinatoire », Revue d'histoire des sciences, 47/2 (1994), p. 209-247",
           "link": "https://www.persee.fr/doc/rhs_0151-4105_1994_num_47_2_1202",
           "details": [
             {
-              "key": "Auteur",
-              "value": "Sabine Koelblen (Rommevaux)"
-            },
-            {
-              "key": "Pages",
-              "value": "209 à 247"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d'histoire des sciences, 47/2"
+              "key": "Publié sous le nom de",
+              "value": "Sabine Koelblen"
             }
           ]
         },
         {
           "dates": ["1999"],
-          "label": "La proportionnalité  numérique dans le livre VII des Éléments de Campanus",
-          "link": "https://smf.emath.fr/publications/la-proportionnalite-numerique-dans-le-livre-vii-des-elements-de-campanus",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "83 à 126"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des mathématiques, 5"
-            }
-          ]
+          "displayDates": false,
+          "label": "« La proportionnalité  numérique dans le livre VII des Éléments de Campanus », Revue d’histoire des mathématiques, 5 (1999), p. 83-126",
+          "link": "https://smf.emath.fr/publications/la-proportionnalite-numerique-dans-le-livre-vii-des-elements-de-campanus"
         },
         {
           "dates": ["2001"],
-          "label": "Remarques sur l'histoire du texte des Éléments d'Euclide",
-          "link": "https://link.springer.com/article/10.1007/s004070000027",
-          "details": [
-            {
-              "key": "Co-auteurq",
-              "value": "Ahmed Djebbar et Bernard Vitrac"
-            },
-            {
-              "key": "Pages",
-              "value": "221 à 295"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Archive for History of Exact Sciences, 55"
-            }
-          ]
+          "displayDates": false,
+          "label": "en collaboration avec Ahmed Djebbar et Bernard Vitrac, « Remarques sur l'histoire du texte des <i>Éléments</i> d'Euclide », Archive for History of Exact Sciences, 55 (2001), p. 221-295",
+          "link": "https://link.springer.com/article/10.1007/s004070000027"
         },
         {
           "dates": ["2001"],
-          "label": "Aperçu sur la notion de dénomination d’un rapport numérique au Moyen Âge et à la Renaissance",
-          "link": "https://www.septentrion.com/en/book/?gcoi=27574100834250",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "223 à 243"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Methodos, 1"
-            }
-          ]
+          "displayDates": false,
+          "label": "« Aperçu sur la notion de dénomination d’un rapport numérique au Moyen Âge et à la Renaissance », Methodos, 1 (2001), p. 223-243",
+          "link": "https://www.septentrion.com/en/book/?gcoi=27574100834250"
         },
         {
           "dates": ["2001"],
-          "label": "Rationalité et exprimabilité : une relecture médiévale du livre X des Éléments d’Euclide",
-          "link": "https://smf.emath.fr/publications/rationalite-exprimabilite-une-relecture-medievale-du-livre-x-des-elements-deuclide",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "91 à 119"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’Histoire des Mathématiques, 7"
-            }
-          ]
+          "displayDates": false,
+          "label": "« Rationalité et exprimabilité : une relecture médiévale du livre X des <i>Éléments</i> d’Euclide », Revue d’Histoire des Mathématiques, 7 (2001), p. 91-119",
+          "link": "https://smf.emath.fr/publications/rationalite-exprimabilite-une-relecture-medievale-du-livre-x-des-elements-deuclide"
         },
         {
           "dates": ["2003"],
-          "label": "La réception des éléments d’Euclide au Moyen Âge et à la Renaissance. Introduction",
-          "link": "https://www.persee.fr/doc/rhs_0151-4105_2003_num_56_2_2186",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "267 à 273"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des sciences, 56/2"
-            }
-          ]
+          "displayDates": false,
+          "label": "« La réception des <i>Éléments</i> d’Euclide au Moyen Âge et à la Renaissance. Introduction », Revue d’histoire des sciences, 56/2 (2003), p. 267-273",
+          "link": "https://www.persee.fr/doc/rhs_0151-4105_2003_num_56_2_2186"
         },
         {
           "dates": ["2003"],
-          "label": "L’irrationalité du rapport de la diagonale et du côté d’un même carré dans les Questions de Blaise de Parme sur le Traité des rapports de Bradwardine",
-          "link": "https://www.persee.fr/doc/rhs_0151-4105_2003_num_56_2_2193",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "401 à 418"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des sciences, numéro spécial « La réception des Éléments d’Euclide au Moyen Age et à la Renaissance », 56/2"
-            }
-          ]
+          "displayDates": false,
+          "label": "« L’irrationalité du rapport de la diagonale et du côté d’un même carré dans les <i>Questions</i> de Blaise de Parme sur le <i>Traité des rapports</i> de Bradwardine », Revue d’histoire des sciences, numéro spécial « La réception des Éléments d’Euclide au Moyen Age et à la Renaissance », 56/2 (2003), p. 401-418",
+          "link": "https://www.persee.fr/doc/rhs_0151-4105_2003_num_56_2_2193"
         },
         {
           "dates": ["2006"],
-          "label": "Un débat dans les mathématiques de la Renaissance : le statut de l’angle de contingence",
-          "link": "https://www.brepolsonline.net/content/journals/10.1484/J.JR.2.301812",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "291 à 302"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Journal de la Renaissance, IV"
-            }
-          ]
+          "displayDates": false,
+          "label": "« Un débat dans les mathématiques de la Renaissance : le statut de l’angle de contingence », Journal de la Renaissance, IV (2006), p. 291-302",
+          "link": "https://www.brepolsonline.net/content/journals/10.1484/J.JR.2.301812"
         },
         {
           "dates": ["2006"],
-          "label": "Un exemple de Question mathématique au Moyen Âge",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/00033790600812371",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "425 à 445"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Annals of sciences, 63/4"
-            }
-          ]
+          "displayDates": false,
+          "label": "« Un exemple de Question mathématique au Moyen Âge », Annals of sciences, 63/4 (2006), p. 425-445",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/00033790600812371"
         },
         {
           "dates": ["2007"],
-          "label": "« La sphère touche le plan en un point » : un problème mathématique ?",
-          "link": "https://shs.cairn.info/article/RHS_601_0151?lang=fr&ID_ARTICLE=RHS_601_0151",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "151 à 165"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des sciences, 60/1"
-            }
-          ]
+          "displayDates": false,
+          "label": "« \"La sphère touche le plan en un point\" : un problème mathématique ? », Revue d’histoire des sciences, 60/1 (2007), p. 151-165",
+          "link": "https://shs.cairn.info/article/RHS_601_0151?lang=fr&ID_ARTICLE=RHS_601_0151"
         },
         {
           "dates": ["2007"],
-          "label": "La similitude des équimultiples dans la définition de la proportion non continue de l’édition des éléments d’Euclide par Campanus : une difficulté dans la réception de la théorie des proportions au Moyen Âge",
-          "link": "https://www.numdam.org/item/RHM_2007__13_2_301_0/",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "301 à 322"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des mathématiques, 13/2"
-            }
-          ]
+          "displayDates": false,
+          "label": "« La similitude des équimultiples dans la définition de la proportion non continue de l’édition des <i>Éléments</i> d’Euclide par Campanus : une difficulté dans la réception de la théorie des proportions au Moyen Âge », Revue d’histoire des mathématiques, 13/2 (2007), p. 301-322",
+          "link": "https://www.numdam.org/item/RHM_2007__13_2_301_0/"
         },
         {
           "dates": ["2009"],
-          "label": "La question de Blaise de Parme sur le contact entre une sphère et un plan",
-          "link": "https://brill.com/view/journals/esm/14/4/article-p476_3.xml?srsltid=AfmBOooDs4Q4q5cR-I40I3tNE3lbtLAmtQzYcOCAdPFGRicbmDoBAuqg",
-          "details": [
-            {
-              "key": "Co-auteur",
-              "value": "Joël Biard"
-            },
-            {
-              "key": "Pages",
-              "value": "476 à 538"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Early Science and Medicine, 14"
-            }
-          ]
+          "displayDates": false,
+          "label": "en collaboration avec Joël Biard, « La question de Blaise de Parme sur le contact entre une sphère et un plan », Early Science and Medicine, 14 (2009), p. 476-538",
+          "link": "https://brill.com/view/journals/esm/14/4/article-p476_3.xml?srsltid=AfmBOooDs4Q4q5cR-I40I3tNE3lbtLAmtQzYcOCAdPFGRicbmDoBAuqg"
         },
         {
           "dates": ["2010"],
-          "label": "Magnetism and Bradwardine’s rule of motion in fourteen and fifteen century treatises",
-          "link": "https://brill.com/view/journals/esm/15/6/article-p618_2.xml",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "618 à 647"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Early Science and Medicine, 15"
-            }
-          ]
+          "displayDates": false,
+          "label": "« Magnetism and Bradwardine’s rule of motion in fourteen and fifteen century treatises », Early Science and Medicine, 15 (2010), p. 618-647",
+          "link": "https://brill.com/view/journals/esm/15/6/article-p618_2.xml"
         },
         {
           "dates": ["2012"],
-          "label": "Christoph Clavius, un promoteur des mathématiques à la Renaissance",
-          "link": "https://www.persee.fr/doc/xvi_1774-4466_2012_num_8_1_1047",
+          "displayDates": false,
+          "label": "« Christoph Clavius, un promoteur des mathématiques à la Renaissance », Seizième siècle, 8 (2012), p. 127 à 140",
+          "link": "https://www.persee.fr/doc/xvi_1774-4466_2012_num_8_1_1047"
+        },
+        {
+          "dates": ["2013"],
+          "displayDates": false,
+          "label": "« Une Quæstio médiévale : est-ce que la diagonale d’un carré est commensurable au côté de ce carré ? », Images des mathématiques (2013)",
+          "link": "https://doi.org/10.60868/hm4q-ym83",
           "details": [
             {
-              "key": "Pages",
-              "value": "127 à 140"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Seizième siècle, 8"
+              "value": "Libre accès en ligne"
             }
           ]
         },
         {
           "dates": ["2013"],
-          "label": "Une Quæstio médiévale : est-ce que la diagonale d’un carré est commensurable au côté de ce carré ?",
-          "link": "https://images.math.cnrs.fr/une-quaestio-medievale-est-ce-que-la-diagonale-dun-carre-est-commensurable-au-cote-de-ce-carre/",
-          "details": [
-            {
-              "key": "Éditeur",
-              "value": "Images des mathématiques"
-            }
-          ]
+          "displayDates": false,
+          "label": "« A treatise on proportion in the tradition of Thomas Bradwardine : the <i>De proportionibus libri duo</i> (1528) of Jean Fernel », Historia Mathematica, 40 (2013), p. 164-182",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0315086013000037"
         },
         {
-          "dates": ["2013"],
-          "label": "A treatise on proportion in the tradition of Thomas Bradwardine : the De proportionibus libri duo (1528) of Jean Fernel",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0315086013000037",
+          "dates": ["2014"],
+          "displayDates": false,
+          "label": "« Traduire les démonstrations des livres I à VI des <i>Éléments</i> d’Euclide sous forme de syllogismes », Images des mathématiques",
+          "link": "https://doi.org/10.60868/gmng-8c94",
           "details": [
             {
-              "key": "Pages",
-              "value": "164 à 182"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Historia Mathematica, 40"
+              "value": "Libre accès en ligne"
             }
           ]
         },
         {
           "dates": ["2014"],
-          "label": "Traduire les démonstrations des livres I à VI des Éléments d’Euclide sous forme de syllogismes",
-          "link": "https://images.math.cnrs.fr/traduire-les-demonstrations-des-livres-i-a-vi-des-elements-deuclide-sous-forme-de-syllogismes/",
-          "details": [
-            {
-              "key": "Éditeur",
-              "value": "Images des mathématiques"
-            }
-          ]
+          "displayDates": false,
+          "label": "« Un auteur anonyme du XIVe siècle, à Oxford, lecteur de Pierre de Maricourt », Revue d’histoire des sciences, 67/1 (2014), p. 5-53",
+          "link": "https://shs.cairn.info/article/RHS_671_0005?lang=fr&ID_ARTICLE=RHS_671_0005"
         },
         {
           "dates": ["2014"],
-          "label": "Un auteur anonyme du XIVe siècle, à Oxford, lecteur de Pierre de Maricourt",
-          "link": "https://shs.cairn.info/article/RHS_671_0005?lang=fr&ID_ARTICLE=RHS_671_0005",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "5 à 33"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des sciences, 67/1"
-            }
-          ]
-        },
-        {
-          "dates": ["2014"],
-          "label": "Irrationalité des nombres, irrationalité des lignes selon Michael Stifel et Simon Stevin",
-          "link": "https://smf.emath.fr/publications/irrationalite-des-nombres-irrationalite-des-lignes-selon-michael-stifel-et-simon",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "171 à 209"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des mathématiques, 20/2"
-            }
-          ]
+          "displayDates": false,
+          "label": "« Irrationalité des nombres, irrationalité des lignes selon Michael Stifel et Simon Stevin », Revue d’histoire des mathématiques, 20/2 (2014), p. 171-209",
+          "link": "https://smf.emath.fr/publications/irrationalite-des-nombres-irrationalite-des-lignes-selon-michael-stifel-et-simon"
         },
         {
           "dates": ["2016"],
-          "label": "La réception par quelques mathématiciens européens du XVIe siècle des travaux des algébristes italiens sur les équations du troisième degré : réticence de la plupart et avancées significatives de Stevin",
-          "link": "https://smf.emath.fr/publications/la-reception-par-quelques-mathematiciens-europeens-du-xvie-siecle-des-travaux-des",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "1 à 52"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des mathématiques, 22/1"
-            }
-          ]
+          "displayDates": false,
+          "label": "« La réception par quelques mathématiciens européens du XVIe siècle des travaux des algébristes italiens sur les équations du troisième degré : réticence de la plupart et avancées significatives de Stevin », Revue d’histoire des mathématiques, 22/1 (2016), p. 1-52",
+          "link": "https://smf.emath.fr/publications/la-reception-par-quelques-mathematiciens-europeens-du-xvie-siecle-des-travaux-des"
         },
         {
           "dates": ["2016"],
-          "label": "Michael Stifel, lecteur de la Practica arithmetice de Gerolamo",
-          "link": "https://www.libraweb.net/articoli.php?chiave=201609201&rivista=92",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "83 à 110"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Bollettino di Storia delle Scienze Matematiche, 36/1"
-            }
-          ]
+          "displayDates": false,
+          "label": "« Michael Stifel, lecteur de la <i>Practica arithmetice</i> de Gerolamo », Bollettino di Storia delle Scienze Matematiche, 36/1 (2016), p. 83-110",
+          "link": "https://www.libraweb.net/articoli.php?chiave=201609201&rivista=92"
         },
         {
           "dates": ["04/2016"],
-          "label": "Quelques exemples de textes mathématiques du Moyen Âge latin",
-          "link": "http://www.revue-circe.uvsq.fr/quelques-exemples-de-textes-mathematiques-du-moyen-age-latin/",
-          "details": [
-            {
-              "key": "Éditeur",
-              "value": "Circé, 8"
-            }
-          ]
+          "displayDates": false,
+          "label": "« Quelques exemples de textes mathématiques du Moyen Âge latin », Circé, 8 (2016)",
+          "link": "http://www.revue-circe.uvsq.fr/quelques-exemples-de-textes-mathematiques-du-moyen-age-latin/"
         },
         {
           "dates": ["2018"],
-          "label": "Une théorie de la mesure des rapports dans le Chilias Logarithmorum de Kepler (1624)",
-          "link": "https://smf.emath.fr/publications/une-theorie-de-la-mesure-des-rapports-dans-le-chilias-logarithmorum-de-kepler-1624",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "107 à 206"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des mathématiques, 24/2"
-            }
-          ]
+          "displayDates": false,
+          "label": "« Une théorie de la mesure des rapports dans le <i>Chilias Logarithmorum</i> de Kepler (1624) », Revue d’histoire des mathématiques, 24/2 (2018), p. 107-206",
+          "link": "https://smf.emath.fr/publications/une-theorie-de-la-mesure-des-rapports-dans-le-chilias-logarithmorum-de-kepler-1624"
         },
         {
           "dates": ["2019"],
-          "label": "L’unité et le nombre dans les Questiones mathematice de Raoul le Breton",
-          "link": "https://www.puv-editions.fr/ouvrage/mathematiques-savoirs-et-enseignements/",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "111 à 127"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Medievales, 77"
-            }
-          ]
+          "displayDates": false,
+          "label": "« L’unité et le nombre dans les <i>Questiones mathematice</i> de Raoul le Breton », Medievales, 77 (2019), p. 111-127",
+          "link": "https://www.puv-editions.fr/ouvrage/mathematiques-savoirs-et-enseignements/"
         },
         {
           "dates": ["2019"],
-          "label": "Ajout de conditions dans les règles du mouvement formulées par Blaise de Parme dans la seconde rédaction de ses Questions sur la Physique",
+          "displayDates": false,
+          "label": "« Ajout de conditions dans les règles du mouvement formulées par Blaise de Parme dans la seconde rédaction de ses Questions sur la Physique »",
           "details": [
             {
-              "key": "Ouvrage",
-              "value": "La philosophie de Blaise de Parme : physique, psychologie, éthique",
+              "key": "<i>in</i>",
+              "value": "Joël Biard et Aurélien Robert, <i>La philosophie de Blaise de Parme : physique, psychologie, éthique</i>, SISMEL, Micrologus Library (2019), p. 153-174",
               "link": "https://www.sismel.it/pubblicazioni/1706-la-philosophie-de-blaise-de-parme-physique-psychologie-thique"
-            },
-            { "key": "Auteurs", "value": "Joël Biard et Aurélien Robert" },
-            { "key": "Pages", "value": "153 à 174" },
-            {
-              "key": "Éditeur",
-              "value": "SISMEL, Micrologus Library"
             }
           ]
         },
         {
           "dates": ["2020"],
-          "label": "La notion médiévale de contractio dans l’Arithmetica integra de Michael Stifel (1544)",
-          "link": "https://smf.emath.fr/publications/la-notion-medievale-de-contractio-dans-larithmetica-integra-de-michael-stifel-1544",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "57 à 119"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue d’histoire des mathématiques, 26/2"
-            }
-          ]
+          "displayDates": false,
+          "label": "« La notion médiévale de contractio dans l’<i>Arithmetica integra</i> de Michael Stifel (1544) », Revue d’histoire des mathématiques, 26/2 (2020), p. 57-119",
+          "link": "https://smf.emath.fr/publications/la-notion-medievale-de-contractio-dans-larithmetica-integra-de-michael-stifel-1544"
         },
         {
           "dates": ["2022"],
-          "label": "The paradoxes produced by the different ways of determining the rapidity of motion in the anonymous treatise De sex inconvenientibus",
-          "link": "https://journals.uco.es/refime/article/view/15136",
-          "details": [
-            {
-              "key": "Auteur",
-              "value": "Sabine Rommevaux-Tani"
-            },
-            {
-              "key": "Pages",
-              "value": "97 à 111"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revista española de filosofía Medieval, 29/1"
-            }
-          ]
+          "displayDates": false,
+          "label": "« The paradoxes produced by the different ways of determining the rapidity of motion in the anonymous treatise <i>De sex inconvenientibus</i> », Revista española de filosofía Medieval, 29/1 (2022), p. 97-111",
+          "link": "https://journals.uco.es/refime/article/view/15136"
         },
         {
           "dates": ["2024"],
-          "label": "Les ouvrages mathématiques d’Elie Vinet",
-          "link": "https://revues.droz.org/RFHL/issue/view/RFHL_145",
-          "details": [
-            {
-              "key": "Pages",
-              "value": "57 à 75"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Revue française d’histoire du livre, 145"
-            }
-          ]
+          "label": "« Les ouvrages mathématiques d’Elie Vinet », Revue française d’histoire du livre, 145 (2024), p. 57 à 75",
+          "link": "https://revues.droz.org/RFHL/issue/view/RFHL_145"
         },
         {
           "dates": ["2025"],
-          "label": "Styles de démonstration dans des traités de philosophie naturelle des XIVe et XVe siècles",
-          "link": "https://journals.openedition.org/methodos/11597",
-          "details": [
-            {
-              "key": "Éditeur",
-              "value": "Methodos, 25"
-            }
-          ]
+          "displayDates": false,
+          "label": "« Styles de démonstration dans des traités de philosophie naturelle des XIVe et XVe siècles », Methodos, 25 (2025)",
+          "link": " https://doi.org/10.4000/15c9a",
+          "details": [{ "value": "Libre accès en ligne" }]
         }
       ]
     },
@@ -749,27 +427,18 @@
       "content": [
         {
           "dates": ["2004"],
-          "label": "Les introductions aux éléments d’Euclide au Moyen Age et à la Renaissance",
+          "label": "« Les introductions aux <i>Éléments</i> d’Euclide au Moyen Age et à la Renaissance »",
           "details": [
             {
-              "key": "Ouvrage",
-              "value": "Méthodes et statut des sciences à la fin du Moyen Age",
+              "key": "<i>in</i>",
+              "value": "Christophe Grellard, <i>Méthodes et statut des sciences à la fin du Moyen Age</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2004), p. 143-158",
               "link": "https://www.septentrion.com/fr/book/?GCOI=27574100135160"
-            },
-            { "key": "Auteur", "value": "C. Grellard" },
-            {
-              "key": "Pages",
-              "value": "143 à 158"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Presses Universitaires du Septentrion"
             }
           ]
         },
         {
           "dates": ["2005"],
-          "label": "Extrait du De continuo de Thomas Bradwardine",
+          "label": "Extrait du <i>De continuo de Thomas Bradwardine</i>",
           "details": [
             {
               "key": "Travaux",
@@ -806,7 +475,7 @@
             },
             {
               "key": "Éditeur",
-              "value": "Presses Universitaires du Septentrion, Villeneuve d’Ascq"
+              "value": "Villeneuve d’Ascq, Presses universitaires du Septentrion"
             }
           ]
         },
@@ -819,14 +488,14 @@
               "value": "Mathématiques et théorie du mouvement (XIVe—XVIe siècles)",
               "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
             },
-            { "key": "Auteurs", "value": "Joël Biard et Sabine Rommevaux" },
+            { "key": "Auteurs", "value": "en collaboration avec Joël Biard" },
             {
               "key": "Pages",
               "value": "31 à 57"
             },
             {
               "key": "Éditeur",
-              "value": "Presses Universitaires du Septentrion, Villeneuve d’Ascq"
+              "value": "Villeneuve d’Ascq, Presses universitaires du Septentrion"
             }
           ]
         },
@@ -859,7 +528,6 @@
               "value": "Mathématiques et connaissance du monde réel avant Galilée",
               "link": "https://www.omniscience.fr/collections/Histoire-des-savoirs-5/MATH%C3%89MATIQUES-ET-CONNAISSANCES-DU-MONDE-R%C3%89EL-AVANT-18.html"
             },
-            { "key": "Auteur", "value": "Sabine Rommevaux" },
             {
               "key": "Pages",
               "value": "87 à 112"
@@ -879,14 +547,14 @@
               "value": "La nature et le vide dans la physique médiévale. Études dédiées à Edward Grant",
               "link": "https://www.brepols.net/products/IS-9782503544762-1"
             },
-            { "key": "Auteurs", "value": "Joël Biard et Sabine Rommevaux" },
+            { "key": "Auteurs", "value": "en collaboration avec Joël Biard" },
             {
               "key": "Pages",
               "value": "293 à 378"
             },
             {
               "key": "Éditeur",
-              "value": "Brepols, Turnhout"
+              "value": "Turnhout, Brepols"
             }
           ]
         },
@@ -901,7 +569,7 @@
             },
             {
               "key": "Auteurs",
-              "value": "Sabine Rommevaux, Maryvonne Spiesser et Maria-Rosa Massa Estève"
+              "value": "en collaboration avec Maryvonne Spiesser et Maria-Rosa Massa Estève"
             },
             {
               "key": "Pages",
@@ -924,7 +592,7 @@
             },
             {
               "key": "Auteurs",
-              "value": "Sabine Rommevaux, Philippe Vendrix et Vasco Zara"
+              "value": "en collaboration avec Philippe Vendrix et Vasco Zara"
             },
             {
               "key": "Pages",
@@ -932,7 +600,7 @@
             },
             {
               "key": "Éditeur",
-              "value": "Brepols, Turnhout"
+              "value": "Turnhout, Brepols"
             }
           ]
         },
@@ -955,7 +623,7 @@
             },
             {
               "key": "Éditeur",
-              "value": "Brepols, Turnhout"
+              "value": "Turnhout, Brepols"
             }
           ]
         },
@@ -1012,7 +680,7 @@
             },
             {
               "key": "Éditeur",
-              "value": "Vrin, Paris"
+              "value": "Paris, Vrin"
             }
           ]
         },
@@ -1251,7 +919,7 @@
             },
             {
               "key": "Éditeur",
-              "value": "Brepols, Turnhout"
+              "value": "Turnhout, Brepols"
             }
           ]
         }
@@ -1381,7 +1049,7 @@
               "value": "Ahmed Djebbar"
             },
             {
-              "key": "Dans",
+              "key": "<i>in</i>",
               "value": "Bulletin de Philosophie médiévale VII"
             },
             {
