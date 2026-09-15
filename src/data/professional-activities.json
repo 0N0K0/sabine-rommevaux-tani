@@ -2,141 +2,54 @@
   "title": "Activités professionnelles",
   "content": [
     {
-      "periods": [
-        {
-          "startDate": "09/1988",
-          "endDate": "08/1990"
-        }
-      ],
-      "label": "Enseignement de mathématiques, en tant que professeur agrégée",
-      "details": [
-        {
-          "value": "Lycée Lakanal de Sceaux (92)"
-        },
-        {
-          "value": "Lycée de Liévin (62)"
-        }
-      ]
+      "periods": [{ "startDate": "09/1988", "endDate": "08/1990" }],
+      "place": "Lycée Lakanal de Sceaux (92), Lycée de Liévin (62)",
+      "label": "Enseignement de mathématiques, en tant que professeur agrégée"
     },
     {
-      "periods": [
-        {
-          "startDate": "10/1991",
-          "endDate": "09/1995"
-        }
-      ],
-      "label": "Enseignement de mathématiques, en tant que monitrice puis en tant qu'Attachée Temporaire d'Enseignement",
-      "details": [{ "value": "Université Paris VI" }]
+      "periods": [{ "startDate": "10/1991", "endDate": "09/1995" }],
+      "place": "Université Paris VI",
+      "label": "Enseignement de mathématiques, en tant que monitrice puis en tant qu'Attachée Temporaire d'Enseignement"
     },
     {
-      "periods": [
-        {
-          "startDate": "10/1997",
-          "endDate": "12/2005"
-        }
-      ],
-      "label": "Chargée de recherche au CNRS",
-      "details": [
-        {
-          "value": "UMR 8519 « Savoirs et textes » (CNRS - Universités Lille 3 et Lille 1)"
-        }
-      ]
+      "periods": [{ "startDate": "10/1997", "endDate": "12/2005" }],
+      "place": "UMR 8519 « Savoirs et textes » (CNRS - Universités Lille 3 et Lille 1)",
+      "label": "Chargée de recherche au CNRS"
     },
     {
-      "periods": [
-        {
-          "startDate": "01/2006",
-          "endDate": "09/2008"
-        }
-      ],
-      "label": "Chargée de recherche au CNRS",
-      "details": [
-        {
-          "value": "UMR 7323 « Centre d'études supérieures de la Renaissance (CESR) » (CNRS – Université François Rabelais, Tours)"
-        }
-      ]
+      "periods": [{ "startDate": "01/2006", "endDate": "09/2008" }],
+      "place": "UMR 7323 « Centre d'études supérieures de la Renaissance (CESR) » (CNRS – Université François Rabelais, Tours)",
+      "label": "Chargée de recherche au CNRS"
     },
     {
-      "periods": [
-        {
-          "startDate": "16/07/2008",
-          "endDate": "31/07/2008"
-        }
-      ],
-      "label": "Visiting Fellow",
-      "details": [
-        {
-          "value": "Queens College (Oxford)"
-        }
-      ]
+      "periods": [{ "startDate": "16/07/2008", "endDate": "31/07/2008" }],
+      "place": "Queens College (Oxford)",
+      "label": "Visiting Fellow"
     },
     {
-      "periods": [
-        {
-          "startDate": "10/2008",
-          "endDate": "10/2011"
-        }
-      ],
-      "label": "Directrice de recherche",
-      "details": [
-        {
-          "value": "UMR 7323 « Centre d'études supérieures de la Renaissance (CESR) » (CNRS – Université François Rabelais, Tours)"
-        }
-      ]
+      "periods": [{ "startDate": "10/2008", "endDate": "10/2011" }],
+      "place": "UMR 7323 « Centre d'études supérieures de la Renaissance (CESR) » (CNRS – Université François Rabelais, Tours)",
+      "label": "Directrice de recherche"
     },
     {
-      "periods": [
-        {
-          "startDate": "01/2012",
-          "endDate": "06/2012"
-        }
-      ],
-      "label": "Visiting Fellow",
-      "details": [
-        {
-          "value": "All Souls College (Oxford)"
-        }
-      ]
+      "periods": [{ "startDate": "01/2012", "endDate": "06/2012" }],
+      "place": "All Souls College (Oxford)",
+      "label": "Visiting Fellow"
     },
     {
-      "periods": [
-        {
-          "startDate": "11/2011"
-        }
-      ],
-      "label": "Directrice de recherche",
-      "details": [
-        {
-          "value": "UMR 7219 « Laboratoire SPHERE (Science, Philosophie, Histoire) » (CNRS – Université Paris Cité, Paris)"
-        }
-      ]
+      "periods": [{ "startDate": "11/2011" }],
+      "place": "UMR 7219 « Laboratoire SPHERE (Science, Philosophie, Histoire) » (CNRS – Université Paris Cité, Paris)",
+      "label": "Directrice de recherche"
     },
     {
-      "periods": [
-        {
-          "startDate": "01/2018",
-          "endDate": "03/2022"
-        }
-      ],
-      "label": "Directrice du Laboratoire SPHERE",
-      "details": [
-        {
-          "value": "UMR 7219 « Laboratoire SPHERE (Science, Philosophie, Histoire) » (CNRS – Université Paris Cité, Paris)"
-        }
-      ]
+      "periods": [{ "startDate": "01/2018", "endDate": "03/2022" }],
+      "place": "UMR 7219 « Laboratoire SPHERE (Science, Philosophie, Histoire) » (CNRS – Université Paris Cité, Paris)",
+      "label": "Directrice du Laboratoire SPHERE"
     },
     {
-      "periods": [
-        {
-          "startDate": "04/2022"
-        }
-      ],
-      "label": "Directrice de recherche",
-      "details": [
-        {
-          "value": "UMR 5607 « Institut AUSONIUS » (CNRS – Université Bordeaux Montaigne, Bordeaux)"
-        }
-      ]
+      "periods": [{ "startDate": "04/2022" }],
+      "place": "UMR 5607 « Institut AUSONIUS » (CNRS – Université Bordeaux Montaigne, Bordeaux)",
+      "label": "Directrice de recherche"
     }
   ]
 }
