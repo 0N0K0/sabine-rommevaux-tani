@@ -1,5 +1,5 @@
 {
-  "title": "Enseignement",
+  "title": "Enseignements et encadrements",
   "content": [
     {
       "title": "Enseignement",
@@ -168,6 +168,38 @@
               "key": "Mémoire",
               "value": "L'apport mathématique de Piero della Francesca à la tradition latine d'Archimède. Étude philologique et mathématique du traité De spiralibus révisé par Piero della Francesca"
             }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Encadrement doctoral",
+      "content": [
+        {
+          "periods": [{ "startDate": "11/2012", "endDate": "12/2019" }],
+          "details": [
+            {
+              "key": "Encadrement de la thèse de",
+              "value": "Philippe Debroise"
+            },
+            {
+              "key": "Sujet",
+              "value": "Mathématiques de l'intensité et Merveilles de la nature. Étude sur le <i>Tractatus de configurationibus qualitatum et motuum</i> de Nicole Oresme"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "11/2021" }],
+          "details": [
+            {
+              "key": "Encadrement de la thèse de",
+              "value": "Nadiejda Tamitegama"
+            },
+            {
+              "key": "Sujet",
+              "value": "De elementis arithmetice artis de Jordanus"
+            },
+            { "value": "Soutenance prévue en 2027" }
           ]
         }
       ]
