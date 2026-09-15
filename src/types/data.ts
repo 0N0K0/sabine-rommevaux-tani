@@ -25,6 +25,7 @@ export interface Content {
   label?: string;
   link?: string;
   details?: Detail[];
+  content?: Content[];
 }
 
 export interface Data {
