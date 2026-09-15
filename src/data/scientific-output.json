@@ -8,24 +8,13 @@
           "dates": ["2005"],
           "label": "Clavius : une clé pour Euclide à la Renaissance",
           "link": "https://www.vrin.fr/livre/9782711617876/clavius-une-cle-pour-euclide-au-xvie-siecle",
-          "details": [
-            { "key": "Éditeur", "value": "« Mathesis », Vrin, Paris" }
-          ]
+          "details": [{ "value": "Vrin, Mathesis, 2005" }]
         },
         {
           "dates": ["2014"],
           "label": "Les nouvelles théories des rapports mathématiques du XIVe au XVIe siècle",
           "link": "https://www.brepols.net/products/IS-9782503530673-1",
-          "details": [
-            {
-              "key": "Travaux",
-              "value": "Edition, traduction et commentaires"
-            },
-            {
-              "key": "Éditeur",
-              "value": "« De diversis artibus », Brepols, Turnhout"
-            }
-          ]
+          "details": [{ "value": "Brepols, 2014" }]
         }
       ]
     },
@@ -33,143 +22,120 @@
       "title": "Editions critiques",
       "content": [
         {
-          "dates": ["2005"],
           "label": "Blaise de Parme, Questiones circa tractatum proportionum magistri Thome Braduardini",
           "link": "https://www.vrin.fr/livre/9782711617906/quaestiones-circa-tractatum-proportionum-magistri-thome-braduardini",
           "details": [
-            { "key": "Co-Auteur", "value": "Joël Biard" },
             {
-              "key": "Éditeur",
-              "value": "« Textes philosophiques du Moyen Âge », Vrin, Paris"
+              "value": "Introduction et édition critique de Joël Biard et Sabine Rommevaux"
+            },
+            {
+              "value": "Vrin, Textes philosophiques du Moyen Age"
             }
-          ]
+          ],
+          "dates": ["2005"]
         },
         {
-          "dates": ["2008"],
           "label": "Blaise de Parme, Questiones circa tractatum proportionum magistri Thome Braduardini, 1ère version, Questio 7 : « Utrum velocitas motus sequitur proportionem potentie motive ad resistentiam. »",
           "details": [
-            { "key": "Co-Auteur", "value": "Joël Biard" },
-            { "key": "Travaux", "value": "Transcription" },
+            { "value": "transcription de Joël Biard et Sabine Rommevaux" },
             {
-              "key": "Ouvrage",
-              "value": "Mathématiques et théorie du mouvement (XIVe—XVIe siècles)",
+              "key": "Dans",
+              "value": "Sabine Rommevaux, Joël Biard (Dir.). Mathématiques et théorie du mouvement (XIVe—XVIe siècles). Presses universitaires du Septentrion, Villeneuve d’Ascq, 2008",
               "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
             },
-            {
-              "key": "Éditeur",
-              "value": "Presses universitaires du Septentrion, Villeneuve d’Ascq"
-            },
-            {
-              "key": "Pages",
-              "value": "53 à 57"
-            }
-          ]
+            { "key": "Pages", "value": "53-57" }
+          ],
+          "dates": ["2008"]
         },
         {
-          "dates": ["2009"],
           "label": "Blaise de Parme, Quaestio « Utrum spericum positum supra planum tangat ipsum precise in puncto »",
           "details": [
-            { "key": "Co-Auteur", "value": "Joël Biard" },
-            { "key": "Travaux", "value": "Édition critique et traduction" },
             {
-              "key": "Ouvrage",
-              "value": "La question de Blaise de Parme sur le contact entre une sphère et un plan",
+              "value": "Édition critique avec traduction française de Joël Biard et Sabine Rommevaux"
+            },
+            {
+              "key": "Dans",
+              "value": "Joël Biard, Sabine Rommevaux. La question de Blaise de Parme sur le contact entre une sphère et un plan. Early Science and Medicine, 2009, 14",
               "link": "https://brill.com/view/journals/esm/14/4/article-p476_3.xml?srsltid=AfmBOop02pFQS6WYY7EbBmQoRIyOStsgDtxbLXk8iReknq5DXb3ZKkv7"
             },
-            {
-              "key": "Pages",
-              "value": "505 à 538"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Early Science and Medicine 14"
-            }
-          ]
+            { "key": "Pages", "value": "5505-538" }
+          ],
+          "dates": ["2009"]
         },
         {
-          "dates": ["2012"],
           "label": "Blaise de Parme, Questiones diputate super octo libros physicorum. Liber IV, Quaestiones 4 & 5",
           "details": [
-            { "key": "Co-auteur", "value": "Joël Biard" },
-            { "key": "Travaux", "value": "Édition critique et traduction" },
             {
-              "key": "Ouvrage",
-              "value": "La nature et le vide dans la physique médiévale. Etudes dédiées à Edward Grant",
+              "value": "édition critique et traduction de Joël Biard et Sabine Rommevaux"
+            },
+            {
+              "key": "Dans",
+              "value": "La nature et le vide dans la physique médiévale. Brepols, 2012",
               "link": "https://www.brepols.net/products/IS-9782503544762-1"
             },
             {
               "key": "Pages",
-              "value": "317 à 378"
-            },
-            {
-              "key": "Éditeur",
-              "value": "Brepols, Turnhout"
+              "value": "317-378"
             }
-          ]
+          ],
+          "dates": ["2012"]
         },
         {
-          "dates": ["2014"],
           "label": "Nicole Oresme, Algorismus proportionum",
           "details": [
             {
-              "key": "Ouvrage",
-              "value": "Les nouvelles théories des rapports mathématiques du XIVe au XVIe siècle",
+              "key": "Dans",
+              "value": "Sabine Rommevaux. Les nouvelles théories des rapports mathématiques du XIVe au XVIe siècle, Brepols, 2014",
               "link": "https://www.brepols.net/products/IS-9782503530673-1"
-            },
-            {
-              "key": "Éditeur",
-              "value": "« De diversis artibus », Turnhout, Brepols"
             }
-          ]
+          ],
+          "dates": ["2014"]
         },
         {
-          "dates": ["2022"],
           "label": "« De sex inconvenientibus » Un traité anonyme de philosophie naturelle au XIVe siècle",
           "link": "https://www.vrin.fr/livre/9782711630226/de-sex-inconvenientibus",
           "details": [
             {
-              "key": "Travaux",
-              "value": "Édition, introduction et étude doctrilnale"
+              "value": "Édition, introduction et étude doctrinale de Sabine Rommevaux-Tani"
             },
             {
-              "key": "Éditeur",
               "value": "« Textes philosophiques du Moyen Âge », Vrin, Paris"
             }
-          ]
+          ],
+          "dates": ["2022"]
         },
         {
-          "dates": ["2026"],
           "label": "Les Embammata physicalia de Jacques Almain",
           "link": "http://almain.huma-num.fr",
           "details": [
             {
-              "key": "Collaboration",
-              "value": "Daniel Di Liscia"
+              "value": "édition critique numérique de Sabine Rommevaux-Tani"
             },
             {
-              "key": "Travaux",
-              "value": "Édition critique numérique"
+              "value": "avec la collaboration de Daniel Di Liscia"
             }
-          ]
+          ],
+          "dates": ["2026"]
         },
         {
-          "dates": ["2026"],
           "label": "Les Problemata dans les Questiones super physicam de Blaise de Parme",
           "link": "http://problemata.huma-num.fr",
           "details": [
             {
-              "key": "Travaux",
-              "value": "Édition critique numérique"
+              "value": "dition critique numérique de Sabine Rommevaux-Tani"
             }
-          ]
+          ],
+          "dates": ["2026"]
         },
         {
-          "dates": ["En préparation"],
-          "label": "Blasius de Parma, Questiones disputate super octo libros physicorum, livre VII"
+          "label": "Blasius de Parma, Questiones disputate super octo libros physicorum, livre VII",
+          "details": [{ "value": "Sabine Rommevaux-Tani" }],
+          "dates": ["en préparation"]
         },
         {
-          "dates": ["En préparation"],
-          "label": "Radulphus Brito, Questiones mathematiceI"
+          "label": "Radulphus Brito, Questiones mathematiceI",
+          "details": [{ "value": "Sabine Rommevaux-Tani" }],
+          "dates": ["en préparation"]
         }
       ]
     },
@@ -177,7 +143,6 @@
       "title": "Traductions commentées",
       "content": [
         {
-          "dates": ["2005"],
           "label": "Thomas Bradwadine, Le continu, extraits",
           "details": [
             {
@@ -197,7 +162,8 @@
               "key": "Éditeur",
               "value": "Les Belles Lettres, Paris"
             }
-          ]
+          ],
+          "dates": ["2005"]
         },
         {
           "dates": ["2010"],
@@ -1730,77 +1696,6 @@
             {
               "key": "Éditeur",
               "value": "British Journal for the History of Mathematics"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Organisation de colloques internationaux",
-      "content": [
-        {
-          "periods": [{ "startDate": "15/03/2002", "endDate": "16/03/2002" }],
-          "place": "Villeneuve d’Ascq",
-          "label": "La réception des Eléments d’Euclide au Moyen Age et à la Renaissance",
-          "details": [{ "value": "Université Lille 3" }]
-        },
-        {
-          "periods": [{ "startDate": "24/11/2006", "endDate": "25/11/2006" }],
-          "place": "Tours",
-          "label": "Formes d’articulation entre mathématiques et philosophie naturelle (XIVe – XVIe siècles)",
-          "details": [
-            { "value": "Centre d’études supérieures de la Renaissance" }
-          ]
-        },
-        {
-          "periods": [{ "startDate": "30/06/2008", "endDate": "04/07/2008" }],
-          "place": "Tours",
-          "label": "Proportions",
-          "details": [
-            {
-              "value": "Centre d’études supérieures de la Renaissance"
-            },
-            {
-              "key": "Co-organisateurs",
-              "value": "Philippe Vendrix et Vasco Zara"
-            }
-          ]
-        },
-        {
-          "periods": [{ "startDate": "13/05/2009", "endDate": "15/05/2009" }],
-          "place": "Tours",
-          "label": "Unité ou pluralité de l’algèbre en Europe (XIIe-XVIe siècles)",
-          "details": [
-            {
-              "value": "Centre d’études supérieures de la Renaissance"
-            },
-            {
-              "key": "Co-organisateurs",
-              "value": "Maryvonne Spiesser et Maria Rosa Massa-Estève"
-            }
-          ]
-        },
-        {
-          "periods": [{ "startDate": "08/12/2010", "endDate": "10/12/2010" }],
-          "place": "Tours",
-          "label": "Ce que les mathématiciens de la Renaissance disent des mathématiques et de leurs applications",
-          "details": [
-            {
-              "value": "Centre d’études supérieures de la Renaissance"
-            }
-          ]
-        },
-        {
-          "periods": [{ "startDate": "18/11/2021", "endDate": "19/11/2021" }],
-          "place": "Paris",
-          "label": "Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13e siècle",
-          "details": [
-            {
-              "value": "SPHERE"
-            },
-            {
-              "key": "Co-organisateurs",
-              "value": "Iacopo Costa (LEM), Ana Maria Mora Marquez (Université de Gothenburg) et Laurent Cessali (Université de Genève)"
             }
           ]
         }

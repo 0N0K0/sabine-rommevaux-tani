@@ -1,0 +1,34 @@
+{
+  "dates": [""],
+  "periods": [{ "startDate": "", "endDate": ""}],
+  "place": "",
+  "label": "",
+  "link": "",
+  "details": [
+    {
+      "key": "Auteur",
+      "value": ""
+    },
+    {
+      "key": "Travaux",
+      "value": ""
+    },
+    {
+      "key": "Ouvrage",
+      "value": "",
+      "link": ""
+    },
+    {
+      "key": "Pages",
+      "value": ""
+    },
+    {
+      "key": "Éditeur",
+      "value": ""
+    }
+  ]
+}
+
+{
+  "title": "",
+  "content": []}

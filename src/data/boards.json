@@ -1,0 +1,241 @@
+{
+  "title": "Participation à des jurys de thèse et d'HDR",
+  "content": [
+    {
+      "dates": ["10/2006"],
+      "label": "Membre du jury",
+      "details": [
+        {
+          "key": "Étudiant",
+          "value": "Shinichiro Higashi"
+        },
+        {
+          "key": "Sujet",
+          "value": "Thèse de philosophie : Penser les mathématiques au xvie siècle"
+        },
+        {
+          "key": "Directeur",
+          "value": "Joël Biard"
+        },
+        {
+          "value": "Université de Tours"
+        }
+      ]
+    },
+    {
+      "dates": ["11/2007"],
+      "label": "Membre du jury",
+      "details": [
+        {
+          "key": "Étudiant",
+          "value": "Matthieu Husson"
+        },
+        {
+          "key": "Sujet",
+          "value": "Thèse en histoire des mathématiques médiévales : Les domaines d’application des mathématiques dans la première moitié du quatorzième siècle"
+        },
+        {
+          "key": "Directrice",
+          "value": "Danièle Jacquart"
+        },
+        {
+          "value": "EPHE"
+        }
+      ]
+    },
+    {
+      "dates": ["10/2011"],
+      "label": "Membre du jury",
+      "details": [
+        {
+          "key": "Étudiante",
+          "value": "Odile Kouteynikoff"
+        },
+        {
+          "key": "Sujet",
+          "value": "Thèse en Epistémologie et histoire des sciences : Les domaines d’application des mathématiques dans la première moitié du quatorzième siècle"
+        },
+        {
+          "key": "Directeur",
+          "value": "Jean-Jacques Szczeciniaz"
+        },
+        {
+          "value": "Université Paris 7"
+        }
+      ]
+    },
+    {
+      "dates": ["10/2013"],
+      "label": "Membre du jury",
+      "details": [
+        {
+          "key": "Étudiante",
+          "value": "Sara Confalioneri"
+        },
+        {
+          "key": "Sujet",
+          "value": "Thèse en Histoire et philosophie des sciences : The telling of the unattainable attempt to avoid the casus irreducibilis for cubic equations: Cardano’s De Regula Aliza"
+        },
+        {
+          "key": "Directeurs",
+          "value": "Massimo Galuzzi (Université de Milan) et Marco Panza (université Paris 7)"
+        },
+        {
+          "value": "Université Paris 7"
+        }
+      ]
+    },
+    {
+      "dates": ["12/2013"],
+      "label": "Membre du jury",
+      "details": [
+        {
+          "key": "Étudiant",
+          "value": "Thierry Sebbag"
+        },
+        {
+          "key": "Sujet",
+          "value": "Thèse en Études psychanalytiques : Pour une archéologie de la virginité"
+        },
+        {
+          "key": "Directeur",
+          "value": "Bernard Salignon"
+        },
+        {
+          "value": "Université Montpellier III"
+        }
+      ]
+    },
+    {
+      "dates": ["12/2016"],
+      "label": "Présidente du jury",
+      "details": [
+        {
+          "key": "Étudiant",
+          "value": "João F. N. Cortese"
+        },
+        {
+          "key": "Sujet",
+          "value": "Thèse en Histoire et philosophie des sciences : L’infini en poids, nombre et mesure : la comparaison des incomparables dans l’œuvre de Blaise Pascal"
+        },
+        {
+          "key": "Directeurs",
+          "value": "David Rabouin (Université Paris 7) et Luis Cesar Guimaraes Oliva (Univeristé de São Paulo, Bresil)"
+        },
+        {
+          "value": "Université Paris 7"
+        }
+      ]
+    },
+    {
+      "dates": ["12/2016"],
+      "label": "Présidente du jury",
+      "details": [
+        {
+          "key": "Étudiante",
+          "value": "Eleonora Smmarchi"
+        },
+        {
+          "key": "Sujet",
+          "value": "Thèse en Histoire et philosophie des sciences : L’algèbre des polynômes : le Qisṭāsal-mu‘ādala fī‘ilm al-jabr wa’l-muqābala d’al-Zanjānī (XIIIe siècle)"
+        },
+        {
+          "key": "Directeur",
+          "value": "Pascal Crozet"
+        },
+        {
+          "value": "Université Paris 7"
+        }
+      ]
+    },
+    {
+      "dates": ["12/2018"],
+      "label": "Membre du jury",
+      "details": [
+        {
+          "key": "Soutenant",
+          "value": "Remy Potier"
+        },
+        {
+          "key": "Sujet",
+          "value": "HDR en Psychanalyse : Le numérique à l’épreuve de la Psychanalyse. Enjeux psycho(patho)logique et épistémologiques des algorithmes au quotidien"
+        },
+        {
+          "value": "Université Paris Diderot"
+        }
+      ]
+    },
+    {
+      "dates": ["03/2019"],
+      "label": "Présidente du jury",
+      "details": [
+        {
+          "key": "Soutenant",
+          "value": "Marc Moyon"
+        },
+        {
+          "key": "Sujet",
+          "value": "HDR en Histoire des sciences : Des savoirs en circulation : transmissions, appropriations, traductions en histoire des mathématiques"
+        },
+        {
+          "value": "Université de Limoges"
+        }
+      ]
+    },
+    {
+      "dates": ["12/2019"],
+      "label": "Présidente du jury",
+      "details": [
+        {
+          "key": "Soutenant",
+          "value": "Aurélien Robert"
+        },
+        {
+          "key": "Sujet",
+          "value": "HDR en Histoire des sciences : De la substance à l’atome. Sur les traces du matérialisme au Moyen Âge"
+        },
+        {
+          "value": "Université de Tours"
+        }
+      ]
+    },
+    {
+      "dates": ["12/2019"],
+      "label": "Présidente du jury",
+      "details": [
+        {
+          "key": "Étudiante",
+          "value": "Zeinab Karimian"
+        },
+        {
+          "key": "Sujet",
+          "value": "Thèse en Histoire des sciences : La Recension des Coniques d’Apollonius par Naṣīr al-Dīn al-Ṭūsī : texte, traduction et commentaires du livre I"
+        },
+        {
+          "key": "Directeur",
+          "value": "Pascal Crozet"
+        },
+        {
+          "value": "Université de Paris"
+        }
+      ]
+    },
+    {
+      "dates": ["12/2019"],
+      "label": "Membre du jury et directrice",
+      "details": [
+        {
+          "key": "Étudiant",
+          "value": "Philippe Debroise"
+        },
+        {
+          "key": "Sujet",
+          "value": "Thèse en Histoire et philosophie des sciences : Mathématiques de l’intensité et Merveilles de la nature. Étude sur le Tractatus de configurationibus qualitatum et motuum de Nicole Oresme"
+        },
+        {
+          "value": "Université de Paris"
+        }
+      ]
+    }
+  ]
+}

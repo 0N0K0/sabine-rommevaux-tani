@@ -1,0 +1,371 @@
+{
+  "title": "Manifestations scientifiques",
+  "content": [
+    {
+      "title": "Organisation de colloques internationaux",
+      "content": [
+        {
+          "periods": [{ "startDate": "15/03/2002", "endDate": "16/03/2002" }],
+          "place": "Villeneuve d’Ascq",
+          "label": "La réception des Eléments d’Euclide au Moyen Age et à la Renaissance",
+          "details": [{ "value": "Université Lille 3" }]
+        },
+        {
+          "periods": [{ "startDate": "24/11/2006", "endDate": "25/11/2006" }],
+          "place": "Tours",
+          "label": "Formes d’articulation entre mathématiques et philosophie naturelle (XIVe – XVIe siècles)",
+          "details": [
+            { "value": "Centre d’études supérieures de la Renaissance" }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "30/06/2008", "endDate": "04/07/2008" }],
+          "place": "Tours",
+          "label": "Proportions",
+          "details": [
+            {
+              "value": "Centre d’études supérieures de la Renaissance"
+            },
+            {
+              "value": "avec Philippe Vendrix (Centre d’études supérieures de la Renaissance) et Vasco Zara (Université de Bourgogne)"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "13/05/2009", "endDate": "15/05/2009" }],
+          "place": "Tours",
+          "label": "Unité ou pluralité de l’algèbre en Europe (XIIe-XVIe siècles)",
+          "details": [
+            {
+              "value": "Centre d’études supérieures de la Renaissance"
+            },
+            {
+              "key": "Co-organisateurs",
+              "value": "Maryvonne Spiesser (Université Toulouse 3 Paul Sabatier) et Maria Rosa Massa-Estève (Université Polytechnique de Catalogne)"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "08/12/2010", "endDate": "10/12/2010" }],
+          "place": "Tours",
+          "label": "Ce que les mathématiciens de la Renaissance disent des mathématiques et de leurs applications",
+          "details": [
+            {
+              "value": "Centre d’études supérieures de la Renaissance"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "18/11/2021", "endDate": "19/11/2021" }],
+          "place": "Paris",
+          "label": "Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13e siècle",
+          "details": [
+            {
+              "value": "SPHERE"
+            },
+            {
+              "key": "Co-organisateurs",
+              "value": "Iacopo Costa (LEM), Ana Maria Mora Marquez (Université de Gothenburg) et Laurent Cessali (Université de Genève)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Organisation de journées d’études",
+      "content": [
+        {
+          "dates": ["07/12/2002"],
+          "place": "Villeneuve d’Ascq",
+          "label": "Le livre V des Eléments d’Euclide",
+          "details": [
+            {
+              "value": "Université Lille 3"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "04/04/2003", "endDate": "05/04/2003" }],
+          "place": "Villeneuve d’Ascq",
+          "label": "La question du continu au Moyen Age",
+          "details": [
+            {
+              "value": "Université Lille 3"
+            }
+          ]
+        },
+        {
+          "dates": ["12/05/2004"],
+          "place": "Paris",
+          "label": "Mathématiques et philosophie de la nature au Moyen Age",
+          "details": [
+            {
+              "value": "Séminaire de l’IHP"
+            }
+          ]
+        },
+        {
+          "periods": [{ "startDate": "06/10/2005", "endDate": "08/10/2005" }],
+          "place": "Paris",
+          "label": "Journée de’études en hommage à Gérard Simon",
+          "details": [
+            {
+              "value": "Université Paris IV"
+            },
+            {
+              "key": "Co-organisateur",
+              "value": "Bernard Joly (Université Lille 3)"
+            }
+          ]
+        },
+        {
+          "dates": ["01/12/2006"],
+          "place": "Tours",
+          "label": "Algèbre et arithmétique",
+          "details": [
+            {
+              "value": "Centre d’études supérieures de la Renaissance"
+            }
+          ]
+        },
+        {
+          "dates": ["15/06/2007"],
+          "place": "Tours",
+          "label": "Algébrisation du livre X des Éléments d’Euclide",
+          "details": [
+            {
+              "value": "Centre d’études supérieures de la Renaissance"
+            }
+          ]
+        },
+
+        {
+          "dates": ["11/01/2008"],
+          "place": "Tours",
+          "label": "Autour de l’algèbre de Pedro Nuñez",
+          "details": [
+            {
+              "value": "Centre d’études supérieures de la Renaissance"
+            }
+          ]
+        },
+        {
+          "dates": ["06/01/2013"],
+          "place": "Paris",
+          "label": "Les calculatores d’Oxford",
+          "details": [
+            {
+              "value": "Séminaire Sciences et philosophie de l’Antiquité à l’Age classique, SPHERE"
+            }
+          ]
+        },
+        {
+          "dates": ["15/04/2013"],
+          "place": "Paris",
+          "label": "Algèbre arabe, algèbre au Moyen Age latin et à la Renaissance",
+          "details": [
+            {
+              "value": "Séminaire Histoire et philosophie des mathématiques, SPHERE"
+            },
+            {
+              "key": "Co-organisateur",
+              "value": "Odile Kouteynikoff (Laboratoire SPHERE)"
+            }
+          ]
+        },
+        {
+          "dates": ["05/12/2013"],
+          "place": "Paris",
+          "label": "La notion de nature au Moyen-Âge",
+          "details": [
+            {
+              "value": "Séminaire Sciences et Philosophie de l’Antiquité à l’Age classique"
+            },
+            {
+              "value": "Laboratoire SPHERE"
+            }
+          ]
+        },
+        {
+          "dates": ["16/01/2014"],
+          "place": "Poitiers",
+          "label": "Cadres théoriques en confrontation avec la nature et l’expérience au Moyen Age",
+          "details": [
+            {
+              "value": "Espace Mendès France"
+            }
+          ]
+        },
+        {
+          "dates": ["07/04/2014"],
+          "place": "Paris",
+          "label": "Algèbres arabes et gréco-latines du IXe au XVIe siècles",
+          "details": [
+            {
+              "value": "Séminaire d’histoire des mathématiques"
+            },
+            {
+              "value": "Laboratoire SPHERE"
+            }
+          ]
+        },
+        {
+          "dates": ["15/01/2015"],
+          "place": "Poitiers",
+          "label": "Les libertés de la pensée médiévale",
+          "details": [
+            {
+              "value": "Espace Mendès France"
+            }
+          ]
+        },
+        {
+          "dates": ["14/01/2016"],
+          "place": "Poitiers",
+          "label": "L’apport de la science et de la philosophie arabe à l’Europe occidentale",
+          "details": [
+            {
+              "value": "Espace Mendès France"
+            }
+          ]
+        },
+        {
+          "dates": ["12/01/2017"],
+          "place": "Poitiers",
+          "label": "Le legs médiéval : héritage humaniste des érudits arabes et latins du Moyen Age",
+          "details": [
+            {
+              "value": "Espace Mendès France"
+            }
+          ]
+        },
+        {
+          "dates": ["21/06/2018"],
+          "place": "Paris",
+          "label": "Peut-on parler de la génération comme d’un mouvement ?",
+          "details": [
+            {
+              "value": "Laboratoire SPHERE"
+            },
+            {
+              "key": "Co-organisateur",
+              "value": "Daniel Di Liscia (Université de Munich)"
+            }
+          ]
+        },
+        {
+          "dates": ["18/10/2018"],
+          "place": "Paris",
+          "label": "Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (XIIIe - XIVe siècle)",
+          "details": [
+            {
+              "value": "Laboratoire SPHERE"
+            },
+            {
+              "key": "Co-organisateur",
+              "value": "Aurora Panzica (Fonds National Suisse de la Recherche Scientifique)"
+            }
+          ]
+        },
+        {
+          "dates": ["06/06/2019"],
+          "place": "Paris",
+          "label": "Le temps dans la physique du XIVe siècle",
+          "details": [
+            {
+              "value": "Laboratoire SPHERE"
+            },
+            {
+              "key": "Co-organisateur",
+              "value": "Daniel Di Liscia (Université de Munich)"
+            }
+          ]
+        },
+        {
+          "dates": ["27/02/2020"],
+          "place": "Paris",
+          "label": "Méthodologies pour l’édition critique de textes mathématiques et philosophiques de l’Antiquité",
+          "details": [
+            {
+              "value": "Laboratoire SPHERE"
+            },
+            {
+              "key": "Co-organisateur",
+              "value": "Valérie Cordonier (Laboratoire SPHERE)"
+            }
+          ]
+        },
+        {
+          "dates": ["23/06/2022"],
+          "place": "Paris",
+          "label": "Problemata de philosophie naturelle : l’imaginaire, le merveilleux, le quotidien",
+          "details": [
+            {
+              "value": "Laboratoire SPHERE"
+            },
+            {
+              "key": "Co-organisateur",
+              "value": "Aurora Panzica (Fonds National Suisse de la Recherche Scientifique)"
+            }
+          ]
+        },
+        {
+          "dates": ["16/03/2023"],
+          "place": "Paris",
+          "label": "La perfection des espèces et le fondement métaphysique de la science médiévale",
+          "details": [
+            {
+              "value": "Laboratoire SPHERE"
+            },
+            {
+              "key": "Co-organisateur",
+              "value": "Daniel Di Liscia (Université de Munich)"
+            }
+          ]
+        },
+        {
+          "dates": ["14/02/2024"],
+          "place": "Bordeaux",
+          "label": "Les problemata en langues vernaculaires",
+          "details": [
+            {
+              "value": "Institut AUSONIUS"
+            },
+            {
+              "key": "Co-organisateur",
+              "value": "Aurora Panzica (Fonds National Suisse de la Recherche Scientifique)"
+            }
+          ]
+        },
+        {
+          "dates": ["23/05/2024"],
+          "place": "Bordeaux",
+          "label": "Sciences et savoirs en Aquitaine à l’époque de Montaigne",
+          "details": [
+            {
+              "value": "Université Bordeaux-Montaigne"
+            },
+            {
+              "key": "Co-organisateurs",
+              "value": "Anne Boucharain (Université Bordeaux-Montaigne) et Violaine Giacomotto-Charra (Université Bordeaux-Montaigne)"
+            }
+          ]
+        },
+        {
+          "dates": ["13/01/2025"],
+          "place": "Bordeaux",
+          "label": "Les sources de Jacques Almain pour son traitement de la quantité dans les Embammata Pysicialia",
+          "details": [
+            {
+              "value": "Université Bordeaux-Montaigne"
+            },
+            {
+              "key": "Co-organisateur",
+              "value": "Daniel Di Liscia (Université de Munich)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
