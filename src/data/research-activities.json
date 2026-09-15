@@ -21,7 +21,7 @@
         { "value": "Projet ayant reçu une Aide à Projet Nouveau du CNRS" },
         {
           "key": "Publication d'un",
-          "value": "numéro spécial de <i>la Revue d'histoire des sciences, 56</i>(2) (2003)",
+          "value": "numéro spécial de la Revue d'histoire des sciences, 56/2 (2003)",
           "link": "https://www.persee.fr/issue/rhs_0151-4105_2003_num_56_2"
         }
       ]
@@ -42,13 +42,13 @@
       "details": [
         {
           "key": "Au sein de l'",
-          "value": "équipe d'histoire des sciences du CESR"
+          "value": "équipe d'histoire des sciences du Centre d’Études Supérieures de la Renaissance (CESR)"
         }
       ]
     },
     {
       "periods": [{ "startDate": "09/2012", "endDate": "06/2022" }],
-      "place": "SPHERE",
+      "place": "Laboratoire SPHERE",
       "label": "Responsable du séminaire d'histoire des mathématiques à la Renaissance ; Co-responsable du sous-axe « Philosophie naturelle de l'Antiquité à l'Age classique »"
     },
     {

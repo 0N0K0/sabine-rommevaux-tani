@@ -15,7 +15,7 @@
           "place": "Tours",
           "label": "Formes d’articulation entre mathématiques et philosophie naturelle (XIVe – XVIe siècles)",
           "details": [
-            { "value": "Centre d’études supérieures de la Renaissance" }
+            { "value": "Centre d’Études Supérieures de la Renaissance (CESR)" }
           ]
         },
         {
@@ -24,10 +24,10 @@
           "label": "Proportions",
           "details": [
             {
-              "value": "Centre d’études supérieures de la Renaissance"
+              "value": "Centre d’études supérieures de la Renaissance (CESR)"
             },
             {
-              "value": "avec Philippe Vendrix (Centre d’études supérieures de la Renaissance) et Vasco Zara (Université de Bourgogne)"
+              "value": "avec Philippe Vendrix (CESR) et Vasco Zara (Université de Bourgogne)"
             }
           ]
         },
@@ -37,7 +37,7 @@
           "label": "Unité ou pluralité de l’algèbre en Europe (XIIe-XVIe siècles)",
           "details": [
             {
-              "value": "Centre d’études supérieures de la Renaissance"
+              "value": "Centre d’études supérieures de la Renaissance (CESR)"
             },
             {
               "key": "Co-organisateurs",
@@ -51,7 +51,7 @@
           "label": "Ce que les mathématiciens de la Renaissance disent des mathématiques et de leurs applications",
           "details": [
             {
-              "value": "Centre d’études supérieures de la Renaissance"
+              "value": "Centre d’études supérieures de la Renaissance (CESR)"
             }
           ]
         },
@@ -61,7 +61,7 @@
           "label": "Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13e siècle",
           "details": [
             {
-              "value": "SPHERE"
+              "value": "Laboratoire SPHERE"
             },
             {
               "key": "Co-organisateurs",
@@ -124,7 +124,7 @@
           "label": "Algèbre et arithmétique",
           "details": [
             {
-              "value": "Centre d’études supérieures de la Renaissance"
+              "value": "Centre d’études supérieures de la Renaissance (CESR)"
             }
           ]
         },
@@ -134,7 +134,7 @@
           "label": "Algébrisation du livre X des Éléments d’Euclide",
           "details": [
             {
-              "value": "Centre d’études supérieures de la Renaissance"
+              "value": "Centre d’études supérieures de la Renaissance (CESR)"
             }
           ]
         },
@@ -145,7 +145,7 @@
           "label": "Autour de l’algèbre de Pedro Nuñez",
           "details": [
             {
-              "value": "Centre d’études supérieures de la Renaissance"
+              "value": "Centre d’études supérieures de la Renaissance (CESR)"
             }
           ]
         },
@@ -155,7 +155,7 @@
           "label": "Les calculatores d’Oxford",
           "details": [
             {
-              "value": "Séminaire Sciences et philosophie de l’Antiquité à l’Age classique, SPHERE"
+              "value": "Séminaire Sciences et philosophie de l’Antiquité à l’Age classique, Laboratoire SPHERE"
             }
           ]
         },
@@ -165,7 +165,7 @@
           "label": "Algèbre arabe, algèbre au Moyen Age latin et à la Renaissance",
           "details": [
             {
-              "value": "Séminaire Histoire et philosophie des mathématiques, SPHERE"
+              "value": "Séminaire Histoire et philosophie des mathématiques, Laboratoire SPHERE"
             },
             {
               "key": "Co-organisateur",
