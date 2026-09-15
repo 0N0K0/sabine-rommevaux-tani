@@ -1,4 +1,4 @@
-import { AppShell, Tabs, Text, Title } from '@mantine/core';
+import { AppShell, Tabs } from '@mantine/core';
 import { FooterContent } from './footer';
 import { HeaderContent } from './header';
 import { useDataFiles } from '../hooks/useDataFiles';
@@ -10,20 +10,7 @@ export function Layout() {
 
   if (error) return <p>{error.message}</p>;
 
-  console.log(files);
-
   return (
-    // <>
-    //   {files.map((file) => (
-    //     <button key={file} onClick={() => loadFile(file)}>
-    //       {file}
-    //     </button>
-    //   ))}
-
-    //   {loading && <p>Chargement...</p>}
-
-    //   {selected && <pre>{JSON.stringify(data, null, 2)}</pre>}
-    // </>
     <AppShell header={{ height: 72 }} footer={{ height: 60 }}>
       <AppShell.Header>
         <HeaderContent />
