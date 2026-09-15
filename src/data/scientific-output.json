@@ -682,52 +682,6 @@
       ]
     },
     {
-      "title": "Articles dans des ouvrages de vulgarisation",
-      "content": [
-        {
-          "dates": ["02/2000"],
-          "label": "« Le langage des proportions »",
-          "details": [
-            {
-              "key": "<i>in</i>",
-              "value": "« Mathématiques : ce que les Grecs ont vraiment inventé », <i>Les cahiers de Sciences et Vie</i>, 55 (02/2000), p. 82-89"
-            }
-          ]
-        },
-        {
-          "dates": ["2002"],
-          "label": "« Mathématiques »",
-          "details": [
-            {
-              "key": "<i>in</i>",
-              "value": "<i>Dictionnaire du Moyen Age</i>, Paris, PUF (2002), p. 890-894",
-              "link": "https://www.puf.com/dictionnaire-du-moyen-age"
-            }
-          ]
-        },
-        {
-          "dates": ["2013"],
-          "label": "« Une Quæstio médiévale : est-ce que la diagonale d’un carré est commensurable au côté de ce carré ? », Images des mathématiques (2013)",
-          "link": "https://doi.org/10.60868/hm4q-ym83",
-          "details": [
-            {
-              "value": "Libre accès en ligne"
-            }
-          ]
-        },
-        {
-          "dates": ["2014"],
-          "label": "« Traduire les démonstrations des livres I à VI des <i>Éléments</i> d’Euclide sous forme de syllogismes », Images des mathématiques (2014)",
-          "link": "https://doi.org/10.60868/gmng-8c94",
-          "details": [
-            {
-              "value": "Libre accès en ligne"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "Analyses d’ouvrages",
       "content": [
         {
