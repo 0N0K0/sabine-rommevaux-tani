@@ -13,9 +13,9 @@ export interface Period {
 }
 
 export interface Detail {
-  key: string;
-  value: string | string[];
-  link: string;
+  key?: string;
+  value?: string | string[];
+  link?: string;
 }
 
 export interface Content {
@@ -24,7 +24,7 @@ export interface Content {
   place?: string;
   label?: string;
   link?: string;
-  details: Detail[];
+  details?: Detail[];
 }
 
 export interface Data {

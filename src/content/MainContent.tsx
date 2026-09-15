@@ -1,5 +1,6 @@
 import { Tabs } from '@mantine/core';
 import { useDataFiles } from '../hooks/useDataFiles';
+import { PanelContent } from './PanelContent';
 
 export function MainContent() {
   const { files, selected, data, loading, error, loadFile } = useDataFiles();
@@ -32,11 +33,7 @@ export function MainContent() {
       </Tabs.List>
       {files.map((file) => (
         <Tabs.Panel key={file.name} value={file.name}>
-          {loading ? (
-            <p>Chargement...</p>
-          ) : (
-            <pre>{JSON.stringify(data, null, 2)}</pre>
-          )}
+          {loading ? <p>Chargement...</p> : <PanelContent data={data} />}
         </Tabs.Panel>
       ))}
     </Tabs>
