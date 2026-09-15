@@ -2,101 +2,63 @@
   "title": "Conférences grand public",
   "content": [
     {
-      "dates": ["16/01/2014"],
-      "label": "Cadres théoriques en confrontation avec la nature et l'expérience au Moyen Age",
-      "details": [
+      "periods": [{ "startDate": "2014", "endDate": "2017" }],
+      "label": "Cycle de conférences destinées aux étudiants de Master et au grand public",
+      "details": [{ "value": "Espace Mendès France, Poitiers" }],
+      "content": [
         {
-          "value": "Cycle de conférences destinées aux étudiants de Master et au grand public"
+          "dates": ["16/01/2014"],
+          "label": "Cadres théoriques en confrontation avec la nature et l'expérience au Moyen Age"
         },
         {
-          "value": "Espace Mendès France, Poitiers"
-        }
-      ]
-    },
-    {
-      "dates": ["15/01/2015"],
-      "label": "Les libertés de la pensée médiévale",
-      "details": [
-        {
-          "value": "Cycle de conférences destinées aux étudiants de Master et au grand public"
+          "dates": ["15/01/2015"],
+          "label": "Les libertés de la pensée médiévale"
         },
         {
-          "value": "Espace Mendès France, Poitiers"
-        }
-      ]
-    },
-    {
-      "dates": "14/01/2016",
-      "label": "L'apport de la science et de la philosophie arabe à l'Europe occidentale",
-      "details": [
-        {
-          "value": "Cycle de conférences destinées aux étudiants de Master et au grand public"
+          "dates": ["14/01/2016"],
+          "label": "L'apport de la science et de la philosophie arabe à l'Europe occidentale"
         },
         {
-          "value": "Espace Mendès France, Poitiers"
-        }
-      ]
-    },
-    {
-      "dates": ["12/01/2017"],
-      "label": "Le legs médiéval : héritage humaniste des érudits arabes et latins du Moyen Age",
-      "details": [
-        {
-          "value": "Cycle de conférences destinées aux étudiants de Master et au grand public"
-        },
-        {
-          "value": "Espace Mendès France, Poitiers"
+          "dates": ["12/01/2017"],
+          "label": "Le legs médiéval : héritage humaniste des érudits arabes et latins du Moyen Age"
         }
       ]
     },
     {
       "dates": ["07/10/2023", "08/10/2023"],
-      "label": "L'université médiévale : un lieu de débat",
+      "place": "Les Médiévales de Fournols",
+      "label": "Conférence grand public",
       "details": [
+        { "value": "L'université médiévale : un lieu de débat" },
         {
-          "value": "Conférence grand public"
-        },
-        {
-          "value": "Les médiévales de Fournols",
           "link": "https://www.fetes-medievales.com/site/les-medievales-de-fournols"
         }
       ]
     },
     {
       "dates": ["08/02/2024"],
-      "label": "La fabuleuse histoire des Eléments d'Euclide",
+      "place": "Espace La Croix-Davids, Bourg sur Gironde",
+      "label": "Conférence grand public",
       "details": [
+        { "value": "La fabuleuse histoire des Eléments d'Euclide" },
         {
-          "value": "Conférence grand public"
-        },
-        {
-          "value": "Espace La Croix-Davids, Bourg sur Gironde",
           "link": "https://www.facebook.com/espacelacroixdavids/posts/899514955199817/"
         }
       ]
     },
     {
       "dates": ["24/11/2024"],
-      "label": "Le Bureau des enquêtes",
-      "details": [
-        {
-          "value": "Animatrice de l'atelier"
-        },
-        {
-          "value": "CAP Sciences, Bordeaux",
-          "link": "https://www.cap-sciences.net/"
-        }
-      ]
+      "place": "CAP Sciences, Bordeaux",
+      "label": "Animatrice de l'atelier « Le Bureau des enquêtes »",
+      "details": [{ "link": "https://www.cap-sciences.net/" }]
     },
     {
       "dates": ["07/03/2026"],
-      "label": "Les outils à disposition de l'historien pour étudier l'enseignement de la géométrie à l'université de Paris au Moyen Age",
+      "place": "Les Samedis de Cabara",
+      "label": "Conférence grand public",
       "details": [
         {
-          "value": "Conférence grand public"
-        },
-        {
-          "value": "Les Samedis de Cabara"
+          "value": "Les outils à disposition de l'historien pour étudier l'enseignement de la géométrie à l'université de Paris au Moyen Age"
         }
       ]
     }
