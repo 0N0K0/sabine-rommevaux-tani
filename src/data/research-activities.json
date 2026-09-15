@@ -3,95 +3,66 @@
   "content": [
     {
       "periods": [
-        {
-          "startDate": "10/1997",
-          "endDate": "06/2001"
-        },
-        {
-          "startDate": "10/2002",
-          "endDate": "06/2003"
-        }
+        { "startDate": "10/1997", "endDate": "06/2001" },
+        { "startDate": "10/2002", "endDate": "06/2003" }
       ],
-      "label": "Organisation d'un séminaire d'histoire des mathématiques à Lille",
+      "place": "Lille",
+      "label": "Organisation d'un séminaire d'histoire des mathématiques",
       "details": [
         {
-          "value": "Collaboration avec Bernard Vitrac et Ahmed Djebbar pour la période 2002-2003"
+          "value": "En collaboration avec Bernard Vitrac et Ahmed Djebbar pour la période 2002-2003"
         }
       ]
     },
     {
-      "periods": [
-        {
-          "startDate": "07/2000",
-          "endDate": "06/2002"
-        }
-      ],
+      "periods": [{ "startDate": "07/2000", "endDate": "06/2002" }],
       "label": "Responsable du projet « La réception des Éléments d'Euclide au Moyen-Age et à la Renaissance »",
       "details": [
+        { "value": "Projet ayant reçu une Aide à Projet Nouveau du CNRS" },
         {
-          "value": "Projet ayant reçu une Aide à Projet Nouveau du CNRS"
-        },
-        {
-          "key": "Publication",
-          "value": "Numéro spécial de la Revue d'histoire des sciences (n° 56/2, 2003)",
-          "link": "https://www.persee.fr/issue/rhs_0151-4105_2003_num_56_2",
-          "image": "https://www.persee.fr/renderIssueCoverThumbnail/rhs_0151-4105_2003_num_56_2.jpg"
+          "key": "Publication d'un",
+          "value": "numéro spécial de <i>la Revue d'histoire des sciences, 56<i>(2) (2003)",
+          "link": "https://www.persee.fr/issue/rhs_0151-4105_2003_num_56_2"
         }
       ]
     },
     {
-      "periods": [
-        {
-          "startDate": "2003",
-          "endDate": "2006"
-        }
-      ],
+      "periods": [{ "startDate": "2003", "endDate": "2006" }],
       "label": "Responsable du projet « Formes d'articulation entre mathématiques et philosophie naturelle (XIVe-XVIe siècles) »",
       "details": [
-        { "value": "Dans le cadre de l'AC « Histoire des savoirs » du CNRS" }
+        {
+          "key": "Dans le cadre de l'",
+          "value": "AC « Histoire des savoirs » du CNRS"
+        }
       ]
     },
     {
-      "periods": [
-        {
-          "startDate": "2006",
-          "endDate": "2011"
-        }
-      ],
+      "periods": [{ "startDate": "2006", "endDate": "2011" }],
       "label": "Responsable du projet « Algèbre »",
-      "details": [{ "value": "équipe d'histoire des sciences du CESR" }]
+      "details": [
+        {
+          "key": "Au sein de l'",
+          "value": "équipe d'histoire des sciences du CESR"
+        }
+      ]
     },
     {
-      "periods": [
-        {
-          "startDate": "09/2012",
-          "endDate": "06/2022"
-        }
-      ],
-      "label": "Responsable du séminaire d'histoire des mathématiques à la Renaissance ; Co-responsable du sous-axe « Philosophie naturelle de l'Antiquité à l'Age classique »",
-      "details": [{ "value": "SPHERE" }]
+      "periods": [{ "startDate": "09/2012", "endDate": "06/2022" }],
+      "place": "SPHERE",
+      "label": "Responsable du séminaire d'histoire des mathématiques à la Renaissance ; Co-responsable du sous-axe « Philosophie naturelle de l'Antiquité à l'Age classique »"
     },
     {
-      "periods": [
-        {
-          "startDate": "06/2024",
-          "endDate": "12/2025"
-        }
-      ],
+      "periods": [{ "startDate": "06/2024", "endDate": "12/2025" }],
       "label": "Porteuse du projet « Point de basculement entre l'aristotélisme et la science classique : la tradition parisienne des Calculatores – PBASC »",
       "details": [
         {
-          "value": "Financé par le GPR Human Past, Université de Bordeaux (11 816 euros)"
+          "key": "Financé par",
+          "value": "le GPR Human Past, Université de Bordeaux (11 816 euros)"
         }
       ]
     },
     {
-      "periods": [
-        {
-          "startDate": "09/2024",
-          "endDate": "08/2027"
-        }
-      ],
+      "periods": [{ "startDate": "09/2024", "endDate": "08/2027" }],
       "label": "Membre du projet « Euclide à l'époque moderne : Une histoire des transmissions, traductions et transformations interculturelles des éléments – EUCLIDES »",
       "details": [
         {
@@ -99,20 +70,14 @@
           "value": "V. Di Risi et A. Axworthy"
         },
         {
-          "key": "Financé par",
+          "key": "Financé par l'",
           "value": "ANR Appel Franco-allemand en sciences humaines et sociales"
         }
       ]
     },
     {
-      "periods": [
-        {
-          "startDate": "04/2025",
-          "endDate": "03/2026"
-        }
-      ],
+      "periods": [{ "startDate": "04/2025", "endDate": "03/2026" }],
       "label": "Membre du projet « Physicoom »",
-      "collaborators": ["N. Weill-Parot"],
       "details": [
         {
           "key": "Porté par",
@@ -125,12 +90,7 @@
       ]
     },
     {
-      "periods": [
-        {
-          "startDate": "2023",
-          "endDate": "2028"
-        }
-      ],
+      "periods": [{ "startDate": "2023", "endDate": "2028" }],
       "label": "Membre du Advisory Board du projet « i² – The Impossible and the Imaginable: Late-Medieval Semantics of Impossibility and the Roots of Complex Mathematics » (ERC Starting Grant)",
       "details": [
         {
