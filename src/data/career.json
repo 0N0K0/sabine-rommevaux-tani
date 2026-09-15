@@ -2,6 +2,50 @@
   "title": "Parcours professionnel",
   "content": [
     {
+      "title": "Formation",
+      "content": [
+        {
+          "label": "Maîtrise de mathématiques pures",
+          "dates": ["1986"],
+          "place": "Université Strasbourg 1"
+        },
+        {
+          "label": "Agrégation de mathématiques",
+          "dates": ["1987"]
+        },
+        {
+          "label": "Doctorat d'histoire des mathématiques",
+          "dates": ["30/09/1994"],
+          "place": "Université de Nantes",
+          "details": [
+            {
+              "key": "Directeur",
+              "value": "Jean Dhombres"
+            },
+            {
+              "key": "Sujet",
+              "value": "Un jalon dans l'histoire de la théorie des proportions au XVIe siècle : le commentaire de Clavius au livre V des Éléments d'Euclide"
+            },
+            {
+              "key": "Mention",
+              "value": "Très honorable, avec félicitations"
+            }
+          ]
+        },
+        {
+          "label": "Habilitation à diriger des recherches en philosophie",
+          "dates": ["23/02/2007"],
+          "place": "Université de Tours",
+          "details": [
+            {
+              "key": "Thème",
+              "value": "Théorie des rapports (XIIIe - XVIe siècles) : réception, assimilation, innovation"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Activités professionnelles",
       "content": [
         {
