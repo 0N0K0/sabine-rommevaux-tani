@@ -80,10 +80,10 @@
         {
           "periods": [{ "startDate": "06/10/2005", "endDate": "08/10/2005" }],
           "place": "Université Paris 4, Paris",
-          "label": "Journée de’études en hommage à Gérard Simon",
+          "label": "Journée d’études en hommage à Gérard Simon",
           "details": [
             {
-              "key": "organisé avec",
+              "key": "organisée avec",
               "value": "Bernard Joly (Université Lille 3)"
             }
           ]
@@ -432,7 +432,7 @@
             },
             {
               "key": "organisé par",
-              "value": "Sabine Rommevaux"
+              "value": "Sabine Rommevaux-Tani"
             }
           ]
         },
@@ -754,7 +754,7 @@
           "details": [
             {
               "key": "organisé par",
-              "value": "Sabine Rommevaux"
+              "value": "Sabine Rommevaux-Tani"
             },
             {
               "value": "Séminaire d’Histoire des mathématiques"
@@ -852,8 +852,8 @@
               "value": "Journée d’études « Mathématiques et philosophie de la nature au Moyen Âge »"
             },
             {
-              "key": "organisé par",
-              "value": "Sabine Rommevaux"
+              "key": "organisée par",
+              "value": "Sabine Rommevaux-Tani"
             },
             {
               "key": "dans le cadre du",
@@ -925,7 +925,7 @@
               "value": "Journée d’études « Réflexions autour du <i>Libro de algebra</i> de Pedro Nuñez »"
             },
             {
-              "key": "organisé par",
+              "key": "organisée par",
               "value": "Maryvonne Spiesser"
             }
           ]
@@ -949,7 +949,7 @@
               "value": "Journée d’études « Articulation entre textes antiques et tradition médiévale dans le domaine scientifique à la Renaissance »"
             },
             {
-              "key": "organisé avec",
+              "key": "organisée avec",
               "value": "Jacqueline Vons"
             }
           ]
@@ -963,7 +963,7 @@
               "value": "Journée d’études autour de l’algèbre de Stifel"
             },
             {
-              "key": "organisé par",
+              "key": "organisée par",
               "value": "François Loget"
             }
           ]
@@ -977,7 +977,7 @@
               "value": "Journée d’étude sur Alvarus Thomas"
             },
             {
-              "key": "organisé par",
+              "key": "organisée par",
               "value": "Henrique Leitao"
             }
           ]
@@ -991,7 +991,7 @@
               "value": "Journée d’étude « La physique du vide au Moyen Âge »"
             },
             {
-              "key": "organisé par",
+              "key": "organisée par",
               "value": "Joël Biard"
             }
           ]
@@ -1019,7 +1019,7 @@
               "value": "Journée d’études « Autour de l’Arithmetica integra de Stifel (1544) : deuxième partie »"
             },
             {
-              "key": "organisé par",
+              "key": "organisée par",
               "value": "Maryvonne Spiesser"
             }
           ]
@@ -1057,8 +1057,8 @@
               "value": "Journée d’étude sur l’algèbre à la Renaissance"
             },
             {
-              "key": "organisé par",
-              "value": "Sabine Rommevaux"
+              "key": "organisée par",
+              "value": "Sabine Rommevaux-Tani"
             }
           ]
         },
@@ -1397,7 +1397,7 @@
         },
         {
           "dates": ["21/12/2017"],
-          "place": "EPHE, Sorbonne, Paris",
+          "place": "EPHE, Paris",
           "label": "Nombres qui dénomment, nombres génériques, nombres qui quantifient arbitrairement : plusieurs aspects de l’usage des nombres dans des traités de mathématiques et de philosophie naturelle des XIIIe et XIVe siècles",
           "details": [
             {
@@ -1462,7 +1462,7 @@
             },
             {
               "key": "organisée avec",
-              "value": "Sabine Rommevaux-Tani"
+              "value": "Valérie Cordonier"
             }
           ]
         },
@@ -1591,7 +1591,7 @@
               "value": "Journée d’études « Problemata de philosophie naturelle : l’imaginaire, le merveilleux, le quotidien »"
             },
             {
-              "key": "organisé avec",
+              "key": "organisée avec",
               "value": "Aurora Panzica"
             }
           ]
@@ -1629,7 +1629,7 @@
               "value": "Journée d’études « Les sources de Jacques Almain pour son traitement de la quantité dans les <i>Embammata Physicalia</i> »"
             },
             {
-              "key": "organisé avec",
+              "key": "organisée avec",
               "value": "Daniel Di Liscia"
             }
           ]
@@ -1649,11 +1649,11 @@
           "label": "Introduction sur l’édition critique numérique des <i>Embammata Physicalia</i> de Jacques Almain",
           "details": [
             {
-              "key": "organisé avec",
-              "value": "Christophe Grellard et Daniel Di Liscia"
+              "value": "Journée d’études « L’enseignement de la philosophie naturelle à Paris au début du XVIe siècle. La physique de Jacques Almain en contexte »"
             },
             {
-              "value": "Journée d’études « L’enseignement de la philosophie naturelle à Paris au début du XVIe siècle. La physique de Jacques Almain en contexte »"
+              "key": "organisée avec",
+              "value": "Christophe Grellard et Daniel Di Liscia"
             }
           ]
         }
