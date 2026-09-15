@@ -1,5 +1,4 @@
-import { AppShell, Tabs } from '@mantine/core';
-import { useDataFiles } from '../hooks/useDataFiles';
+import { AppShell } from '@mantine/core';
 
 interface LayoutProps {
   headerContent: React.ReactNode;

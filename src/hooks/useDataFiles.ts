@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react';
-import type { File, DataIndex } from '../types/data';
+import type { File, DataIndex, Data, Content } from '../types/data';
 
 export function useDataFiles() {
   const [files, setFiles] = useState<File[]>([]);
   const [selected, setSelected] = useState<string | null>(null);
-  const [data, setData] = useState<unknown>(null);
+  const [data, setData] = useState<Data[] | Content[] | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<Error | null>(null);
 
@@ -47,7 +47,7 @@ export function useDataFiles() {
         throw new Error(`Impossible de charger ${file}.json`);
       }
 
-      const json: unknown = await response.json();
+      const json: Data[] | Content[] = await response.json();
 
       setSelected(file);
       setData(json);
