@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
-import type { DataIndex } from '../types/data';
+import type { File, DataIndex } from '../types/data';
 
 export function useDataFiles() {
-  const [files, setFiles] = useState<string[]>([]);
+  const [files, setFiles] = useState<File[]>([]);
   const [selected, setSelected] = useState<string | null>(null);
   const [data, setData] = useState<unknown>(null);
   const [loading, setLoading] = useState(true);

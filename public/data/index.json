@@ -1,11 +1,33 @@
 {
   "files": [
-    "career",
-    "collective-responsibilities",
-    "popularization",
-    "research-areas",
-    "scientific-event",
-    "scientific-output",
-    "teaching"
+    {
+      "name": "research-areas",
+      "title": "Domaines de recherche"
+    },
+    {
+      "name": "career",
+      "title": "Parcours professionnel"
+    },
+    {
+      "name": "scientific-output",
+      "title": "Production scientifique"
+    },
+    {
+      "name": "scientific-event",
+      "title": "Manifestations scientifiques"
+    },
+    {
+      "name": "teaching",
+      "title": "Enseignements et encadrements"
+    },
+
+    {
+      "name": "collective-responsibilities",
+      "title": "Responsabilités collectives"
+    },
+    {
+      "name": "popularization",
+      "title": "Diffusion des savoirs"
+    }
   ]
 }

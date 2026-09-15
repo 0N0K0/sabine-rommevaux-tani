@@ -1,209 +1,202 @@
-{
-  "title": "Enseignements et encadrements",
-  "level": 5,
-  "content": [
-    {
-      "title": "Enseignement",
-      "content": [
-        {
-          "periods": [{ "startDate": "2002", "endDate": "2003" }],
-          "place": "Université de Lille 3",
-          "label": "CM Histoire des sciences",
-          "details": [
-            { "value": "Formation continue des enseignants" },
-            { "value": "3h" }
-          ]
-        },
-        {
-          "dates": ["2008"],
-          "place": "Université de Lille 3",
-          "label": "CM Histoire des sciences",
-          "details": [
-            { "value": "2ème cycle de philosophie" },
-            { "value": "3h" }
-          ]
-        },
-        {
-          "dates": ["2011"],
-          "place": "Université de Tours",
-          "label": "Histoire de l'algèbre à la Renaissance",
-          "details": [
-            { "value": "M2 mathématiques" },
-            {
-              "key": "Module",
-              "value": "Histoire et philosophie des sciences"
-            },
-            { "value": "6h" }
-          ]
-        },
-        {
-          "periods": [{ "startDate": "2012", "endDate": "2014" }],
-          "place": "Université Paris Diderot",
-          "label": "Synthèse sur l'algèbre à la Renaissance",
-          "details": [
-            { "value": "Master 2 Recherche" },
-            {
-              "key": "Module",
-              "value": "Histoire et philosophie des mathématiques"
-            },
-            { "value": "3h" }
-          ]
-        },
-        {
-          "dates": ["2013"],
-          "place": "Université Paris Diderot",
-          "label": "Nombres et grandeurs : de la théorie des proportions à la construction des nombres réels, Moyen Âge latin, Renaissance",
-          "details": [
-            { "value": "Master 2 Recherche" },
-            {
-              "key": "Module",
-              "value": "Histoire et philosophie des sciences"
-            },
-            { "value": "6h" }
-          ]
-        },
-        {
-          "periods": [{ "startDate": "2016", "endDate": "2017" }],
-          "place": "Université Paris Diderot",
-          "label": "Nombres et grandeurs : de la théorie des proportions à la construction des nombres réels, Moyen Âge latin, Renaissance",
-          "details": [
-            { "value": "Master 2 Recherche" },
-            {
-              "key": "Module",
-              "value": "Histoire et philosophie des sciences"
-            },
-            { "value": "6h" }
-          ]
-        },
-        {
-          "dates": ["2016"],
-          "place": "Université Paris Diderot",
-          "label": "Synthèse sur l'algèbre à la Renaissance",
-          "hours": "6h",
-          "details": [
-            { "value": "Master 2 Recherche" },
-            {
-              "key": "Module",
-              "value": "Histoire et philosophie des mathématiques"
-            },
-            { "value": "6h" }
-          ]
-        },
-        {
-          "dates": ["2016"],
-          "place": "Université Paris Diderot",
-          "label": "Philosophie naturelle au XIVe siècle, les Calculatores",
-          "details": [
-            { "value": "Master 2 Recherche" },
-            {
-              "key": "Module",
-              "value": "Science en contexte : histoire des sciences au Moyen Âge"
-            },
-            { "value": "6h" }
-          ]
-        },
-        {
-          "dates": ["2017"],
-          "place": "Université Paris Diderot",
-          "label": "Synthèse sur l'algèbre à la Renaissance",
-          "details": [
-            { "value": "Master 2 Recherche" },
-            {
-              "key": "Module",
-              "value": "Histoire et philosophie des mathématiques"
-            },
-            { "value": "6h" }
-          ]
-        },
-        {
-          "periods": [{ "startDate": "2017", "endDate": "2018" }],
-          "place": "Université Paris Diderot",
-          "label": "Philosophie naturelle au XIVe siècle, les Calculatores",
-          "details": [
-            { "value": "Master 2 Recherche" },
-            {
-              "key": "Module",
-              "value": "Science en contexte : histoire des sciences au Moyen Âge"
-            },
-            { "value": "6h" }
-          ]
-        },
-        {
-          "dates": ["2023", "2025"],
-          "place": "Université de Bordeaux",
-          "label": "L'histoire du texte des Eléments d'Euclide",
-          "details": [
-            { "value": "Master d'Histoire et philosophie des sciences" },
-            {
-              "key": "Module",
-              "value": "Histoire et philosophie des mathématiques de l'Antiquité à l'âge classique"
-            },
-            { "value": "10 séances de 3h en 2023" },
-            { "value": "5 séances de 3h en 2025" }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Encadrement de mémoire de master",
-      "content": [
-        {
-          "dates": ["2013"],
-          "details": [
-            { "key": "Encadrement de", "value": "Martin Muffato" },
-            { "value": "M2 Recherche Histoire et philosophie des sciences" },
-            { "value": "Université de Paris Diderot" },
-            {
-              "key": "Mémoire",
-              "value": "Étude du <i>Traité des quantitez incomensurables</i> de Jacques-Alexandre Le Tenneur (1640), comme réponse à l'Arithmétique de Simon Stevin"
-            }
-          ]
-        },
-        {
-          "dates": ["2018"],
-          "details": [
-            { "key": "Encadrement de", "value": "Alessandra Scorcia" },
-            { "value": "M2 Recherche Histoire et philosophie des sciences" },
-            { "value": "Université de Paris Diderot" },
-            {
-              "key": "Mémoire",
-              "value": "L'apport mathématique de Piero della Francesca à la tradition latine d'Archimède. Étude philologique et mathématique du traité De spiralibus révisé par Piero della Francesca"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Encadrement doctoral",
-      "content": [
-        {
-          "periods": [{ "startDate": "11/2012", "endDate": "12/2019" }],
-          "details": [
-            {
-              "key": "Encadrement de la thèse de",
-              "value": "Philippe Debroise"
-            },
-            {
-              "key": "Sujet",
-              "value": "Mathématiques de l'intensité et Merveilles de la nature. Étude sur le <i>Tractatus de configurationibus qualitatum et motuum</i> de Nicole Oresme"
-            }
-          ]
-        },
-        {
-          "periods": [{ "startDate": "11/2021" }],
-          "details": [
-            {
-              "key": "Encadrement de la thèse de",
-              "value": "Nadiejda Tamitegama"
-            },
-            {
-              "key": "Sujet",
-              "value": "De elementis arithmetice artis de Jordanus"
-            },
-            { "value": "Soutenance prévue en 2027" }
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "Enseignement",
+    "content": [
+      {
+        "periods": [{ "startDate": "2002", "endDate": "2003" }],
+        "place": "Université de Lille 3",
+        "label": "CM Histoire des sciences",
+        "details": [
+          { "value": "Formation continue des enseignants" },
+          { "value": "3h" }
+        ]
+      },
+      {
+        "dates": ["2008"],
+        "place": "Université de Lille 3",
+        "label": "CM Histoire des sciences",
+        "details": [{ "value": "2ème cycle de philosophie" }, { "value": "3h" }]
+      },
+      {
+        "dates": ["2011"],
+        "place": "Université de Tours",
+        "label": "Histoire de l'algèbre à la Renaissance",
+        "details": [
+          { "value": "M2 mathématiques" },
+          {
+            "key": "Module",
+            "value": "Histoire et philosophie des sciences"
+          },
+          { "value": "6h" }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "2012", "endDate": "2014" }],
+        "place": "Université Paris Diderot",
+        "label": "Synthèse sur l'algèbre à la Renaissance",
+        "details": [
+          { "value": "Master 2 Recherche" },
+          {
+            "key": "Module",
+            "value": "Histoire et philosophie des mathématiques"
+          },
+          { "value": "3h" }
+        ]
+      },
+      {
+        "dates": ["2013"],
+        "place": "Université Paris Diderot",
+        "label": "Nombres et grandeurs : de la théorie des proportions à la construction des nombres réels, Moyen Âge latin, Renaissance",
+        "details": [
+          { "value": "Master 2 Recherche" },
+          {
+            "key": "Module",
+            "value": "Histoire et philosophie des sciences"
+          },
+          { "value": "6h" }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "2016", "endDate": "2017" }],
+        "place": "Université Paris Diderot",
+        "label": "Nombres et grandeurs : de la théorie des proportions à la construction des nombres réels, Moyen Âge latin, Renaissance",
+        "details": [
+          { "value": "Master 2 Recherche" },
+          {
+            "key": "Module",
+            "value": "Histoire et philosophie des sciences"
+          },
+          { "value": "6h" }
+        ]
+      },
+      {
+        "dates": ["2016"],
+        "place": "Université Paris Diderot",
+        "label": "Synthèse sur l'algèbre à la Renaissance",
+        "hours": "6h",
+        "details": [
+          { "value": "Master 2 Recherche" },
+          {
+            "key": "Module",
+            "value": "Histoire et philosophie des mathématiques"
+          },
+          { "value": "6h" }
+        ]
+      },
+      {
+        "dates": ["2016"],
+        "place": "Université Paris Diderot",
+        "label": "Philosophie naturelle au XIVe siècle, les Calculatores",
+        "details": [
+          { "value": "Master 2 Recherche" },
+          {
+            "key": "Module",
+            "value": "Science en contexte : histoire des sciences au Moyen Âge"
+          },
+          { "value": "6h" }
+        ]
+      },
+      {
+        "dates": ["2017"],
+        "place": "Université Paris Diderot",
+        "label": "Synthèse sur l'algèbre à la Renaissance",
+        "details": [
+          { "value": "Master 2 Recherche" },
+          {
+            "key": "Module",
+            "value": "Histoire et philosophie des mathématiques"
+          },
+          { "value": "6h" }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "2017", "endDate": "2018" }],
+        "place": "Université Paris Diderot",
+        "label": "Philosophie naturelle au XIVe siècle, les Calculatores",
+        "details": [
+          { "value": "Master 2 Recherche" },
+          {
+            "key": "Module",
+            "value": "Science en contexte : histoire des sciences au Moyen Âge"
+          },
+          { "value": "6h" }
+        ]
+      },
+      {
+        "dates": ["2023", "2025"],
+        "place": "Université de Bordeaux",
+        "label": "L'histoire du texte des Eléments d'Euclide",
+        "details": [
+          { "value": "Master d'Histoire et philosophie des sciences" },
+          {
+            "key": "Module",
+            "value": "Histoire et philosophie des mathématiques de l'Antiquité à l'âge classique"
+          },
+          { "value": "10 séances de 3h en 2023" },
+          { "value": "5 séances de 3h en 2025" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Encadrement de mémoire de master",
+    "content": [
+      {
+        "dates": ["2013"],
+        "details": [
+          { "key": "Encadrement de", "value": "Martin Muffato" },
+          { "value": "M2 Recherche Histoire et philosophie des sciences" },
+          { "value": "Université de Paris Diderot" },
+          {
+            "key": "Mémoire",
+            "value": "Étude du <i>Traité des quantitez incomensurables</i> de Jacques-Alexandre Le Tenneur (1640), comme réponse à l'Arithmétique de Simon Stevin"
+          }
+        ]
+      },
+      {
+        "dates": ["2018"],
+        "details": [
+          { "key": "Encadrement de", "value": "Alessandra Scorcia" },
+          { "value": "M2 Recherche Histoire et philosophie des sciences" },
+          { "value": "Université de Paris Diderot" },
+          {
+            "key": "Mémoire",
+            "value": "L'apport mathématique de Piero della Francesca à la tradition latine d'Archimède. Étude philologique et mathématique du traité De spiralibus révisé par Piero della Francesca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Encadrement doctoral",
+    "content": [
+      {
+        "periods": [{ "startDate": "11/2012", "endDate": "12/2019" }],
+        "details": [
+          {
+            "key": "Encadrement de la thèse de",
+            "value": "Philippe Debroise"
+          },
+          {
+            "key": "Sujet",
+            "value": "Mathématiques de l'intensité et Merveilles de la nature. Étude sur le <i>Tractatus de configurationibus qualitatum et motuum</i> de Nicole Oresme"
+          }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "11/2021" }],
+        "details": [
+          {
+            "key": "Encadrement de la thèse de",
+            "value": "Nadiejda Tamitegama"
+          },
+          {
+            "key": "Sujet",
+            "value": "De elementis arithmetice artis de Jordanus"
+          },
+          { "value": "Soutenance prévue en 2027" }
+        ]
+      }
+    ]
+  }
+]

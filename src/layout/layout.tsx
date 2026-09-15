@@ -6,51 +6,69 @@ import { useDataFiles } from '../hooks/useDataFiles';
 export function Layout() {
   const { files, selected, data, loading, error, loadFile } = useDataFiles();
 
-  if (error) {
-    return <p>Erreur : {error.message}</p>;
-  }
+  if (loading && !data) return <p>Chargement...</p>;
+
+  if (error) return <p>{error.message}</p>;
+
+  console.log(files);
 
   return (
-    <>
-      {files.map((file) => (
-        <button key={file} onClick={() => loadFile(file)}>
-          {file}
-        </button>
-      ))}
+    // <>
+    //   {files.map((file) => (
+    //     <button key={file} onClick={() => loadFile(file)}>
+    //       {file}
+    //     </button>
+    //   ))}
 
-      {loading && <p>Chargement...</p>}
+    //   {loading && <p>Chargement...</p>}
 
-      {selected && <pre>{JSON.stringify(data, null, 2)}</pre>}
-    </>
-    // <AppShell header={{ height: 72 }} footer={{ height: 60 }} padding="md">
-    //   <AppShell.Header>
-    //     <HeaderContent />
-    //   </AppShell.Header>
-    //   <AppShell.Main>
-    //     <Tabs defaultValue="tab1">
-    //       <Tabs.List>
-    //         <Tabs.Tab value="tab1">Formation</Tabs.Tab>
-    //         <Tabs.Tab value="tab2">Activités professionnelles</Tabs.Tab>
-    //         <Tabs.Tab value="tab3">Responsabilités collectives</Tabs.Tab>
-    //         <Tabs.Tab value="tab4">Activités liées à la recherche</Tabs.Tab>
-    //         <Tabs.Tab value="tab5">Activités liées à l'édition</Tabs.Tab>
-    //         <Tabs.Tab value="tab6">Distinctions</Tabs.Tab>
-    //         <Tabs.Tab value="tab7">Encadrement doctoral</Tabs.Tab>
-    //         <Tabs.Tab value="tab8">Conférences grand public</Tabs.Tab>
-    //         <Tabs.Tab value="tab9">Enseigement et formation</Tabs.Tab>
-    //         <Tabs.Tab value="tab10">Production scientifique</Tabs.Tab>
-    //       </Tabs.List>
-    //       <Tabs.Panel value="tab1">
-    //         <pre>{data}</pre>
-    //       </Tabs.Panel>
-    //       <Tabs.Panel value="tab2">
-    //         <Text>Contenu 2</Text>
-    //       </Tabs.Panel>
-    //     </Tabs>
-    //   </AppShell.Main>
-    //   <AppShell.Footer>
-    //     <FooterContent />
-    //   </AppShell.Footer>
-    // </AppShell>
+    //   {selected && <pre>{JSON.stringify(data, null, 2)}</pre>}
+    // </>
+    <AppShell header={{ height: 72 }} footer={{ height: 60 }}>
+      <AppShell.Header>
+        <HeaderContent />
+      </AppShell.Header>
+      <AppShell.Main
+        style={{
+          height: '100vh',
+          overflowY: 'auto',
+        }}
+      >
+        <Tabs
+          value={selected}
+          onChange={(value) => {
+            if (value) {
+              loadFile(value);
+            }
+          }}
+        >
+          <Tabs.List
+            style={{
+              position: 'sticky',
+              top: 0,
+              zIndex: 10,
+            }}
+          >
+            {files.map((file) => (
+              <Tabs.Tab key={file.name} value={file.name}>
+                {file.title}
+              </Tabs.Tab>
+            ))}
+          </Tabs.List>
+          {files.map((file) => (
+            <Tabs.Panel key={file.name} value={file.name}>
+              {loading ? (
+                <p>Chargement...</p>
+              ) : (
+                <pre>{JSON.stringify(data, null, 2)}</pre>
+              )}
+            </Tabs.Panel>
+          ))}
+        </Tabs>
+      </AppShell.Main>
+      <AppShell.Footer>
+        <FooterContent />
+      </AppShell.Footer>
+    </AppShell>
   );
 }
