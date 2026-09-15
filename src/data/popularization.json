@@ -1,0 +1,123 @@
+{
+  "title": "Diffusion des savoirs",
+  "level": 7,
+  "content": [
+    {
+      "title": "Conférences grand public",
+      "content": [
+        {
+          "periods": [{ "startDate": "2014", "endDate": "2017" }],
+          "label": "Cycle de conférences destinées aux étudiants de Master et au grand public",
+          "details": [{ "value": "Espace Mendès France, Poitiers" }],
+          "content": [
+            {
+              "dates": ["16/01/2014"],
+              "label": "Cadres théoriques en confrontation avec la nature et l'expérience au Moyen Age"
+            },
+            {
+              "dates": ["15/01/2015"],
+              "label": "Les libertés de la pensée médiévale"
+            },
+            {
+              "dates": ["14/01/2016"],
+              "label": "L'apport de la science et de la philosophie arabe à l'Europe occidentale"
+            },
+            {
+              "dates": ["12/01/2017"],
+              "label": "Le legs médiéval : héritage humaniste des érudits arabes et latins du Moyen Age"
+            }
+          ]
+        },
+        {
+          "dates": ["07/10/2023", "08/10/2023"],
+          "place": "Les Médiévales de Fournols",
+          "label": "Conférence grand public",
+          "details": [
+            { "value": "L'université médiévale : un lieu de débat" },
+            {
+              "link": "https://www.fetes-medievales.com/site/les-medievales-de-fournols"
+            }
+          ]
+        },
+        {
+          "dates": ["08/02/2024"],
+          "place": "Espace La Croix-Davids, Bourg sur Gironde",
+          "label": "Conférence grand public",
+          "details": [
+            { "value": "La fabuleuse histoire des Eléments d'Euclide" },
+            {
+              "link": "https://www.facebook.com/espacelacroixdavids/posts/899514955199817/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tile": "Atelier",
+      "content": [
+        {
+          "dates": ["24/11/2024"],
+          "place": "CAP Sciences, Bordeaux",
+          "label": "Animatrice de l'atelier « Le Bureau des enquêtes »",
+          "details": [{ "link": "https://www.cap-sciences.net/" }]
+        },
+        {
+          "dates": ["07/03/2026"],
+          "place": "Les Samedis de Cabara",
+          "label": "Conférence grand public",
+          "details": [
+            {
+              "value": "Les outils à disposition de l'historien pour étudier l'enseignement de la géométrie à l'université de Paris au Moyen Age"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Articles dans des ouvrages de vulgarisation",
+      "content": [
+        {
+          "dates": ["02/2000"],
+          "label": "« Le langage des proportions »",
+          "details": [
+            {
+              "key": "<i>in</i>",
+              "value": "« Mathématiques : ce que les Grecs ont vraiment inventé », <i>Les cahiers de Sciences et Vie</i>, 55 (02/2000), p. 82-89"
+            }
+          ]
+        },
+        {
+          "dates": ["2002"],
+          "label": "« Mathématiques »",
+          "details": [
+            {
+              "key": "<i>in</i>",
+              "value": "<i>Dictionnaire du Moyen Age</i>, Paris, PUF (2002), p. 890-894",
+              "link": "https://www.puf.com/dictionnaire-du-moyen-age"
+            }
+          ]
+        },
+        {
+          "dates": ["2013"],
+          "label": "« Une Quæstio médiévale : est-ce que la diagonale d’un carré est commensurable au côté de ce carré ? », Images des mathématiques (2013)",
+          "link": "https://doi.org/10.60868/hm4q-ym83",
+          "details": [
+            {
+              "value": "Libre accès en ligne"
+            }
+          ]
+        },
+        {
+          "dates": ["2014"],
+          "label": "« Traduire les démonstrations des livres I à VI des <i>Éléments</i> d’Euclide sous forme de syllogismes », Images des mathématiques (2014)",
+          "link": "https://doi.org/10.60868/gmng-8c94",
+          "details": [
+            {
+              "value": "Libre accès en ligne"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
