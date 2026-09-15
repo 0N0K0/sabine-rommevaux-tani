@@ -1,3 +1,6 @@
+import { FooterContent } from './content/FooterContent';
+import { HeaderContent } from './content/HeaderContent';
+import { MainContent } from './content/MainContent';
 import { Layout } from './layout/layout';
 
 /**
@@ -5,7 +8,13 @@ import { Layout } from './layout/layout';
  * @returns {JSX.Element} App markup.
  */
 function App() {
-  return <Layout />;
+  return (
+    <Layout
+      headerContent={<HeaderContent />}
+      mainContent={<MainContent />}
+      footerContent={<FooterContent />}
+    />
+  );
 }
 
 export default App;
