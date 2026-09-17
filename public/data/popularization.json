@@ -4,8 +4,8 @@
     "content": [
       {
         "periods": [{ "startDate": "2014", "endDate": "2017" }],
+        "place": "Espace Mendès France, Poitiers",
         "label": "Cycle de conférences destinées aux étudiants de Master et au grand public",
-        "details": [{ "value": "Espace Mendès France, Poitiers" }],
         "content": [
           {
             "dates": ["16/01/2014"],
