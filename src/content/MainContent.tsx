@@ -20,7 +20,7 @@ export function MainContent() {
         }
       }}
       style={{
-        height: 'calc(100vh - 72px - 60px)',
+        height: 'calc(100vh - 102px - 60px)',
       }}
     >
       <Tabs.List
@@ -44,9 +44,14 @@ export function MainContent() {
       <Tabs.Panel
         key="introduction"
         value="introduction"
+        px="64"
+        py="48"
         style={{
-          height: 'calc(100vh - 72px - 60px - 36px)',
+          height: 'calc(100vh - 102px - 60px - 36px)',
           overflow: 'auto',
+          display: 'flex',
+          flexDirection: 'column',
+          gap: '48px',
         }}
       >
         <IntroductionContent />
@@ -55,9 +60,14 @@ export function MainContent() {
         <Tabs.Panel
           key={file.name}
           value={file.name}
+          px="64"
+          py="48"
           style={{
-            height: 'calc(100vh - 72px - 60px - 36px)',
+            height: 'calc(100vh - 102px - 60px - 36px)',
             overflow: 'auto',
+            display: 'flex',
+            flexDirection: 'column',
+            gap: '48px',
           }}
         >
           {loading ? (

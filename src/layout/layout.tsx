@@ -11,8 +11,16 @@ export function Layout({
   footerContent,
 }: LayoutProps) {
   return (
-    <AppShell header={{ height: 72 }} footer={{ height: 60 }}>
-      <AppShell.Header>{headerContent}</AppShell.Header>
+    <AppShell header={{ height: 102 }} footer={{ height: 60 }}>
+      <AppShell.Header
+        px="64"
+        py="16"
+        style={{
+          textAlign: 'center',
+        }}
+      >
+        {headerContent}
+      </AppShell.Header>
       <AppShell.Main
         style={{
           height: '100vh',
@@ -21,7 +29,7 @@ export function Layout({
       >
         {mainContent}
       </AppShell.Main>
-      <AppShell.Footer>{footerContent}</AppShell.Footer>
+      <AppShell.Footer px="xl">{footerContent}</AppShell.Footer>
     </AppShell>
   );
 }

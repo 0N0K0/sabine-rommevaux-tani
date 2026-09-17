@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import type { Data, Introduction } from '../types/data';
 import { isData } from '../types/guards';
 import { SectionContent } from './SectionContent';
+import { Typography } from '@mantine/core';
 
 export function IntroductionContent() {
   const [data, setData] = useState<Data[]>([]);
@@ -50,7 +51,16 @@ export function IntroductionContent() {
         }
 
         return (
-          <section key={index}>
+          <section
+            key={index}
+            style={{
+              display: 'flex',
+              flexDirection: 'column',
+              gap: '16px',
+              maxWidth: 'calc(1920px / 4 * 3)',
+              marginInline: 'auto',
+            }}
+          >
             {/* {(item as Introduction).keyWords && (
               <span>
                 {(item as Introduction).keyWords.map((keyword, index) => (
@@ -61,9 +71,25 @@ export function IntroductionContent() {
                 ))}
               </span>
             )} */}
-            {(item as Introduction).intro.map((paragraph, index) => (
-              <p key={index} dangerouslySetInnerHTML={{ __html: paragraph }} />
-            ))}
+            {(item as Introduction).intro && (
+              <Typography
+                style={{
+                  maxWidth: 'calc(1920px / 3 * 2',
+                  marginInline: 'auto',
+                  textAlign: 'justify',
+                }}
+              >
+                {(item as Introduction).intro.map((paragraph, index) => (
+                  <p
+                    key={index}
+                    dangerouslySetInnerHTML={{ __html: paragraph }}
+                    style={{
+                      fontSize: index === 0 ? '20px' : '16px',
+                    }}
+                  />
+                ))}
+              </Typography>
+            )}
           </section>
         );
       })}

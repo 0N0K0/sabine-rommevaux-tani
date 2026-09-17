@@ -21,7 +21,16 @@ export function SectionContent({
   const items = data.content?.filter((item) => !isData(item)) ?? [];
 
   return (
-    <section>
+    <section
+      style={{
+        display: 'flex',
+        flexDirection: 'column',
+        gap: '16px',
+        width: '100%',
+        maxWidth: 'calc(1920px / 4 * 3)',
+        marginInline: 'auto',
+      }}
+    >
       {data.title && <Title order={level}>{data.title}</Title>}
 
       {sections.map((item, index) => (
