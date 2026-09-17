@@ -1,18 +1,35 @@
 [
   {
-    "value": [
-      "Histoire des mathématiques et de la philosophie naturelle",
-      "Moyen Âge",
-      "Renaissance",
-      "Âge classique",
-      "Théorie des proportions",
-      "Irrationalités",
-      "Algèbre",
-      "Tradition des Calculatores"
+    "details": [
+      {
+        "value": [
+          "Histoire des mathématiques et de la philosophie naturelle",
+          "Moyen Âge",
+          "Renaissance",
+          "Âge classique",
+          "Théorie des proportions",
+          "Irrationalités",
+          "Algèbre",
+          "Tradition des Calculatores"
+        ]
+      }
     ]
   },
   {
-    "value": "Mes travaux portent sur les mathématiques et la philosophie naturelle au Moyen Âge et à la Renaissance, domaines en lien avec la logique et la théologie, que j’étudie dans le contexte universitaire de l’époque. Les sciences de cette période ont souvent été étudiées en vue d’y trouver des précurseurs de la science classique. Mon parti-pris est de les étudier pour elles-mêmes, avec la conviction que les apports de la science classique ne peuvent être véritablement appréhendés sans une parfaite connaissance de ce qui l’a précédée.</br>Plus spécifiquement, en mathématiques mes travaux portent la réception des <i>Éléments</i> d’Euclide du xii<sup>e</sup> au xvii<sup>e</sup> siècles, avec un focus sur la théorie des proportions ou la théorie de l’irrationalité. J’ai aussi publié plusieurs études sur l’algèbre à la Renaissance, ou encore sur l’enseignement des mathématiques dans les universités médiévales ou les collèges de la Renaissance.</br>En philosophie naturelle, je m’intéresse à la tradition des <i>Calculatores</i>, ces maîtres ès arts des universités médiévales, qui introduisirent des outils mathématiques et logiques pour l’étude de la nature. Si leurs réflexions s’inscrivent dans le cadre de l’aristotélicienne, elles le remettent en cause sur plusieurs points, ouvrant la voie à la science classique.</br>Une partie de mon activité consiste aussi en l’établissement d’éditions critiques. Ceci m’oblige à une connaissance extrêmement fine du contenu des textes que j’édite, ce qui nourrit ma recherche."
+    "details": [
+      {
+        "value": "Mes travaux portent sur les mathématiques et la philosophie naturelle au Moyen Âge et à la Renaissance, domaines en lien avec la logique et la théologie, que j’étudie dans le contexte universitaire de l’époque. Les sciences de cette période ont souvent été étudiées en vue d’y trouver des précurseurs de la science classique. Mon parti-pris est de les étudier pour elles-mêmes, avec la conviction que les apports de la science classique ne peuvent être véritablement appréhendés sans une parfaite connaissance de ce qui l’a précédée."
+      },
+      {
+        "value": "Plus spécifiquement, en mathématiques mes travaux portent la réception des <i>Éléments</i> d’Euclide du xii<sup>e</sup> au xvii<sup>e</sup> siècles, avec un focus sur la théorie des proportions ou la théorie de l’irrationalité. J’ai aussi publié plusieurs études sur l’algèbre à la Renaissance, ou encore sur l’enseignement des mathématiques dans les universités médiévales ou les collèges de la Renaissance."
+      },
+      {
+        "value": "En philosophie naturelle, je m’intéresse à la tradition des <i>Calculatores</i>, ces maîtres ès arts des universités médiévales, qui introduisirent des outils mathématiques et logiques pour l’étude de la nature. Si leurs réflexions s’inscrivent dans le cadre de l’aristotélicienne, elles le remettent en cause sur plusieurs points, ouvrant la voie à la science classique."
+      },
+      {
+        "value": "Une partie de mon activité consiste aussi en l’établissement d’éditions critiques. Ceci m’oblige à une connaissance extrêmement fine du contenu des textes que j’édite, ce qui nourrit ma recherche."
+      }
+    ]
   },
   {
     "title": "Domaines de recherche",
