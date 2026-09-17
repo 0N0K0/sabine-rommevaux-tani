@@ -10,7 +10,7 @@
       {
         "periods": [{ "startDate": "24/11/2006", "endDate": "25/11/2006" }],
         "place": "Centre d’Études Supérieures de la Renaissance (CESR), Tours",
-        "label": "Formes d’articulation entre mathématiques et philosophie naturelle (XIVe – XVIe siècles)"
+        "label": "Formes d’articulation entre mathématiques et philosophie naturelle (XIV<sup>e</sup> – XVI<sup>e</sup> siècles)"
       },
       {
         "periods": [{ "startDate": "30/06/2008", "endDate": "04/07/2008" }],
@@ -26,7 +26,7 @@
       {
         "periods": [{ "startDate": "13/05/2009", "endDate": "15/05/2009" }],
         "place": "Centre d’études supérieures de la Renaissance (CESR), Tours",
-        "label": "Unité ou pluralité de l’algèbre en Europe (XIIe-XVIe siècles)",
+        "label": "Unité ou pluralité de l’algèbre en Europe (XII<sup>e</sup>-XVI<sup>e</sup> siècles)",
         "details": [
           {
             "key": "organisé avec",
@@ -42,7 +42,7 @@
       {
         "periods": [{ "startDate": "18/11/2021", "endDate": "19/11/2021" }],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13e siècle",
+        "label": "Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13<sup>e</sup> siècle",
         "details": [
           {
             "key": "organisé avec",
@@ -144,7 +144,7 @@
       {
         "dates": ["07/04/2014"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Algèbres arabes et gréco-latines du IXe au XVIe siècles",
+        "label": "Algèbres arabes et gréco-latines du IX<sup>e</sup> au XVI<sup>e</sup> siècles",
         "details": [
           {
             "value": "Séminaire d’histoire des mathématiques"
@@ -180,7 +180,7 @@
       {
         "dates": ["18/10/2018"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (XIIIe - XIVe siècle)",
+        "label": "Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (XIII<sup>e</sup> - XIV<sup>e</sup> siècle)",
         "details": [
           {
             "key": "organisé avec",
@@ -191,7 +191,7 @@
       {
         "dates": ["06/06/2019"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Le temps dans la physique du XIVe siècle",
+        "label": "Le temps dans la physique du XIV<sup>e</sup> siècle",
         "details": [
           {
             "key": "organisé avec",
@@ -283,7 +283,7 @@
       {
         "dates": ["12/1994"],
         "place": "Hammamet",
-        "label": "Les débats autour de la définition de la proportionnalité du livre V des <i>Eléments</i> d'Euclide dans les traditions arabe et latine du xe au xviie siècle",
+        "label": "Les débats autour de la définition de la proportionnalité du livre V des <i>Eléments</i> d'Euclide dans les traditions arabe et latine du x<sup>e</sup> au xvii<sup>e</sup> siècle",
         "details": [
           {
             "value": "Cinquième colloque maghrébin sur l'histoire des mathématiques"
@@ -347,14 +347,14 @@
         "label": "Le <i>De continuo</i> de Thomas Bradwardine : ouvrage mathématique ou de philosophie naturelle ?",
         "details": [
           {
-            "value": "Colloque international « Formes d’articulation entre mathématiques et philosophie naturelle (xive – xvie siècles)"
+            "value": "Colloque international « Formes d’articulation entre mathématiques et philosophie naturelle (xiv<sup>e</sup> – xvi<sup>e</sup> siècles)"
           }
         ]
       },
       {
         "periods": [{ "startDate": "24/04/2007", "endDate": "27/04/2007" }],
         "place": "Clermont Ferrand",
-        "label": "Eléments d’une nouvelle théorie des rapports au XIVe siècle",
+        "label": "Eléments d’une nouvelle théorie des rapports au XIV<sup>e</sup> siècle",
         "details": [
           {
             "value": "Colloque international « Traditions euclidiennes »"
@@ -384,7 +384,7 @@
       {
         "periods": [{ "startDate": "03/06/2008", "endDate": "07/06/2008" }],
         "place": "Villejuif",
-        "label": "Types de démonstration des des traités de philosophie naturelle des XIVe et XVe siècles",
+        "label": "Types de démonstration des des traités de philosophie naturelle des XIV<sup>e</sup> et XV<sup>e</sup> siècles",
         "details": [
           {
             "value": "Colloque « Démonstration »"
@@ -408,7 +408,7 @@
       {
         "periods": [{ "startDate": "27/01/2009", "endDate": "30/01/2009" }],
         "place": "Université Paris 4, Paris",
-        "label": "La constitution d’un vocabulaire mathématique dans les traductions des <i>Éléments</i> d’Euclide du XIIe siècle",
+        "label": "La constitution d’un vocabulaire mathématique dans les traductions des <i>Éléments</i> d’Euclide du XII<sup>e</sup> siècle",
         "details": [
           {
             "key": "dans",
@@ -505,7 +505,7 @@
       {
         "dates": ["19/10/2012"],
         "place": "Rome",
-        "label": "La place de l’Algebra (1608) de Clavius dans les développements de l’algèbre au XVIe siècle",
+        "label": "La place de l’Algebra (1608) de Clavius dans les développements de l’algèbre au XVI<sup>e</sup> siècle",
         "details": [
           {
             "value": "Colloque « 400° ANNIVERSARIO DI CHRISTOPHORUS CLAVIUS Princeps mathematicorum nostri temporis »"
@@ -539,7 +539,7 @@
       {
         "periods": [{ "startDate": "10/10/2013", "endDate": "12/10/2013" }],
         "place": "Université de Turin, Turin",
-        "label": "Réception des travaux des algébristes italiens par quelques algébristes européens du XVIe siècle",
+        "label": "Réception des travaux des algébristes italiens par quelques algébristes européens du XVI<sup>e</sup> siècle",
         "details": [
           {
             "value": "Congrès international « Mathematical Schools and National Identity in Modern and Contemporary Italy »"
@@ -553,7 +553,7 @@
       {
         "dates": ["25/03/2014"],
         "place": "Berlin",
-        "label": "L’enseignement de la géométrie par Conrad Dasypodius, à Strasbourg, au XVIe siècle",
+        "label": "L’enseignement de la géométrie par Conrad Dasypodius, à Strasbourg, au XVI<sup>e</sup> siècle",
         "details": [
           {
             "value": "Colloquium du Max Planck Institut"
@@ -628,7 +628,7 @@
             "value": "Aurélien Robert (Laboratoire SPHERE)"
           },
           {
-            "value": "Colloque international « Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13e siècle »"
+            "value": "Colloque international « Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13<sup>e</sup> siècle »"
           },
           {
             "key": "organisé avec",
@@ -834,7 +834,7 @@
       {
         "dates": ["04/2004"],
         "place": "Poitiers",
-        "label": "Les paradoxes de la mathématisation du continu au XVIe siècle",
+        "label": "Les paradoxes de la mathématisation du continu au XVI<sup>e</sup> siècle",
         "details": [
           {
             "value": "Congrès d’histoire des sciences et des techniques"
@@ -844,7 +844,7 @@
       {
         "dates": ["05/2004"],
         "place": "IHP",
-        "label": "Mathématiques et mouvement aux XIVe et XVe siècles",
+        "label": "Mathématiques et mouvement aux XIVe et XV<sup>e</sup> siècles",
         "details": [
           {
             "value": "Journée d’études « Mathématiques et philosophie de la nature au Moyen Âge »"
@@ -862,7 +862,7 @@
       {
         "dates": ["11/2005"],
         "place": "Université de Nantes",
-        "label": "La question du mouvement aux XIVe et XVe siècles",
+        "label": "La question du mouvement aux XIV<sup>e</sup> et XV<sup>e</sup> siècles",
         "details": [
           {
             "value": "Séminaire d’histoire des mathématiques"
@@ -997,7 +997,7 @@
       {
         "dates": ["06/01/2010"],
         "place": "Limoges",
-        "label": "Pourquoi étudier une théorie de l’aimant erronée du XIVe siècle ?",
+        "label": "Pourquoi étudier une théorie de l’aimant erronée du XIV<sup>e</sup> siècle ?",
         "details": [
           {
             "value": "Séminaire d’histoire des sciences"
@@ -1091,7 +1091,7 @@
       {
         "dates": ["06/01/2013"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Six inconvénients découlant de la règle du mouvement de Thomas Bradwardine dans un texte anonyme du XIVe siècle",
+        "label": "Six inconvénients découlant de la règle du mouvement de Thomas Bradwardine dans un texte anonyme du XIV<sup>e</sup> siècle",
         "details": [
           {
             "value": "Journée d’études sur « Les calculatores d’Oxford »"
@@ -1105,7 +1105,7 @@
       {
         "dates": ["26/03/2013"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Commandino, éditeur des <i>Éléments</i> d’Euclide au XVIe siècle, entre sources grecques et latines et préoccupations de mathématicien",
+        "label": "Commandino, éditeur des <i>Éléments</i> d’Euclide au XVI<sup>e</sup> siècle, entre sources grecques et latines et préoccupations de mathématicien",
         "details": [
           {
             "value": "Séminaire « Circulation et traductions des savoirs »"
@@ -1115,7 +1115,7 @@
       {
         "dates": ["25/04/2013"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Une question sur le magnétisme dans un texte anonyme du XIVe siècle",
+        "label": "Une question sur le magnétisme dans un texte anonyme du XIV<sup>e</sup> siècle",
         "details": [
           {
             "value": "Séminaire « Modèles de transmission physique dans la tradition péripatéticienne »"
@@ -1125,7 +1125,7 @@
       {
         "dates": ["05/06/2013"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Une arithmétique des nombres cossiques chez Stifel et Clavius, algébristes du XVIe siècle",
+        "label": "Une arithmétique des nombres cossiques chez Stifel et Clavius, algébristes du XVI<sup>e</sup> siècle",
         "details": [
           {
             "value": "Séminaire « Lecture de textes mathématiques »"
@@ -1218,7 +1218,7 @@
       {
         "periods": [{ "startDate": "28/04/2014", "endDate": "30/04/2014" }],
         "place": "Lyon",
-        "label": "Conrad Dasypodius, professeur de mathématiques à Strasbourg, au XVIe siècle",
+        "label": "Conrad Dasypodius, professeur de mathématiques à Strasbourg, au XVI<sup>e</sup> siècle",
         "details": [
           {
             "value": "Congrès de la SFHST"
@@ -1228,7 +1228,7 @@
       {
         "dates": ["19/05/2014"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Les nouvelles théories des rapports mathématiques du XIVe au XVIe siècle",
+        "label": "Les nouvelles théories des rapports mathématiques du XIV<sup>e</sup> au XVI<sup>e</sup> siècle",
         "details": [
           {
             "value": "Séminaire d’histoire et de philosophie des mathématiques"
@@ -1248,7 +1248,7 @@
       {
         "dates": ["12/11/2014"],
         "place": "Université Paris 6, Paris",
-        "label": "Projets pédagogiques de Dasypodius, enseignant de mathématiques à Strasbourg au XVIe siècle",
+        "label": "Projets pédagogiques de Dasypodius, enseignant de mathématiques à Strasbourg au XVI<sup>e</sup> siècle",
         "details": [
           {
             "value": "Séminaire Histoire des sciences mathématiques"
@@ -1291,7 +1291,7 @@
       {
         "dates": ["15/06/2015"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Considérations sur le travail de Campanus (XIIIe siècle) concernant les principes des <i>Éléments</i> d’Euclide et quelques exemples de sa diffusion au XVIe siècle",
+        "label": "Considérations sur le travail de Campanus (XIII<sup>e</sup> siècle) concernant les principes des <i>Éléments</i> d’Euclide et quelques exemples de sa diffusion au XVI<sup>e</sup> siècle",
         "details": [
           {
             "value": "Séminaire d’histoire et de philosophie des mathématiques"
@@ -1311,7 +1311,7 @@
       {
         "dates": ["15/12/2015"],
         "place": "Université de Lille, Lille",
-        "label": "Sur un traité anonyme représentatif d’une physique développée à Oxford au XIVe siècle",
+        "label": "Sur un traité anonyme représentatif d’une physique développée à Oxford au XIV<sup>e</sup> siècle",
         "details": [
           {
             "value": "Archeologia Scientiae, Séminaire de philosophie et histoire des sciences"
@@ -1331,7 +1331,7 @@
       {
         "dates": ["20/10/2016"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Expériences de pensée et recours aux « experimenta » dans un texte de philosophie naturelle anonyme du XIVe siècle, le <i>De sex inconvenientibus</i>",
+        "label": "Expériences de pensée et recours aux « experimenta » dans un texte de philosophie naturelle anonyme du XIV<sup>e</sup> siècle, le <i>De sex inconvenientibus</i>",
         "details": [
           {
             "value": "Journée d’études « Place de l’étrange, du surprenant, de l’inexplicable dans le corpus des textes médiévaux en langue arabe, persane et latine (1) : L’examen de l’attitude des savants »"
@@ -1386,7 +1386,7 @@
       {
         "dates": ["28/03/2017"],
         "place": "Nantes",
-        "label": "Comment dépasser le strict cadre des autorités : l’exemple du <i>De sex inconvenientibus</i>, traité anonyme de philosophie naturelle du XIVe siècle",
+        "label": "Comment dépasser le strict cadre des autorités : l’exemple du <i>De sex inconvenientibus</i>, traité anonyme de philosophie naturelle du XIV<sup>e</sup> siècle",
         "details": [
           {
             "value": "Séminaire du Centre François Viète"
@@ -1396,7 +1396,7 @@
       {
         "dates": ["21/12/2017"],
         "place": "EPHE, Paris",
-        "label": "Nombres qui dénomment, nombres génériques, nombres qui quantifient arbitrairement : plusieurs aspects de l’usage des nombres dans des traités de mathématiques et de philosophie naturelle des XIIIe et XIVe siècles",
+        "label": "Nombres qui dénomment, nombres génériques, nombres qui quantifient arbitrairement : plusieurs aspects de l’usage des nombres dans des traités de mathématiques et de philosophie naturelle des XIII<sup>e</sup> et XIV<sup>e</sup> siècles",
         "details": [
           {
             "value": "Séminaire « Nombre et figure au Moyen Âge »"
@@ -1439,7 +1439,7 @@
       {
         "dates": ["21/06/2018"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "La détermination de la rapidité de la génération des formes élémentaires dans le <i>De sex inconvenientibus</i>, traité anonyme du XIVe siècle",
+        "label": "La détermination de la rapidité de la génération des formes élémentaires dans le <i>De sex inconvenientibus</i>, traité anonyme du XIV<sup>e</sup> siècle",
         "details": [
           {
             "value": "Journée d’études « Peut-on parler de la génération comme d’un mouvement ? »"
@@ -1456,7 +1456,7 @@
         "label": "Les références aux <i>Météorologiques</i> dans le <i>De sex inconvenientibus</i>, à propos de la génération des qualités premières par les corps célestes au moyen de la lumière",
         "details": [
           {
-            "value": "Journée d’études « Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (13e-14e siècles) »"
+            "value": "Journée d’études « Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (13<sup>e</sup>-14<sup>e</sup> siècles) »"
           },
           {
             "key": "organisée avec",
@@ -1467,7 +1467,7 @@
       {
         "dates": ["07/02/2019"],
         "place": "ENS Ulm",
-        "label": "Le <i>De sex inconvenientibus</i>, un exemple de traité de philosophie naturelle du XIVe siècle",
+        "label": "Le <i>De sex inconvenientibus</i>, un exemple de traité de philosophie naturelle du XIV<sup>e</sup> siècle",
         "details": [
           {
             "value": "Les Jeudis de l’HPS"
@@ -1480,7 +1480,7 @@
         "label": "Velocity without time, motion without resistance in Questions on the Physics of Blasius of Parma",
         "details": [
           {
-            "value": "Journée d’études « Le temps dans la physique du XIVe siècle »"
+            "value": "Journée d’études « Le temps dans la physique du XIV<sup>e</sup> siècle »"
           },
           {
             "key": "organisée avec",
@@ -1501,7 +1501,7 @@
       {
         "dates": ["27/11/2019"],
         "place": "Bordeaux",
-        "label": "Un exemple d’enseignement humaniste des mathématiques au travers des ouvrages de Conrad Dasypodius, professeur au Gymnasium de Strasbourg, dans la seconde moitié du XVIe siècle",
+        "label": "Un exemple d’enseignement humaniste des mathématiques au travers des ouvrages de Conrad Dasypodius, professeur au Gymnasium de Strasbourg, dans la seconde moitié du XVI<sup>e</sup> siècle",
         "details": [
           {
             "value": "Rencontres d’histoire des sciences de Bordeaux"
@@ -1545,7 +1545,7 @@
       {
         "dates": ["26/03/2021"],
         "place": "EPHE, Paris",
-        "label": "L’action à distance de l’aimant dans quelques textes du XIVe siècle",
+        "label": "L’action à distance de l’aimant dans quelques textes du XIV<sup>e</sup> siècle",
         "details": [
           {
             "value": "Journée d’études « L’action à distance au Moyen Âge et à la Renaissance »"
@@ -1647,7 +1647,7 @@
         "label": "Introduction sur l’édition critique numérique des <i>Embammata Physicalia</i> de Jacques Almain",
         "details": [
           {
-            "value": "Journée d’études « L’enseignement de la philosophie naturelle à Paris au début du XVIe siècle. La physique de Jacques Almain en contexte »"
+            "value": "Journée d’études « L’enseignement de la philosophie naturelle à Paris au début du XVI<sup>e</sup> siècle. La physique de Jacques Almain en contexte »"
           },
           {
             "key": "organisée avec",

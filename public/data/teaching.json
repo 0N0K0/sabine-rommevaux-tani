@@ -86,7 +86,7 @@
       {
         "dates": ["2016"],
         "place": "Université Paris Diderot",
-        "label": "Philosophie naturelle au XIVe siècle, les Calculatores",
+        "label": "Philosophie naturelle au XIV<sup>e</sup> siècle, les Calculatores",
         "details": [
           { "value": "Master 2 Recherche" },
           {
@@ -112,7 +112,7 @@
       {
         "periods": [{ "startDate": "2017", "endDate": "2018" }],
         "place": "Université Paris Diderot",
-        "label": "Philosophie naturelle au XIVe siècle, les Calculatores",
+        "label": "Philosophie naturelle au XIV<sup>e</sup> siècle, les Calculatores",
         "details": [
           { "value": "Master 2 Recherche" },
           {

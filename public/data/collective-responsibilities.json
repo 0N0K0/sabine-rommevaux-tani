@@ -151,7 +151,7 @@
           },
           {
             "key": "Sujet :",
-            "value": "Penser les mathématiques au xvie siècle"
+            "value": "Penser les mathématiques au xvi<sup>e</sup> siècle"
           },
           {
             "key": "dirigée par",
@@ -174,7 +174,7 @@
           },
           {
             "key": "Sujet :",
-            "value": "Les domaines d’application des mathématiques dans la première moitié du quatorzième siècle"
+            "value": "Les domaines d’application des mathématiques dans la première moitié du quatorzièm<sup>e</sup> siècle"
           },
           {
             "key": "dirigée par",
@@ -197,7 +197,7 @@
           },
           {
             "key": "Sujet :",
-            "value": "Les domaines d’application des mathématiques dans la première moitié du quatorzième siècle"
+            "value": "Les domaines d’application des mathématiques dans la première moitié du quatorzièm<sup>e</sup> siècle"
           },
           {
             "key": "dirigée par",
@@ -290,7 +290,7 @@
           },
           {
             "key": "Sujet :",
-            "value": "L’algèbre des polynômes : le Qisṭāsal-mu‘ādala fī‘ilm al-jabr wa’l-muqābala d’al-Zanjānī (XIIIe siècle)"
+            "value": "L’algèbre des polynômes : le Qisṭāsal-mu‘ādala fī‘ilm al-jabr wa’l-muqābala d’al-Zanjānī (XIII<sup>e</sup> siècle)"
           },
           {
             "key": "dirigée par",
@@ -429,7 +429,7 @@
       },
       {
         "periods": [{ "startDate": "2003", "endDate": "2006" }],
-        "label": "Responsable du projet « Formes d'articulation entre mathématiques et philosophie naturelle (XIVe-XVIe siècles) »",
+        "label": "Responsable du projet « Formes d'articulation entre mathématiques et philosophie naturelle (XIV<sup>e</sup>-XVI<sup>e</sup> siècles) »",
         "details": [
           {
             "key": "Dans le cadre de l'",

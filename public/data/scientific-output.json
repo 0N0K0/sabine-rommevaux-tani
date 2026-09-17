@@ -9,7 +9,7 @@
       },
       {
         "dates": ["2014"],
-        "label": "<i>Les nouvelles théories des rapports mathématiques du XIVe au XVIe siècle</i>, Turnhout, Brepols (2014)",
+        "label": "<i>Les nouvelles théories des rapports mathématiques du XIV<sup>e</sup> au XVI<sup>e</sup> siècle</i>, Turnhout, Brepols (2014)",
         "link": "https://www.brepols.net/products/IS-9782503530673-1",
         "details": [
           {
@@ -43,7 +43,7 @@
           },
           {
             "key": "<i>in</i>",
-            "value": "en collaboration avec Joël Biard (Dir.), <i>Mathématiques et théorie du mouvement (XIVe—XVIe siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008), p. 53-57",
+            "value": "en collaboration avec Joël Biard (Dir.), <i>Mathématiques et théorie du mouvement (XIV<sup>e</sup>—XVI<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008), p. 53-57",
             "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
           }
         ]
@@ -90,14 +90,14 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Les nouvelles théories des rapports mathématiques du XIVe au XVIe siècle</i>, Turnhout, Brepols (2014)",
+            "value": "<i>Les nouvelles théories des rapports mathématiques du XIV<sup>e</sup> au XVI<sup>e</sup> siècle</i>, Turnhout, Brepols (2014)",
             "link": "https://www.brepols.net/products/IS-9782503530673-1"
           }
         ]
       },
       {
         "dates": ["2022"],
-        "label": "<i>« De sex inconvenientibus » Un traité anonyme de philosophie naturelle au XIVe siècle</i>, Paris, Vrin (2022)",
+        "label": "<i>« De sex inconvenientibus » Un traité anonyme de philosophie naturelle au XIV<sup>e</sup> siècle</i>, Paris, Vrin (2022)",
         "link": "https://www.vrin.fr/livre/9782711630226/de-sex-inconvenientibus",
         "details": [
           {
@@ -130,11 +130,13 @@
       },
       {
         "dates": ["en préparation"],
-        "label": "Blasius de Parma, <i>Questiones disputate super octo libros physicorum</i>, livre VII"
+        "label": "Blasius de Parma, <i>Questiones disputate super octo libros physicorum</i>, livre VII",
+        "details": [{ "value": "En préparation" }]
       },
       {
         "dates": ["en préparation"],
-        "label": "Radulphus Brito, <i>Questiones mathematiceI</i>"
+        "label": "Radulphus Brito, <i>Questiones mathematiceI</i>",
+        "details": [{ "value": "En préparation" }]
       }
     ]
   },
@@ -147,7 +149,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Joël Biard et Jean Celeyrette (éds.), <i>De la théologie aux mathématiques : l’infini au XIVe siècle</i>, Paris, Les Belles Lettres (2005), p. 89-135",
+            "value": "Joël Biard et Jean Celeyrette (éds.), <i>De la théologie aux mathématiques : l’infini au XIV<sup>e</sup> siècle</i>, Paris, Les Belles Lettres (2005), p. 89-135",
             "link": "https://www.lesbelleslettres.com/livre/9782251181028/de-la-theologie-aux-mathematiques"
           }
         ]
@@ -179,7 +181,7 @@
       },
       {
         "dates": ["2008"],
-        "label": "en collaboration avec Joël Biard (éds.), <i>Mathématiques et théorie du mouvement (xive- xvie siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008)",
+        "label": "en collaboration avec Joël Biard (éds.), <i>Mathématiques et théorie du mouvement (xiv<sup>e</sup>- xvi<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008)",
         "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
       },
       {
@@ -290,7 +292,7 @@
       },
       {
         "dates": ["2012"],
-        "label": "« Christoph Clavius, un promoteur des mathématiques à la Renaissance », <i>Seizième siècle</i>, 8 (2012), p. 127 à 140",
+        "label": "« Christoph Clavius, un promoteur des mathématiques à la Renaissance », <i>Seizièm<sup>e</sup> siècle</i>, 8 (2012), p. 127 à 140",
         "link": "https://www.persee.fr/doc/xvi_1774-4466_2012_num_8_1_1047"
       },
       {
@@ -320,7 +322,7 @@
       },
       {
         "dates": ["2014"],
-        "label": "« Un auteur anonyme du XIVe siècle, à Oxford, lecteur de Pierre de Maricourt », <i>Revue d’histoire des sciences</i>, 67/1 (2014), p. 5-53",
+        "label": "« Un auteur anonyme du XIV<sup>e</sup> siècle, à Oxford, lecteur de Pierre de Maricourt », <i>Revue d’histoire des sciences</i>, 67/1 (2014), p. 5-53",
         "link": "https://shs.cairn.info/article/RHS_671_0005?lang=fr&ID_ARTICLE=RHS_671_0005"
       },
       {
@@ -330,7 +332,7 @@
       },
       {
         "dates": ["2016"],
-        "label": "« La réception par quelques mathématiciens européens du XVIe siècle des travaux des algébristes italiens sur les équations du troisième degré : réticence de la plupart et avancées significatives de Stevin », <i>Revue d'histoire des mathématiques</i>, 22/1 (2016), p. 1-52",
+        "label": "« La réception par quelques mathématiciens européens du XVI<sup>e</sup> siècle des travaux des algébristes italiens sur les équations du troisième degré : réticence de la plupart et avancées significatives de Stevin », <i>Revue d'histoire des mathématiques</i>, 22/1 (2016), p. 1-52",
         "link": "https://smf.emath.fr/publications/la-reception-par-quelques-mathematiciens-europeens-du-xvie-siecle-des-travaux-des"
       },
       {
@@ -381,7 +383,7 @@
       },
       {
         "dates": ["2025"],
-        "label": "« Styles de démonstration dans des traités de philosophie naturelle des XIVe et XVe siècles », <i>Methodos</i>, 25 (2025)",
+        "label": "« Styles de démonstration dans des traités de philosophie naturelle des XIVe et XV<sup>e</sup> siècles », <i>Methodos</i>, 25 (2025)",
         "link": " https://doi.org/10.4000/15c9a",
         "details": [{ "value": "Libre accès en ligne" }]
       }
@@ -410,7 +412,7 @@
           },
           {
             "key": "<i>in</i>",
-            "value": "Jean Celeyrette, <i>De la théologie aux mathématiques : l’infini au XIVe siècle</i>, Paris, Les Belles Lettres (2005), Notice : p. 89-95, Traduction : p. 97-135",
+            "value": "Jean Celeyrette, <i>De la théologie aux mathématiques : l’infini au XIV<sup>e</sup> siècle</i>, Paris, Les Belles Lettres (2005), Notice : p. 89-95, Traduction : p. 97-135",
             "link": "https://www.lesbelleslettres.com/livre/9782251181028/de-la-theologie-aux-mathematiques"
           }
         ]
@@ -425,7 +427,7 @@
           },
           {
             "key": "<i>in</i>",
-            "value": "en collaboration avec Joël Biard, <i>Mathématiques et théorie du mouvement (XIVe—XVIe siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008)",
+            "value": "en collaboration avec Joël Biard, <i>Mathématiques et théorie du mouvement (XIV<sup>e</sup>—XVI<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008)",
             "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
           }
         ]
@@ -436,7 +438,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "en collaboration avec Joël Biard, <i>Mathématiques et théorie du mouvement (XIVe—XVIe siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008), p. 31-57",
+            "value": "en collaboration avec Joël Biard, <i>Mathématiques et théorie du mouvement (XIV<sup>e</sup>—XVI<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008), p. 31-57",
             "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
           }
         ]
@@ -498,7 +500,7 @@
       },
       {
         "dates": ["2013"],
-        "label": "« Six inconvénients découlant de la règle du mouvement de Thomas Bradwardine dans un texte anonyme du XIVe siècle »",
+        "label": "« Six inconvénients découlant de la règle du mouvement de Thomas Bradwardine dans un texte anonyme du XIV<sup>e</sup> siècle »",
         "details": [
           {
             "key": "<i>in</i>",
@@ -524,7 +526,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Véronique Duché, <i>Histoire des traductions en langue française, XVe – XVe siècles</i>, Lagrasse, Verdier (2015), p. 782-791",
+            "value": "Véronique Duché, <i>Histoire des traductions en langue française, XV<sup>e</sup> – XV<sup>e</sup> siècles</i>, Lagrasse, Verdier (2015), p. 782-791",
             "link": "https://editions-verdier.fr/livre/histoire-des-traductions-en-langue-francaise-xve-et-xviesiecles/"
           }
         ]
@@ -553,7 +555,7 @@
       },
       {
         "dates": ["à paraître"],
-        "label": "« Les adaptations en français des <i>Éléments</i> d’Euclide par Pierre Forcadel et Jean Errard au XVIe siècle »",
+        "label": "« Les adaptations en français des <i>Éléments</i> d’Euclide par Pierre Forcadel et Jean Errard au XVI<sup>e</sup> siècle »",
         "details": [
           {
             "key": "<i>in</i>",
@@ -592,7 +594,7 @@
       },
       {
         "dates": ["1998 "],
-        "label": "« Les débats autour de la définition de la proportionnalité du livre V des <i>Eléments</i> d'Euclide dans les traditions arabe et latine du xe au xviie siècle »",
+        "label": "« Les débats autour de la définition de la proportionnalité du livre V des <i>Eléments</i> d'Euclide dans les traditions arabe et latine du xe au xvii<sup>e</sup> siècle »",
         "details": [
           {
             "key": "Publié sous le nom de",
@@ -606,7 +608,7 @@
       },
       {
         "dates": ["2006"],
-        "label": "« Les paradoxes de la mathématisation du continu au xive siècle »",
+        "label": "« Les paradoxes de la mathématisation du continu au xiv<sup>e</sup> siècle »",
         "details": [
           {
             "key": "<i>in</i>",
@@ -659,7 +661,7 @@
       },
       {
         "dates": ["2026"],
-        "label": "« L’enseignement de la géométrie des figures planes à l’université de Paris aux xiiie et xive siècles »",
+        "label": "« L’enseignement de la géométrie des figures planes à l’université de Paris aux xiiie et xiv<sup>e</sup> siècles »",
         "details": [
           {
             "key": "<i>in</i>",
@@ -765,7 +767,7 @@
       },
       {
         "dates": ["2012"],
-        "label": "Guillaume de Conches : Philosophie et science au XIIe siècle, études réunies par Barbara Obrist et Irene Caiazzo, Firenze, SISMEL – Edizioni del Galluzo, « Micrologus’ Library » 42, 2001, pp. xxv-522",
+        "label": "Guillaume de Conches : Philosophie et science au XII<sup>e</sup> siècle, études réunies par Barbara Obrist et Irene Caiazzo, Firenze, SISMEL – Edizioni del Galluzo, « Micrologus’ Library » 42, 2001, pp. xxv-522",
         "details": [
           {
             "key": "<i>in</i>",
@@ -817,7 +819,7 @@
       },
       {
         "dates": ["2020"],
-        "label": "Shin Higashi. Penser les Mathématiques au XVIe siècle, Paris: Classiques Garnier, 2018",
+        "label": "Shin Higashi. Penser les Mathématiques au XVI<sup>e</sup> siècle, Paris: Classiques Garnier, 2018",
         "details": [
           {
             "key": "<i>in</i>",

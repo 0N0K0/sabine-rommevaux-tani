@@ -1,11 +1,6 @@
 {
   "files": [
     {
-      "name": "research-areas",
-      "title": "Domaines de recherche",
-      "displayDates": true
-    },
-    {
       "name": "career",
       "title": "Parcours professionnel",
       "displayDates": true
