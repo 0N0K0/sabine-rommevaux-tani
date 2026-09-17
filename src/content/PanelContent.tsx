@@ -1,7 +1,7 @@
 import { Masonry } from '../components/Masonry';
 import type { Content, Data } from '../types/data';
 import { isData } from '../types/guards';
-import { ItemContent } from './ItemContent';
+import { CardContent } from './CardContent';
 import { SectionContent } from './SectionContent';
 
 export function PanelContent({
@@ -21,7 +21,7 @@ export function PanelContent({
     return (
       <Masonry cols={4} gap={16}>
         {data.map((item, index) => (
-          <ItemContent
+          <CardContent
             key={index}
             content={item as Content}
             displayDates={displayDates}

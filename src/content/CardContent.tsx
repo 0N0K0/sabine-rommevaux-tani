@@ -2,7 +2,7 @@ import { Button, Card, Text, Typography } from '@mantine/core';
 import type { Content } from '../types/data';
 import { formatDates, formatPeriods } from '../helpers/helpers';
 
-export function ItemContent({
+export function CardContent({
   content,
   displayDates,
 }: {
@@ -80,7 +80,7 @@ export function ItemContent({
         </Button>
       )}
       {content.content?.map((child, index) => (
-        <ItemContent key={index} content={child} displayDates={displayDates} />
+        <CardContent key={index} content={child} displayDates={displayDates} />
       ))}
     </Container>
   );

@@ -3,7 +3,7 @@ import { Title, type TitleOrder } from '@mantine/core';
 import type { Content, Data } from '../types/data';
 import { isData } from '../types/guards';
 
-import { ItemContent } from './ItemContent';
+import { CardContent } from './CardContent';
 import { Masonry } from '../components/Masonry';
 
 interface SectionContentProps {
@@ -36,7 +36,7 @@ export function SectionContent({
       {items.length > 0 && (
         <Masonry cols={4} gap={16}>
           {items.map((item, index) => (
-            <ItemContent
+            <CardContent
               key={index}
               content={item as Content}
               displayDates={displayDates}
