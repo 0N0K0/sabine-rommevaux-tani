@@ -5,7 +5,11 @@
       {
         "periods": [{ "startDate": "2014", "endDate": "2017" }],
         "place": "Espace Mendès France, Poitiers",
-        "label": "Cycle de conférences destinées aux étudiants de Master et au grand public",
+        "details": [
+          {
+            "value": "Cycle de conférences destinées aux étudiants de Master et au grand public"
+          }
+        ],
         "content": [
           {
             "dates": ["16/01/2014"],
@@ -38,7 +42,7 @@
       },
       {
         "dates": ["08/02/2024"],
-        "place": "Espace La Croix-Davids, Bourg sur Gironde",
+        "place": "Espace La Croix&#8209;Davids, Bourg sur Gironde",
         "label": "Conférence grand public",
         "details": [
           { "value": "La fabuleuse histoire des Eléments d'Euclide" },
@@ -65,7 +69,7 @@
       {
         "dates": ["24/11/2024"],
         "place": "CAP Sciences, Bordeaux",
-        "label": "Animatrice de l'atelier « Le Bureau des enquêtes »",
+        "label": "Animatrice de l'atelier « Le Bureau des enquêtes&nbsp;»",
         "details": [{ "link": "https://www.cap-sciences.net/" }]
       }
     ]
@@ -79,7 +83,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "« Mathématiques : ce que les Grecs ont vraiment inventé », <i>Les cahiers de Sciences et Vie</i>, 55 (02/2000), p. 82-89"
+            "value": "« Mathématiques : ce que les Grecs ont vraiment inventé », <i>Les cahiers de Sciences et Vie</i>, 55 (02/2000), p.&nbsp;82&#8209;89"
           }
         ]
       },
@@ -89,14 +93,14 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Dictionnaire du Moyen Age</i>, Paris, PUF (2002), p. 890-894",
+            "value": "<i>Dictionnaire du Moyen Age</i>, Paris, PUF (2002), p.&nbsp;890&#8209;894",
             "link": "https://www.puf.com/dictionnaire-du-moyen-age"
           }
         ]
       },
       {
         "dates": ["2013"],
-        "label": "« Une Quæstio médiévale : est-ce que la diagonale d’un carré est commensurable au côté de ce carré ? », Images des mathématiques (2013)",
+        "label": "« Une Quæstio médiévale : est&#8209;ce que la diagonale d’un carré est commensurable au côté de ce carré ? », Images des mathématiques (2013)",
         "link": "https://doi.org/10.60868/hm4q-ym83",
         "details": [
           {

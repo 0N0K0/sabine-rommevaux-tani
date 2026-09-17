@@ -26,11 +26,11 @@
       {
         "periods": [{ "startDate": "13/05/2009", "endDate": "15/05/2009" }],
         "place": "Centre d’études supérieures de la Renaissance (CESR), Tours",
-        "label": "Unité ou pluralité de l’algèbre en Europe (XII<sup>e</sup>-XVI<sup>e</sup> siècles)",
+        "label": "Unité ou pluralité de l’algèbre en Europe (XII<sup>e</sup>&#8209;XVI<sup>e</sup> siècles)",
         "details": [
           {
             "key": "organisé avec",
-            "value": "Maryvonne Spiesser (Université Toulouse 3 Paul Sabatier) et Maria Rosa Massa-Estève (Université Polytechnique de Catalogne)"
+            "value": "Maryvonne Spiesser (Université Toulouse 3 Paul Sabatier) et Maria Rosa Massa&#8209;Estève (Université Polytechnique de Catalogne)"
           }
         ]
       },
@@ -129,7 +129,7 @@
       {
         "dates": ["05/12/2013"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "La notion de nature au Moyen-Âge",
+        "label": "La notion de nature au Moyen&#8209;Âge",
         "details": [
           {
             "value": "Séminaire Sciences et Philosophie de l’Antiquité à l’Age classique"
@@ -144,7 +144,7 @@
       {
         "dates": ["07/04/2014"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Algèbres arabes et gréco-latines du IX<sup>e</sup> au XVI<sup>e</sup> siècles",
+        "label": "Algèbres arabes et gréco&#8209;latines du IX<sup>e</sup> au XVI<sup>e</sup> siècles",
         "details": [
           {
             "value": "Séminaire d’histoire des mathématiques"
@@ -169,7 +169,7 @@
       {
         "dates": ["21/06/2018"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Peut-on parler de la génération comme d’un mouvement ?",
+        "label": "Peut&#8209;on parler de la génération comme d’un mouvement ?",
         "details": [
           {
             "key": "organisé avec",
@@ -180,7 +180,7 @@
       {
         "dates": ["18/10/2018"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (XIII<sup>e</sup> - XIV<sup>e</sup> siècle)",
+        "label": "Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (XIII<sup>e</sup>&#8209;XIV<sup>e</sup> siècle)",
         "details": [
           {
             "key": "organisé avec",
@@ -245,18 +245,18 @@
       },
       {
         "dates": ["23/05/2024"],
-        "place": "Université Bordeaux-Montaigne, Bordeaux",
+        "place": "Université Bordeaux&#8209;Montaigne, Bordeaux",
         "label": "Sciences et savoirs en Aquitaine à l’époque de Montaigne",
         "details": [
           {
             "key": "organisé avec",
-            "value": "Anne Boucharain (Université Bordeaux-Montaigne) et Violaine Giacomotto-Charra (Université Bordeaux-Montaigne)"
+            "value": "Anne Boucharain (Université Bordeaux&#8209;Montaigne) et Violaine Giacomotto&#8209;Charra (Université Bordeaux&#8209;Montaigne)"
           }
         ]
       },
       {
         "dates": ["13/01/2025"],
-        "place": "Université Bordeaux-Montaigne, Bordeaux",
+        "place": "Université Bordeaux&#8209;Montaigne, Bordeaux",
         "label": "Les sources de Jacques Almain pour son traitement de la quantité dans les Embammata Pysicialia",
         "details": [
           {
@@ -303,10 +303,10 @@
       {
         "dates": ["04/2001"],
         "place": "Lyon",
-        "label": "Les introductions aux <i>Éléments</i> d’Euclide au Moyen-Age et à la Renaissance",
+        "label": "Les introductions aux <i>Éléments</i> d’Euclide au Moyen&#8209;Age et à la Renaissance",
         "details": [
           {
-            "value": "Colloque international « Méthodes et statut des sciences au Moyen-Age et à la Renaissance »"
+            "value": "Colloque international « Méthodes et statut des sciences au Moyen&#8209;Age et à la Renaissance »"
           }
         ]
       },
@@ -327,7 +327,7 @@
         "label": "Le commentaire de Clavius aux <i>Éléments</i> d’Euclide (1589) : structure et enjeux",
         "details": [
           {
-            "value": "Col-loquis d’Historia de la Cienca i de la Tecnica"
+            "value": "Col&#8209;loquis d’Historia de la Cienca i de la Tecnica"
           }
         ]
       },
@@ -387,7 +387,7 @@
         "label": "Types de démonstration des des traités de philosophie naturelle des XIV<sup>e</sup> et XV<sup>e</sup> siècles",
         "details": [
           {
-            "value": "Colloque « Démonstration »"
+            "value": "Colloque «&nbsp;Démonstration&nbsp;»"
           }
         ]
       },
@@ -397,7 +397,7 @@
         "label": "De la proportion au rapport",
         "details": [
           {
-            "value": "LIe Colloque d’études humanistes, « Proportions »"
+            "value": "LIe Colloque d’études humanistes, «&nbsp;Proportions&nbsp;»"
           },
           {
             "key": "organisé avec",
@@ -412,7 +412,7 @@
         "details": [
           {
             "key": "dans",
-            "value": "<i>Sciences et langues au Moyen Âge</i>, atelier franco-allemand, organisé par Joëlle Ducos et Raymund Wilhelm"
+            "value": "<i>Sciences et langues au Moyen Âge</i>, atelier franco&#8209;allemand, organisé par Joëlle Ducos et Raymund Wilhelm"
           },
           {
             "key": "organisé par",
@@ -423,14 +423,14 @@
       {
         "periods": [{ "startDate": "13/05/2009", "endDate": "15/05/2009" }],
         "place": "Tours",
-        "label": "Qu’est-ce qu’algèbre pour Christoph Clavius ?",
+        "label": "Qu’est&#8209;ce qu’algèbre pour Christoph Clavius ?",
         "details": [
           {
-            "value": "Colloque « Unité et pluralité de l’algèbre »"
+            "value": "Colloque «&nbsp;Unité et pluralité de l’algèbre&nbsp;»"
           },
           {
             "key": "organisé par",
-            "value": "Sabine Rommevaux-Tani"
+            "value": "Sabine Rommevaux&#8209;Tani"
           }
         ]
       },
@@ -450,14 +450,14 @@
         "label": "La versione commandiniana degli “Elementi” di Euclide",
         "details": [
           {
-            "value": "Convegno internazionale « Federico Commandino (1509-1975): Umanesimo e Matematica nel Rinascimento Urbinate »"
+            "value": "Convegno internazionale «&nbsp;Federico Commandino (1509&#8209;1975): Umanesimo e Matematica nel Rinascimento Urbinate&nbsp;»"
           }
         ]
       },
       {
         "periods": [{ "startDate": "21/10/2010", "endDate": "22/10/2010" }],
         "place": "Toulouse",
-        "label": "Question d’une mathématicienne à l’histoire des mathématiques : Qu’est-ce que l’algèbre à la Renaissance ?",
+        "label": "Question d’une mathématicienne à l’histoire des mathématiques : Qu’est&#8209;ce que l’algèbre à la Renaissance ?",
         "details": [
           {
             "value": "Colloque d’histoire des mathématiques en l’honneur de Maryvonne Spiesser"
@@ -470,11 +470,11 @@
         "label": "Les préfaces des traités mathématiques de Clavius",
         "details": [
           {
-            "value": "Colloque international « Ce que les mathématiciens de la Renaissance disent des mathématiques et de leurs applications »"
+            "value": "Colloque international «&nbsp;Ce que les mathématiciens de la Renaissance disent des mathématiques et de leurs applications&nbsp;»"
           },
           {
             "key": "organisé avec",
-            "value": "Maryvonne Spiesser et Maria-Rosa Massa-Estève"
+            "value": "Maryvonne Spiesser et Maria&#8209;Rosa Massa&#8209;Estève"
           }
         ]
       },
@@ -484,7 +484,7 @@
         "label": "Studies on Euclid’s <i>Elements</i> and their reception in Middle Ages",
         "details": [
           {
-            "value": "Colloque international « The history of the history of mathematics »"
+            "value": "Colloque international «&nbsp;The history of the history of mathematics&nbsp;»"
           },
           {
             "key": "organisé par",
@@ -498,7 +498,7 @@
         "label": "Les liens entre arithmétique et algèbre dans l’Algebra de Christoph Clavius",
         "details": [
           {
-            "value": "Colloque international « Algebra and Arithmetic during the Sixteenth and the Seventeenth centuries »"
+            "value": "Colloque international «&nbsp;Algebra and Arithmetic during the Sixteenth and the Seventeenth centuries&nbsp;»"
           }
         ]
       },
@@ -508,7 +508,7 @@
         "label": "La place de l’Algebra (1608) de Clavius dans les développements de l’algèbre au XVI<sup>e</sup> siècle",
         "details": [
           {
-            "value": "Colloque « 400° ANNIVERSARIO DI CHRISTOPHORUS CLAVIUS Princeps mathematicorum nostri temporis »"
+            "value": "Colloque «&nbsp;400° ANNIVERSARIO DI CHRISTOPHORUS CLAVIUS Princeps mathematicorum nostri temporis&nbsp;»"
           }
         ]
       },
@@ -518,7 +518,7 @@
         "label": "Enjeux des traductions de textes médiévaux latins de philosophie naturelle",
         "details": [
           {
-            "value": "Colloque « Traduction et innovation »"
+            "value": "Colloque «&nbsp;Traduction et innovation&nbsp;»"
           }
         ]
       },
@@ -528,7 +528,7 @@
         "label": "La réduction syllogistique des livres I à VI des <i>Éléments</i> par Dasypodius. Méthodes et enjeux",
         "details": [
           {
-            "value": "Congrès international « Geometry and Logic. The Shape of Mathematical Proof from Antiquity to the Early Modern Age »"
+            "value": "Congrès international «&nbsp;Geometry and Logic. The Shape of Mathematical Proof from Antiquity to the Early Modern Age&nbsp;»"
           },
           {
             "key": "organisé par",
@@ -542,11 +542,11 @@
         "label": "Réception des travaux des algébristes italiens par quelques algébristes européens du XVI<sup>e</sup> siècle",
         "details": [
           {
-            "value": "Congrès international « Mathematical Schools and National Identity in Modern and Contemporary Italy »"
+            "value": "Congrès international «&nbsp;Mathematical Schools and National Identity in Modern and Contemporary Italy&nbsp;»"
           },
           {
             "key": "organisé par le",
-            "value": "Département de mathématiques « Giuseppe Peano »"
+            "value": "Département de mathématiques «&nbsp;Giuseppe Peano&nbsp;»"
           }
         ]
       },
@@ -566,7 +566,7 @@
         "label": "Michael Stifel lecteur de la Practica arithmetice de Cardano",
         "details": [
           {
-            "value": "Colloque international « Histoire et philosophie des mathématiques et disciplines associées en Méditerranée »"
+            "value": "Colloque international «&nbsp;Histoire et philosophie des mathématiques et disciplines associées en Méditerranée&nbsp;»"
           }
         ]
       },
@@ -596,7 +596,7 @@
         "label": "Considérations sur l’altération, l’augmentation et le mouvement local dans la seconde rédaction des Questions de Blaise de Parme sur le livre VII de la Physique",
         "details": [
           {
-            "value": "Colloque international « Blaise de Parme : Physique et psychologie »"
+            "value": "Colloque international «&nbsp;Blaise de Parme : Physique et psychologie&nbsp;»"
           },
           {
             "key": "organisé par",
@@ -610,7 +610,7 @@
         "label": "Les questions sur le mouvement local dans le traité anonyme <i>De sex inconvenientibus</i>",
         "details": [
           {
-            "value": "Colloque international « Quantifying Aristotle. The impact, spread and decline of the <i>Calculatores</i> tradition »"
+            "value": "Colloque international «&nbsp;Quantifying Aristotle. The impact, spread and decline of the <i>Calculatores</i> tradition&nbsp;»"
           },
           {
             "key": "organisé par",
@@ -628,7 +628,7 @@
             "value": "Aurélien Robert (Laboratoire SPHERE)"
           },
           {
-            "value": "Colloque international « Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13<sup>e</sup> siècle »"
+            "value": "Colloque international «&nbsp;Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13<sup>e</sup> siècle&nbsp;»"
           },
           {
             "key": "organisé avec",
@@ -642,7 +642,7 @@
         "label": "Rôle de la géométrie dans l’Arithmetica integra de Michael Stifel",
         "details": [
           {
-            "value": "Workshop international « Geometrical reasoning and visual culture – shaping astronomy and other scientiae mediae »"
+            "value": "Workshop international «&nbsp;Geometrical reasoning and visual culture – shaping astronomy and other scientiae mediae&nbsp;»"
           },
           { "key": "organisé par", "value": "Samuel Gesner" }
         ]
@@ -653,7 +653,7 @@
         "label": "The paradoxes caused by the different ways of determining the speed of motion in the anonymous treatise <i>De sex inconvenientibus</i>.",
         "details": [
           {
-            "value": "Workshop international « The Concept of Motion in Late Medieval Philosophy »"
+            "value": "Workshop international «&nbsp;The Concept of Motion in Late Medieval Philosophy&nbsp;»"
           },
           { "key": "organisé par", "value": "Daniel Di Liscia" }
         ]
@@ -664,7 +664,7 @@
         "label": "A Science of mathematicalia in the <i>Questiones mathematice</i> of Radulphus Brito",
         "details": [
           {
-            "value": "Série de workshops internationaux « Premodern Mathematical Thought »"
+            "value": "Série de workshops internationaux «&nbsp;Premodern Mathematical Thought&nbsp;»"
           },
           { "key": "organisé par", "value": "Clelia Crialesi" }
         ]
@@ -685,7 +685,7 @@
         "label": "Nombre du philosophe, nombre du mathématicien",
         "details": [
           {
-            "value": "Colloque international « Quid sit numerus ? Théories et conceptualisations du nombre au Moyen Âge et à la Renaissance »"
+            "value": "Colloque international «&nbsp;Quid sit numerus ? Théories et conceptualisations du nombre au Moyen Âge et à la Renaissance&nbsp;»"
           }
         ]
       },
@@ -695,7 +695,7 @@
         "label": "Les mathématiques et les sciences au temps de Philippe de Vitry",
         "details": [
           {
-            "value": "Colloque international « Philippe de Vitry en son temps »"
+            "value": "Colloque international «&nbsp;Philippe de Vitry en son temps&nbsp;»"
           }
         ]
       },
@@ -705,7 +705,7 @@
         "label": "Réflexions sur l’enseignement de la géométrie à l’université de Paris, aux XIIIe et XIVe s",
         "details": [
           {
-            "value": "Colloque international « Surveying the Realm of Medieval Geometry (XII-XV c.) »"
+            "value": "Colloque international «&nbsp;Surveying the Realm of Medieval Geometry (XII&#8209;XV c.)&nbsp;»"
           }
         ]
       },
@@ -725,7 +725,7 @@
         "label": "Les <i>Éléments</i> d’Euclide comme manuel d’enseignement au Moyen Âge et à la Renaissance",
         "details": [
           {
-            "value": "Colloque international « Euclid in the Modern Age, A History of Cross-Cultural Transmissions, Translations and Transformations of the Elements »"
+            "value": "Colloque international «&nbsp;Euclid in the Modern Age, A History of Cross&#8209;Cultural Transmissions, Translations and Transformations of the Elements&nbsp;»"
           }
         ]
       },
@@ -735,9 +735,9 @@
         "label": "Les <i>Questiones breves</i> issues des <i>Questiones super physicam (ultima lectura)</i> de Buridan",
         "details": [
           {
-            "value": "Colloque « Les commentaires de la <i>Physique</i> de la Bibliotheca Amploniana d’Erfurt »"
+            "value": "Colloque «&nbsp;Les commentaires de la <i>Physique</i> de la Bibliotheca Amploniana d’Erfurt&nbsp;»"
           },
-          { "key": "organisé par", "value": "Nicolas Weill-Parot" }
+          { "key": "organisé par", "value": "Nicolas Weill&#8209;Parot" }
         ]
       }
     ]
@@ -752,7 +752,7 @@
         "details": [
           {
             "key": "organisé par",
-            "value": "Sabine Rommevaux-Tani"
+            "value": "Sabine Rommevaux&#8209;Tani"
           },
           {
             "value": "Séminaire d’Histoire des mathématiques"
@@ -765,11 +765,11 @@
         "label": "Le commentaire de Campanus aux <i>Éléments</i> d’Euclide : l’exemple de l’irrationalité",
         "details": [
           {
-            "value": "Journée d’études internationale sur la « Pratique des commentaires en mathématiques »"
+            "value": "Journée d’études internationale sur la «&nbsp;Pratique des commentaires en mathématiques&nbsp;»"
           },
           {
             "key": "organisée dans le cadre du",
-            "value": "Séminaire « Histoire des sciences, histoire du texte »"
+            "value": "Séminaire «&nbsp;Histoire des sciences, histoire du texte&nbsp;»"
           }
         ]
       },
@@ -807,7 +807,7 @@
         "label": "La définition de la similitude des rapports dans le commentaire de Clavius au livre V des <i>Éléments</i>",
         "details": [
           {
-            "value": "Journée d’études internationale sur « Le livre V des <i>Éléments</i> d’Euclide »"
+            "value": "Journée d’études internationale sur «&nbsp;Le livre V des <i>Éléments</i> d’Euclide&nbsp;»"
           }
         ]
       },
@@ -847,11 +847,11 @@
         "label": "Mathématiques et mouvement aux XIVe et XV<sup>e</sup> siècles",
         "details": [
           {
-            "value": "Journée d’études « Mathématiques et philosophie de la nature au Moyen Âge »"
+            "value": "Journée d’études «&nbsp;Mathématiques et philosophie de la nature au Moyen Âge&nbsp;»"
           },
           {
             "key": "organisée par",
-            "value": "Sabine Rommevaux-Tani"
+            "value": "Sabine Rommevaux&#8209;Tani"
           },
           {
             "key": "dans le cadre du",
@@ -875,7 +875,7 @@
         "label": "Le calcul sur les rapports de rapports dans les traités de Nicole Oresme",
         "details": [
           {
-            "value": "Séminaire « Les mathématiques grecques anciennes et leur postérité »"
+            "value": "Séminaire «&nbsp;Les mathématiques grecques anciennes et leur postérité&nbsp;»"
           }
         ]
       },
@@ -886,7 +886,7 @@
         "details": [
           {
             "key": "dans le cadre du",
-            "value": "Séminaire de l’IHP « Les <i>Éléments</i> d’Euclide à la Renaissance : un texte d’enseignement ? »"
+            "value": "Séminaire de l’IHP «&nbsp;Les <i>Éléments</i> d’Euclide à la Renaissance : un texte d’enseignement ?&nbsp;»"
           },
           {
             "key": "organisé par",
@@ -900,17 +900,17 @@
         "label": "Les quantités irrationnelles dans l’Algèbre de Clavius",
         "details": [
           {
-            "value": "Journée d’études internationale « Algébrisation du livre X des <i>Éléments</i> d’Euclide »"
+            "value": "Journée d’études internationale «&nbsp;Algébrisation du livre X des <i>Éléments</i> d’Euclide&nbsp;»"
           }
         ]
       },
       {
         "dates": ["02/2008"],
         "place": "Paris",
-        "label": "Qu’est-ce qu’un rapport ? : les réponses de Campanus et de Blaise de Parme",
+        "label": "Qu’est&#8209;ce qu’un rapport ? : les réponses de Campanus et de Blaise de Parme",
         "details": [
           {
-            "value": "Séminaire « Épistémologie et histoire des idées mathématiques »"
+            "value": "Séminaire «&nbsp;Épistémologie et histoire des idées mathématiques&nbsp;»"
           }
         ]
       },
@@ -920,7 +920,7 @@
         "label": "La question des liens entre algèbre, arithmétique et géométrie, ou comment l’algèbre fait éclater la dichotomie entre les disciplines",
         "details": [
           {
-            "value": "Journée d’études « Réflexions autour du <i>Libro de algebra</i> de Pedro Nuñez »"
+            "value": "Journée d’études «&nbsp;Réflexions autour du <i>Libro de algebra</i> de Pedro Nuñez&nbsp;»"
           },
           {
             "key": "organisée par",
@@ -944,7 +944,7 @@
         "label": "Sources grecques et latines dans le commentaire de Clavius aux <i>Éléments</i> d’Euclide",
         "details": [
           {
-            "value": "Journée d’études « Articulation entre textes antiques et tradition médiévale dans le domaine scientifique à la Renaissance »"
+            "value": "Journée d’études «&nbsp;Articulation entre textes antiques et tradition médiévale dans le domaine scientifique à la Renaissance&nbsp;»"
           },
           {
             "key": "organisée avec",
@@ -986,7 +986,7 @@
         "label": "Théorie du vide chez Blaise de Parme",
         "details": [
           {
-            "value": "Journée d’étude « La physique du vide au Moyen Âge »"
+            "value": "Journée d’étude «&nbsp;La physique du vide au Moyen Âge&nbsp;»"
           },
           {
             "key": "organisée par",
@@ -1014,7 +1014,7 @@
         "label": "La lecture arithmétique du Livre X des <i>Éléments</i> d’Euclide par Stifel",
         "details": [
           {
-            "value": "Journée d’études « Autour de l’Arithmetica integra de Stifel (1544) : deuxième partie »"
+            "value": "Journée d’études «&nbsp;Autour de l’Arithmetica integra de Stifel (1544) : deuxième partie&nbsp;»"
           },
           {
             "key": "organisée par",
@@ -1028,7 +1028,7 @@
         "label": "Christoph Clavius lecteur de l’Arithmetica integra de Michael Stifel",
         "details": [
           {
-            "value": "Séminaire « Autour de l’Arithmetica integra de Michael Stifel »"
+            "value": "Séminaire «&nbsp;Autour de l’Arithmetica integra de Michael Stifel&nbsp;»"
           },
           {
             "key": "organisé par",
@@ -1056,7 +1056,7 @@
           },
           {
             "key": "organisée par",
-            "value": "Sabine Rommevaux-Tani"
+            "value": "Sabine Rommevaux&#8209;Tani"
           }
         ]
       },
@@ -1094,7 +1094,7 @@
         "label": "Six inconvénients découlant de la règle du mouvement de Thomas Bradwardine dans un texte anonyme du XIV<sup>e</sup> siècle",
         "details": [
           {
-            "value": "Journée d’études sur « Les calculatores d’Oxford »"
+            "value": "Journée d’études sur «&nbsp;Les calculatores d’Oxford&nbsp;»"
           },
           {
             "key": "dans le cadre du",
@@ -1108,7 +1108,7 @@
         "label": "Commandino, éditeur des <i>Éléments</i> d’Euclide au XVI<sup>e</sup> siècle, entre sources grecques et latines et préoccupations de mathématicien",
         "details": [
           {
-            "value": "Séminaire « Circulation et traductions des savoirs »"
+            "value": "Séminaire «&nbsp;Circulation et traductions des savoirs&nbsp;»"
           }
         ]
       },
@@ -1118,7 +1118,7 @@
         "label": "Une question sur le magnétisme dans un texte anonyme du XIV<sup>e</sup> siècle",
         "details": [
           {
-            "value": "Séminaire « Modèles de transmission physique dans la tradition péripatéticienne »"
+            "value": "Séminaire «&nbsp;Modèles de transmission physique dans la tradition péripatéticienne&nbsp;»"
           }
         ]
       },
@@ -1128,7 +1128,7 @@
         "label": "Une arithmétique des nombres cossiques chez Stifel et Clavius, algébristes du XVI<sup>e</sup> siècle",
         "details": [
           {
-            "value": "Séminaire « Lecture de textes mathématiques »"
+            "value": "Séminaire «&nbsp;Lecture de textes mathématiques&nbsp;»"
           }
         ]
       },
@@ -1145,10 +1145,10 @@
       {
         "periods": [{ "startDate": "04/11/2013", "endDate": "11/11/2013" }],
         "place": "Marseille",
-        "label": "Qu’est-ce qu’un corpus mathématique au Moyen Âge latin ?",
+        "label": "Qu’est&#8209;ce qu’un corpus mathématique au Moyen Âge latin ?",
         "details": [
           {
-            "value": "École thématique du CNRS « Sources en histoire des mathématiques »"
+            "value": "École thématique du CNRS «&nbsp;Sources en histoire des mathématiques&nbsp;»"
           },
           {
             "key": "organisée par le",
@@ -1162,7 +1162,7 @@
         "label": "Une théorie en apparente contradiction avec les résultats de l’expérience : le magnétisme",
         "details": [
           {
-            "value": "Journée d’études « Cadres théoriques en confrontation avec la nature et l’expérience au Moyen Âge »"
+            "value": "Journée d’études «&nbsp;Cadres théoriques en confrontation avec la nature et l’expérience au Moyen Âge&nbsp;»"
           }
         ]
       },
@@ -1172,7 +1172,7 @@
         "label": "Mode d’argumentations dans les écrits mathématiques de l’Occident médiéval latin",
         "details": [
           {
-            "value": "Séminaire « L’argumentation scientifique au Moyen Âge »"
+            "value": "Séminaire «&nbsp;L’argumentation scientifique au Moyen Âge&nbsp;»"
           }
         ]
       },
@@ -1191,7 +1191,7 @@
         "label": "Exemples d’écrits mathématiques dans l’Occident médiéval latin",
         "details": [
           {
-            "value": "Séminaire « Formes du savoir »"
+            "value": "Séminaire «&nbsp;Formes du savoir&nbsp;»"
           }
         ]
       },
@@ -1208,7 +1208,7 @@
       {
         "dates": ["07/04/2014"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Démonstrations géométriques des algorithmes de résolution des équations du second degré : al-Khwarizmi, Abu Kamil, Nuñez",
+        "label": "Démonstrations géométriques des algorithmes de résolution des équations du second degré : al&#8209;Khwarizmi, Abu Kamil, Nuñez",
         "details": [
           {
             "value": "Séminaire d’histoire des mathématiques"
@@ -1261,7 +1261,7 @@
         "label": "Penser le vide malgré l’interdit aristotélicien",
         "details": [
           {
-            "value": "Journée d’études « Les libertés de la pensée médiévale »"
+            "value": "Journée d’études «&nbsp;Les libertés de la pensée médiévale&nbsp;»"
           }
         ]
       },
@@ -1301,10 +1301,10 @@
       {
         "dates": ["07/10/2015"],
         "place": "ENS",
-        "label": "Pourquoi Gérard Simon m’a-t-il suggéré d’étudier la construction keplérienne des logarithmes ?",
+        "label": "Pourquoi Gérard Simon m’a&#8209;t&#8209;il suggéré d’étudier la construction keplérienne des logarithmes ?",
         "details": [
           {
-            "value": "Journée d’études « Gérard Simon, le philosophe et l’historien »"
+            "value": "Journée d’études «&nbsp;Gérard Simon, le philosophe et l’historien&nbsp;»"
           }
         ]
       },
@@ -1324,21 +1324,21 @@
         "label": "Modes de transmission de la science et de la philosophie arabe à l’Occident latin",
         "details": [
           {
-            "value": "Journée d’études « L’apport de la Science arabe à l’Occident latin »"
+            "value": "Journée d’études «&nbsp;L’apport de la Science arabe à l’Occident latin&nbsp;»"
           }
         ]
       },
       {
         "dates": ["20/10/2016"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Expériences de pensée et recours aux « experimenta » dans un texte de philosophie naturelle anonyme du XIV<sup>e</sup> siècle, le <i>De sex inconvenientibus</i>",
+        "label": "Expériences de pensée et recours aux «&nbsp;experimenta&nbsp;» dans un texte de philosophie naturelle anonyme du XIV<sup>e</sup> siècle, le <i>De sex inconvenientibus</i>",
         "details": [
           {
-            "value": "Journée d’études « Place de l’étrange, du surprenant, de l’inexplicable dans le corpus des textes médiévaux en langue arabe, persane et latine (1) : L’examen de l’attitude des savants »"
+            "value": "Journée d’études «&nbsp;Place de l’étrange, du surprenant, de l’inexplicable dans le corpus des textes médiévaux en langue arabe, persane et latine (1) : L’examen de l’attitude des savants&nbsp;»"
           },
           {
             "key": "dans le cadre du",
-            "value": "Séminaire « Sciences et philosophie de l’Antiquité à l’Âge classique »"
+            "value": "Séminaire «&nbsp;Sciences et philosophie de l’Antiquité à l’Âge classique&nbsp;»"
           }
         ]
       },
@@ -1358,14 +1358,14 @@
       {
         "dates": ["12/01/2017"],
         "place": "Espace Mendès France, Poitiers",
-        "label": "Ce que les éditeurs des <i>Éléments</i> d’Euclide à la Renaissance doivent à ce « barbare » de Campanus",
+        "label": "Ce que les éditeurs des <i>Éléments</i> d’Euclide à la Renaissance doivent à ce «&nbsp;barbare&nbsp;» de Campanus",
         "details": [
           {
-            "value": "Journée d’études « Le legs médiéval : héritage humaniste des érudits arabes et latins du Moyen Âge »"
+            "value": "Journée d’études «&nbsp;Le legs médiéval : héritage humaniste des érudits arabes et latins du Moyen Âge&nbsp;»"
           },
           {
             "key": "organisée par",
-            "value": "Sabine Rommevaux-Tani"
+            "value": "Sabine Rommevaux&#8209;Tani"
           }
         ]
       },
@@ -1375,7 +1375,7 @@
         "label": "Une théorie de la mesure des rapports dans le <i>Chilias Logarithmorum</i> de Kepler (1624) : un ancrage médiéval",
         "details": [
           {
-            "value": "Séminaire « Mathématiques à l’Âge classique »"
+            "value": "Séminaire «&nbsp;Mathématiques à l’Âge classique&nbsp;»"
           },
           {
             "key": "organisé par",
@@ -1399,7 +1399,7 @@
         "label": "Nombres qui dénomment, nombres génériques, nombres qui quantifient arbitrairement : plusieurs aspects de l’usage des nombres dans des traités de mathématiques et de philosophie naturelle des XIII<sup>e</sup> et XIV<sup>e</sup> siècles",
         "details": [
           {
-            "value": "Séminaire « Nombre et figure au Moyen Âge »"
+            "value": "Séminaire «&nbsp;Nombre et figure au Moyen Âge&nbsp;»"
           },
           {
             "key": "organisé par",
@@ -1413,7 +1413,7 @@
         "label": "Quelques exemples de l’influence du mode d’enseignement dans les universités médiévales sur le style des démonstrations mathématiques",
         "details": [
           {
-            "value": "Journée d’études « Contextes d’enseignement et démonstration mathématique »"
+            "value": "Journée d’études «&nbsp;Contextes d’enseignement et démonstration mathématique&nbsp;»"
           },
           {
             "key": "organisée par",
@@ -1427,7 +1427,7 @@
         "label": "Le nombre dans les <i>Questiones mathematice</i> de Radulphus Brito",
         "details": [
           {
-            "value": "Journée d’études « Des mathématiques médiévales - savoirs, textes, langues et enseignement »"
+            "value": "Journée d’études «&nbsp;Des mathématiques médiévales - savoirs, textes, langues et enseignement&nbsp;»"
           },
           { "key": "organisée par", "value": "Marc Moyon" },
           {
@@ -1442,7 +1442,7 @@
         "label": "La détermination de la rapidité de la génération des formes élémentaires dans le <i>De sex inconvenientibus</i>, traité anonyme du XIV<sup>e</sup> siècle",
         "details": [
           {
-            "value": "Journée d’études « Peut-on parler de la génération comme d’un mouvement ? »"
+            "value": "Journée d’études «&nbsp;Peut&#8209;on parler de la génération comme d’un mouvement ?&nbsp;»"
           },
           {
             "key": "organisée avec",
@@ -1456,7 +1456,7 @@
         "label": "Les références aux <i>Météorologiques</i> dans le <i>De sex inconvenientibus</i>, à propos de la génération des qualités premières par les corps célestes au moyen de la lumière",
         "details": [
           {
-            "value": "Journée d’études « Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (13<sup>e</sup>-14<sup>e</sup> siècles) »"
+            "value": "Journée d’études «&nbsp;Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (13<sup>e</sup>&#8209;14<sup>e</sup> siècles)&nbsp;»"
           },
           {
             "key": "organisée avec",
@@ -1480,7 +1480,7 @@
         "label": "Velocity without time, motion without resistance in Questions on the Physics of Blasius of Parma",
         "details": [
           {
-            "value": "Journée d’études « Le temps dans la physique du XIV<sup>e</sup> siècle »"
+            "value": "Journée d’études «&nbsp;Le temps dans la physique du XIV<sup>e</sup> siècle&nbsp;»"
           },
           {
             "key": "organisée avec",
@@ -1514,7 +1514,7 @@
         "label": "Les ajouts à la seconde édition de Clavius des <i>Éléments</i> d’Euclide",
         "details": [
           {
-            "value": "Journée d’études « Euclid on the road transcultural, Workshop III : On Clavius’ Edition of Euclid »"
+            "value": "Journée d’études «&nbsp;Euclid on the road transcultural, Workshop III : On Clavius’ Edition of Euclid&nbsp;»"
           },
           {
             "key": "organisée par",
@@ -1528,7 +1528,7 @@
         "label": "On the Oxford Calculators and their Legacy up to Galileo",
         "details": [
           {
-            "value": "Séminaire « Concepts and methods in philosophy and history of science »"
+            "value": "Séminaire «&nbsp;Concepts and methods in philosophy and history of science&nbsp;»"
           }
         ]
       },
@@ -1548,11 +1548,11 @@
         "label": "L’action à distance de l’aimant dans quelques textes du XIV<sup>e</sup> siècle",
         "details": [
           {
-            "value": "Journée d’études « L’action à distance au Moyen Âge et à la Renaissance »"
+            "value": "Journée d’études «&nbsp;L’action à distance au Moyen Âge et à la Renaissance&nbsp;»"
           },
           {
             "key": "organisée par",
-            "value": "Béatrice Delaurenti et Nicolas Weil-Parrot"
+            "value": "Béatrice Delaurenti et Nicolas Weil&#8209;Parrot"
           }
         ]
       },
@@ -1562,11 +1562,11 @@
         "label": "L’œuvre mathématique d’Elie Vinet",
         "details": [
           {
-            "value": "Journées d’études « La culture des juristes et des médecins & L’éducation au collège de Guyenne à l’époque de Montaigne »"
+            "value": "Journées d’études «&nbsp;La culture des juristes et des médecins & L’éducation au collège de Guyenne à l’époque de Montaigne&nbsp;»"
           },
           {
             "key": "organisée par",
-            "value": "Violaine Giacomotto-Charra et Xavier Prévost"
+            "value": "Violaine Giacomotto&#8209;Charra et Xavier Prévost"
           }
         ]
       },
@@ -1586,7 +1586,7 @@
         "label": "Remarques préliminaires sur les <i>Problemata</i> dans les <i>Questiones super libros physicorum</i> de Blaise de Parme",
         "details": [
           {
-            "value": "Journée d’études « Problemata de philosophie naturelle : l’imaginaire, le merveilleux, le quotidien »"
+            "value": "Journée d’études «&nbsp;Problemata de philosophie naturelle : l’imaginaire, le merveilleux, le quotidien&nbsp;»"
           },
           {
             "key": "organisée avec",
@@ -1596,11 +1596,11 @@
       },
       {
         "dates": ["16/09/2022"],
-        "place": "Université de Leuven, Leuven (en visio-conférence)",
+        "place": "Université de Leuven, Leuven (en&nbsp;visio&#8209;conférence)",
         "label": "A Science of mathematicalia in the <i>Questiones mathematice</i> of Radulphus Brito",
         "details": [
           {
-            "value": "Workshop « Premodern Mathematical Thought »"
+            "value": "Workshop «&nbsp;Premodern Mathematical Thought&nbsp;»"
           },
           {
             "key": "organisé par",
@@ -1614,17 +1614,17 @@
         "label": "La dispute à la faculté des arts : pédagogie et innovation",
         "details": [
           {
-            "value": "Journée d’études « Querelles. Penser par la dispute, de controverses médiévales en questions de médiévistes »"
+            "value": "Journée d’études «&nbsp;Querelles. Penser par la dispute, de controverses médiévales en questions de médiévistes&nbsp;»"
           }
         ]
       },
       {
         "dates": ["13/01/2025"],
-        "place": "Université Bordeaux-Montaigne, Bordeaux",
+        "place": "Université Bordeaux&#8209;Montaigne, Bordeaux",
         "label": "Les doctrines sur la quantité continue discutées par Jacques Almain dans ses <i>Embammata Physicalia</i>",
         "details": [
           {
-            "value": "Journée d’études « Les sources de Jacques Almain pour son traitement de la quantité dans les <i>Embammata Physicalia</i> »"
+            "value": "Journée d’études «&nbsp;Les sources de Jacques Almain pour son traitement de la quantité dans les <i>Embammata Physicalia</i>&nbsp;»"
           },
           {
             "key": "organisée avec",
@@ -1637,7 +1637,7 @@
         "label": "L’histoire des sciences médiévales dans ARCHEION, Archivio di storia della scienza",
         "details": [
           {
-            "value": "Séminaire « L’Académie internationale d’histoire des sciences au fil des archives et de ses publications »"
+            "value": "Séminaire «&nbsp;L’Académie internationale d’histoire des sciences au fil des archives et de ses publications&nbsp;»"
           }
         ]
       },
@@ -1647,7 +1647,7 @@
         "label": "Introduction sur l’édition critique numérique des <i>Embammata Physicalia</i> de Jacques Almain",
         "details": [
           {
-            "value": "Journée d’études « L’enseignement de la philosophie naturelle à Paris au début du XVI<sup>e</sup> siècle. La physique de Jacques Almain en contexte »"
+            "value": "Journée d’études «&nbsp;L’enseignement de la philosophie naturelle à Paris au début du XVI<sup>e</sup> siècle. La physique de Jacques Almain en contexte&nbsp;»"
           },
           {
             "key": "organisée avec",

@@ -17,15 +17,15 @@
         "place": "Université de Nantes",
         "details": [
           {
-            "key": "Directeur",
+            "key": "Directeur :",
             "value": "Jean Dhombres"
           },
           {
-            "key": "Sujet",
+            "key": "Sujet :",
             "value": "Un jalon dans l'histoire de la théorie des proportions au XVI<sup>e</sup> siècle : le commentaire de Clavius au livre V des Éléments d'Euclide"
           },
           {
-            "key": "Mention",
+            "key": "Mention :",
             "value": "Très honorable, avec félicitations"
           }
         ]
@@ -36,8 +36,8 @@
         "place": "Université de Tours",
         "details": [
           {
-            "key": "Thème",
-            "value": "Théorie des rapports (XIII<sup>e</sup> - XVI<sup>e</sup> siècles) : réception, assimilation, innovation"
+            "key": "Thème :",
+            "value": "Théorie des rapports (XIII<sup>e</sup>&#8209;XVI<sup>e</sup> siècles) : réception, assimilation, innovation"
           }
         ]
       }
@@ -58,12 +58,12 @@
       },
       {
         "periods": [{ "startDate": "10/1997", "endDate": "12/2005" }],
-        "place": "UMR 8519 « Savoirs et textes » (CNRS - Universités Lille 3 et Lille 1)",
+        "place": "UMR 8519 «&nbsp;Savoirs et textes&nbsp;» (CNRS - Universités Lille 3 et Lille 1)",
         "label": "Chargée de recherche au CNRS"
       },
       {
         "periods": [{ "startDate": "01/2006", "endDate": "09/2008" }],
-        "place": "UMR 7323 « Centre d'études supérieures de la Renaissance (CESR) » (CNRS – Université François Rabelais, Tours)",
+        "place": "UMR 7323 «&nbsp;Centre d'études supérieures de la Renaissance (CESR)&nbsp;» (CNRS – Université François Rabelais, Tours)",
         "label": "Chargée de recherche au CNRS"
       },
       {
@@ -73,7 +73,7 @@
       },
       {
         "periods": [{ "startDate": "10/2008", "endDate": "10/2011" }],
-        "place": "UMR 7323 « Centre d'études supérieures de la Renaissance (CESR) » (CNRS – Université François Rabelais, Tours)",
+        "place": "UMR 7323 «&nbsp;Centre d'études supérieures de la Renaissance (CESR)&nbsp;» (CNRS – Université François Rabelais, Tours)",
         "label": "Directrice de recherche"
       },
       {
@@ -83,17 +83,17 @@
       },
       {
         "periods": [{ "startDate": "11/2011" }],
-        "place": "UMR 7219 « Laboratoire SPHERE (Science, Philosophie, Histoire) » (CNRS – Université Paris Cité, Paris)",
+        "place": "UMR 7219 «&nbsp;Laboratoire SPHERE (Science, Philosophie, Histoire)&nbsp;» (CNRS – Université Paris Cité, Paris)",
         "label": "Directrice de recherche"
       },
       {
         "periods": [{ "startDate": "01/2018", "endDate": "03/2022" }],
-        "place": "UMR 7219 « Laboratoire SPHERE (Science, Philosophie, Histoire) » (CNRS – Université Paris Cité, Paris)",
+        "place": "UMR 7219 «&nbsp;Laboratoire SPHERE (Science, Philosophie, Histoire)&nbsp;» (CNRS – Université Paris Cité, Paris)",
         "label": "Directrice du Laboratoire SPHERE"
       },
       {
         "periods": [{ "startDate": "04/2022" }],
-        "place": "UMR 5607 « Institut AUSONIUS » (CNRS – Université Bordeaux Montaigne, Bordeaux)",
+        "place": "UMR 5607 «&nbsp;Institut AUSONIUS&nbsp;» (CNRS – Université Bordeaux Montaigne, Bordeaux)",
         "label": "Directrice de recherche"
       }
     ]

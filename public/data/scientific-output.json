@@ -28,22 +28,26 @@
         "link": "https://www.vrin.fr/livre/9782711617906/quaestiones-circa-tractatum-proportionum-magistri-thome-braduardini",
         "details": [
           {
-            "value": "Introduction et édition critique en collaboration avec Joël Biard"
+            "value": "Introduction et édition critique"
+          },
+          {
+            "key": "en collaboration avec",
+            "value": "Joël Biard"
           }
         ]
       },
       {
         "dates": ["2008"],
-        "label": "Blaise de Parme, <i>Questiones circa tractatum proportionum magistri Thome Braduardini</i>, 1ère version, Questio 7 : « Utrum velocitas motus sequitur proportionem potentie motive ad resistentiam. »",
+        "label": "Blaise de Parme, <i>Questiones circa tractatum proportionum magistri Thome Braduardini</i>, 1ère version, Questio 7 : «&nbsp;Utrum velocitas motus sequitur proportionem potentie motive ad resistentiam.&nbsp;»",
         "details": [
-          { "value": "transcription" },
+          { "value": "Transcription" },
           {
             "key": "en collaboration avec",
             "value": "Joël Biard"
           },
           {
             "key": "<i>in</i>",
-            "value": "en collaboration avec Joël Biard (Dir.), <i>Mathématiques et théorie du mouvement (XIV<sup>e</sup>—XVI<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008), p. 53-57",
+            "value": "en collaboration avec Joël Biard (Dir.), <i>Mathématiques et théorie du mouvement (XIV<sup>e</sup>—XVI<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008), p.&nbsp;53&#8209;57",
             "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
           }
         ]
@@ -61,7 +65,7 @@
           },
           {
             "key": "<i>in</i>",
-            "value": "en collaboration avec Joël Biard, <i>La question de Blaise de Parme sur le contact entre une sphère et un plan</i>, Early Science and Medicine, 14 (2009), p. 505-538",
+            "value": "en collaboration avec Joël Biard, <i>La question de Blaise de Parme sur le contact entre une sphère et un plan</i>, Early Science and Medicine, 14 (2009), p.&nbsp;505&#8209;538",
             "link": "https://brill.com/view/journals/esm/14/4/article-p476_3.xml?srsltid=AfmBOop02pFQS6WYY7EbBmQoRIyOStsgDtxbLXk8iReknq5DXb3ZKkv7"
           }
         ]
@@ -79,7 +83,7 @@
           },
           {
             "key": "<i>in</i>",
-            "value": "<i>La nature et le vide dans la physique médiévale</i>, Turnhout, Brepols (2012), p. 317-378",
+            "value": "<i>La nature et le vide dans la physique médiévale</i>, Turnhout, Brepols (2012), p.&nbsp;317&#8209;378",
             "link": "https://www.brepols.net/products/IS-9782503544762-1"
           }
         ]
@@ -97,7 +101,7 @@
       },
       {
         "dates": ["2022"],
-        "label": "<i>« De sex inconvenientibus » Un traité anonyme de philosophie naturelle au XIV<sup>e</sup> siècle</i>, Paris, Vrin (2022)",
+        "label": "<i>« De sex inconvenientibus&nbsp;» Un traité anonyme de philosophie naturelle au XIV<sup>e</sup> siècle</i>, Paris, Vrin (2022)",
         "link": "https://www.vrin.fr/livre/9782711630226/de-sex-inconvenientibus",
         "details": [
           {
@@ -114,13 +118,14 @@
             "value": "édition critique numérique"
           },
           {
-            "value": "avec la collaboration de Daniel Di Liscia"
+            "key": "avec la collaboration de ",
+            "value": "Daniel&nbsp;Di&nbsp;Liscia"
           }
         ]
       },
       {
-        "dates": ["à paraître"],
-        "label": "<i>Les Problemata dans les</i> Questiones super physicam <i>de Blaise de Parme</i> (à paraître)",
+        "dates": ["à&nbsp;paraître"],
+        "label": "<i>Les Problemata dans les</i> Questiones super physicam <i>de Blaise de Parme</i> (à&nbsp;paraître)",
         "link": "http://problemata.huma-num.fr",
         "details": [
           {
@@ -129,14 +134,14 @@
         ]
       },
       {
-        "dates": ["en préparation"],
+        "dates": ["en&nbsp;préparation"],
         "label": "Blasius de Parma, <i>Questiones disputate super octo libros physicorum</i>, livre VII",
-        "details": [{ "value": "En préparation" }]
+        "details": [{ "value": "en&nbsp;préparation" }]
       },
       {
-        "dates": ["en préparation"],
+        "dates": ["en&nbsp;préparation"],
         "label": "Radulphus Brito, <i>Questiones mathematiceI</i>",
-        "details": [{ "value": "En préparation" }]
+        "details": [{ "value": "en&nbsp;préparation" }]
       }
     ]
   },
@@ -149,7 +154,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Joël Biard et Jean Celeyrette (éds.), <i>De la théologie aux mathématiques : l’infini au XIV<sup>e</sup> siècle</i>, Paris, Les Belles Lettres (2005), p. 89-135",
+            "value": "Joël Biard et Jean Celeyrette (éds.), <i>De la théologie aux mathématiques : l’infini au XIV<sup>e</sup> siècle</i>, Paris, Les Belles Lettres (2005), p.&nbsp;89&#8209;135",
             "link": "https://www.lesbelleslettres.com/livre/9782251181028/de-la-theologie-aux-mathematiques"
           }
         ]
@@ -181,7 +186,7 @@
       },
       {
         "dates": ["2008"],
-        "label": "en collaboration avec Joël Biard (éds.), <i>Mathématiques et théorie du mouvement (xiv<sup>e</sup>- xvi<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008)",
+        "label": "en collaboration avec Joël Biard (éds.), <i>Mathématiques et théorie du mouvement (xiv<sup>e</sup>&#8209;xvi<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008)",
         "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
       },
       {
@@ -201,7 +206,7 @@
       },
       {
         "dates": ["2012"],
-        "label": "en collaboration avec Maryvonne Spiesser et Maria-Rosa Massa Estève (éds), <i>Pluralité de l’algèbre à la Renaissance</i>, Paris, Champion (2012)",
+        "label": "en collaboration avec Maryvonne Spiesser et Maria&#8209;Rosa Massa Estève (éds), <i>Pluralité de l’algèbre à la Renaissance</i>, Paris, Champion (2012)",
         "link": "https://www.honorechampion.com/gb/champion/7907-book-08532398-9782745323989.html"
       }
     ]
@@ -211,93 +216,93 @@
     "content": [
       {
         "dates": ["1993"],
-        "label": "« Un exercice de combinatoire : les six grandeurs en proportion », <i>Sciences et techniques en perspective</i>, 26 (1993), p. 1-21",
+        "label": "« Un exercice de combinatoire : les six grandeurs en proportion », <i>Sciences et techniques en perspective</i>, 26 (1993), p.&nbsp;1&#8209;21",
         "details": [
           {
             "key": "Publié sous le nom de",
-            "value": "Sabine Koelblen"
+            "value": "Sabine&nbsp;Koelblen"
           }
         ]
       },
       {
         "dates": ["1994"],
-        "label": "« Une pratique de la composition des raisons dans un exercice de combinatoire », <i>Revue d'histoire des sciences</i>, 47/2 (1994), p. 209-247",
+        "label": "« Une pratique de la composition des raisons dans un exercice de combinatoire », <i>Revue d'histoire des sciences</i>, 47/2 (1994), p.&nbsp;209&#8209;247",
         "link": "https://www.persee.fr/doc/rhs_0151-4105_1994_num_47_2_1202",
         "details": [
           {
             "key": "Publié sous le nom de",
-            "value": "Sabine Koelblen"
+            "value": "Sabine&nbsp;Koelblen"
           }
         ]
       },
       {
         "dates": ["1999"],
-        "label": "« La proportionnalité  numérique dans le livre VII des Éléments de Campanus », <i>Revue d'histoire des mathématiques</i>, 5 (1999), p. 83-126",
+        "label": "« La proportionnalité  numérique dans le livre VII des Éléments de Campanus », <i>Revue d'histoire des mathématiques</i>, 5 (1999), p.&nbsp;83&#8209;126",
         "link": "https://smf.emath.fr/publications/la-proportionnalite-numerique-dans-le-livre-vii-des-elements-de-campanus"
       },
       {
         "dates": ["2001"],
-        "label": "en collaboration avec Ahmed Djebbar et Bernard Vitrac, « Remarques sur l'histoire du texte des <i>Éléments</i> d'Euclide », <i>Archive for History of Exact Sciences</i>, 55 (2001), p. 221-295",
+        "label": "en collaboration avec Ahmed Djebbar et Bernard Vitrac, « Remarques sur l'histoire du texte des <i>Éléments</i> d'Euclide », <i>Archive for History of Exact Sciences</i>, 55 (2001), p.&nbsp;221&#8209;295",
         "link": "https://link.springer.com/article/10.1007/s004070000027"
       },
       {
         "dates": ["2001"],
-        "label": "« Aperçu sur la notion de dénomination d’un rapport numérique au Moyen Âge et à la Renaissance », <i>Methodos</i>, 1 (2001), p. 223-243",
+        "label": "« Aperçu sur la notion de dénomination d’un rapport numérique au Moyen Âge et à la Renaissance », <i>Methodos</i>, 1 (2001), p.&nbsp;223&#8209;243",
         "link": "https://www.septentrion.com/en/book/?gcoi=27574100834250"
       },
       {
         "dates": ["2001"],
-        "label": "« Rationalité et exprimabilité : une relecture médiévale du livre X des <i>Éléments</i> d’Euclide », <i>Revue d'histoire des mathématiques</i>, 7 (2001), p. 91-119",
+        "label": "« Rationalité et exprimabilité : une relecture médiévale du livre X des <i>Éléments</i> d’Euclide », <i>Revue d'histoire des mathématiques</i>, 7 (2001), p.&nbsp;91&#8209;119",
         "link": "https://smf.emath.fr/publications/rationalite-exprimabilite-une-relecture-medievale-du-livre-x-des-elements-deuclide"
       },
       {
         "dates": ["2003"],
-        "label": "« La réception des <i>Éléments</i> d’Euclide au Moyen Âge et à la Renaissance. Introduction », <i>Revue d’histoire des sciences</i>, 56/2 (2003), p. 267-273",
+        "label": "« La réception des <i>Éléments</i> d’Euclide au Moyen Âge et à la Renaissance. Introduction », <i>Revue d’histoire des sciences</i>, 56/2 (2003), p.&nbsp;267&#8209;273",
         "link": "https://www.persee.fr/doc/rhs_0151-4105_2003_num_56_2_2186"
       },
       {
         "dates": ["2003"],
-        "label": "« L’irrationalité du rapport de la diagonale et du côté d’un même carré dans les <i>Questions</i> de Blaise de Parme sur le <i>Traité des rapports</i> de Bradwardine », <i>Revue d’histoire des sciences</i>, numéro spécial « La réception des Éléments d’Euclide au Moyen Age et à la Renaissance », 56/2 (2003), p. 401-418",
+        "label": "« L’irrationalité du rapport de la diagonale et du côté d’un même carré dans les <i>Questions</i> de Blaise de Parme sur le <i>Traité des rapports</i> de Bradwardine », <i>Revue d’histoire des sciences</i>, numéro spécial « La réception des Éléments d’Euclide au Moyen Age et à la Renaissance », 56/2 (2003), p.&nbsp;401&#8209;418",
         "link": "https://www.persee.fr/doc/rhs_0151-4105_2003_num_56_2_2193"
       },
       {
         "dates": ["2006"],
-        "label": "« Un débat dans les mathématiques de la Renaissance : le statut de l’angle de contingence », <i>Journal de la Renaissance</i>, IV (2006), p. 291-302",
+        "label": "« Un débat dans les mathématiques de la Renaissance : le statut de l’angle de contingence », <i>Journal de la Renaissance</i>, IV (2006), p.&nbsp;291&#8209;302",
         "link": "https://www.brepolsonline.net/content/journals/10.1484/J.JR.2.301812"
       },
       {
         "dates": ["2006"],
-        "label": "« Un exemple de Question mathématique au Moyen Âge », <i>Annals of sciences</i>, 63/4 (2006), p. 425-445",
+        "label": "« Un exemple de Question mathématique au Moyen Âge », <i>Annals of sciences</i>, 63/4 (2006), p.&nbsp;425&#8209;445",
         "link": "https://www.tandfonline.com/doi/full/10.1080/00033790600812371"
       },
       {
         "dates": ["2007"],
-        "label": "« \"La sphère touche le plan en un point\" : un problème mathématique ? », <i>Revue d’histoire des sciences</i>, 60/1 (2007), p. 151-165",
+        "label": "« \"La sphère touche le plan en un point\" : un problème mathématique ? », <i>Revue d’histoire des sciences</i>, 60/1 (2007), p.&nbsp;151&#8209;165",
         "link": "https://shs.cairn.info/article/RHS_601_0151?lang=fr&ID_ARTICLE=RHS_601_0151"
       },
       {
         "dates": ["2007"],
-        "label": "« La similitude des équimultiples dans la définition de la proportion non continue de l’édition des <i>Éléments</i> d’Euclide par Campanus : une difficulté dans la réception de la théorie des proportions au Moyen Âge », <i>Revue d'histoire des mathématiques</i>, 13/2 (2007), p. 301-322",
+        "label": "« La similitude des équimultiples dans la définition de la proportion non continue de l’édition des <i>Éléments</i> d’Euclide par Campanus : une difficulté dans la réception de la théorie des proportions au Moyen Âge », <i>Revue d'histoire des mathématiques</i>, 13/2 (2007), p.&nbsp;301&#8209;322",
         "link": "https://www.numdam.org/item/RHM_2007__13_2_301_0/"
       },
       {
         "dates": ["2009"],
-        "label": "en collaboration avec Joël Biard, « La question de Blaise de Parme sur le contact entre une sphère et un plan », <i>Early Science and Medicine</i>, 14 (2009), p. 476-538",
+        "label": "en collaboration avec Joël Biard, « La question de Blaise de Parme sur le contact entre une sphère et un plan », <i>Early Science and Medicine</i>, 14 (2009), p.&nbsp;476&#8209;&#8209;38",
         "link": "https://brill.com/view/journals/esm/14/4/article-p476_3.xml?srsltid=AfmBOooDs4Q4q5cR-I40I3tNE3lbtLAmtQzYcOCAdPFGRicbmDoBAuqg"
       },
       {
         "dates": ["2010"],
-        "label": "« Magnetism and Bradwardine’s rule of motion in fourteen and fifteen century treatises », <i>Early Science and Medicine</i>, 15 (2010), p. 618-647",
+        "label": "« Magnetism and Bradwardine’s rule of motion in fourteen and fifteen century treatises », <i>Early Science and Medicine</i>, 15 (2010), p.&nbsp;618&#8209;647",
         "link": "https://brill.com/view/journals/esm/15/6/article-p618_2.xml"
       },
       {
         "dates": ["2012"],
-        "label": "« Christoph Clavius, un promoteur des mathématiques à la Renaissance », <i>Seizièm<sup>e</sup> siècle</i>, 8 (2012), p. 127 à 140",
+        "label": "« Christoph Clavius, un promoteur des mathématiques à la Renaissance », <i>Seizièm<sup>e</sup> siècle</i>, 8 (2012), p.&nbsp;127&#8209;140",
         "link": "https://www.persee.fr/doc/xvi_1774-4466_2012_num_8_1_1047"
       },
       {
         "dates": ["2013"],
-        "label": "« Une Quæstio médiévale : est-ce que la diagonale d’un carré est commensurable au côté de ce carré ? », Images des mathématiques (2013)",
+        "label": "« Une Quæstio médiévale : est&#8209;ce que la diagonale d’un carré est commensurable au côté de ce carré ? », Images des mathématiques (2013)",
         "link": "https://doi.org/10.60868/hm4q-ym83",
         "details": [
           {
@@ -307,7 +312,7 @@
       },
       {
         "dates": ["2013"],
-        "label": "« A treatise on proportion in the tradition of Thomas Bradwardine : the <i>De proportionibus libri duo</i> (1528) of Jean Fernel », <i>Historia Mathematica</i>, 40 (2013), p. 164-182",
+        "label": "« A treatise on proportion in the tradition of Thomas Bradwardine : the <i>De proportionibus libri duo</i> (1528) of Jean Fernel », <i>Historia Mathematica</i>, 40 (2013), p.&nbsp;164&#8209;182",
         "link": "https://www.sciencedirect.com/science/article/pii/S0315086013000037"
       },
       {
@@ -322,22 +327,22 @@
       },
       {
         "dates": ["2014"],
-        "label": "« Un auteur anonyme du XIV<sup>e</sup> siècle, à Oxford, lecteur de Pierre de Maricourt », <i>Revue d’histoire des sciences</i>, 67/1 (2014), p. 5-53",
+        "label": "« Un auteur anonyme du XIV<sup>e</sup> siècle, à Oxford, lecteur de Pierre de Maricourt », <i>Revue d’histoire des sciences</i>, 67/1 (2014), p.&nbsp;5&#8209;53",
         "link": "https://shs.cairn.info/article/RHS_671_0005?lang=fr&ID_ARTICLE=RHS_671_0005"
       },
       {
         "dates": ["2014"],
-        "label": "« Irrationalité des nombres, irrationalité des lignes selon Michael Stifel et Simon Stevin », <i>Revue d'histoire des mathématiques</i>, 20/2 (2014), p. 171-209",
+        "label": "« Irrationalité des nombres, irrationalité des lignes selon Michael Stifel et Simon Stevin », <i>Revue d'histoire des mathématiques</i>, 20/2 (2014), p.&nbsp;171&#8209;209",
         "link": "https://smf.emath.fr/publications/irrationalite-des-nombres-irrationalite-des-lignes-selon-michael-stifel-et-simon"
       },
       {
         "dates": ["2016"],
-        "label": "« La réception par quelques mathématiciens européens du XVI<sup>e</sup> siècle des travaux des algébristes italiens sur les équations du troisième degré : réticence de la plupart et avancées significatives de Stevin », <i>Revue d'histoire des mathématiques</i>, 22/1 (2016), p. 1-52",
+        "label": "« La réception par quelques mathématiciens européens du XVI<sup>e</sup> siècle des travaux des algébristes italiens sur les équations du troisième degré : réticence de la plupart et avancées significatives de Stevin », <i>Revue d'histoire des mathématiques</i>, 22/1 (2016), p.&nbsp;1&#8209;52",
         "link": "https://smf.emath.fr/publications/la-reception-par-quelques-mathematiciens-europeens-du-xvie-siecle-des-travaux-des"
       },
       {
         "dates": ["2016"],
-        "label": "« Michael Stifel, lecteur de la <i>Practica arithmetice</i> de Gerolamo », <i>Bollettino di Storia delle Scienze Matematiche</i>, 36/1 (2016), p. 83-110",
+        "label": "« Michael Stifel, lecteur de la <i>Practica arithmetice</i> de Gerolamo », <i>Bollettino di Storia delle Scienze Matematiche</i>, 36/1 (2016), p.&nbsp;83&#8209;110",
         "link": "https://www.libraweb.net/articoli.php?chiave=201609201&rivista=92"
       },
       {
@@ -347,12 +352,12 @@
       },
       {
         "dates": ["2018"],
-        "label": "« Une théorie de la mesure des rapports dans le <i>Chilias Logarithmorum</i> de Kepler (1624) », <i>Revue d'histoire des mathématiques</i>, 24/2 (2018), p. 107-206",
+        "label": "« Une théorie de la mesure des rapports dans le <i>Chilias Logarithmorum</i> de Kepler (1624) », <i>Revue d'histoire des mathématiques</i>, 24/2 (2018), p.&nbsp;107&#8209;206",
         "link": "https://smf.emath.fr/publications/une-theorie-de-la-mesure-des-rapports-dans-le-chilias-logarithmorum-de-kepler-1624"
       },
       {
         "dates": ["2019"],
-        "label": "« L’unité et le nombre dans les <i>Questiones mathematice</i> de Raoul le Breton », <i>Medievales</i>, 77 (2019), p. 111-127",
+        "label": "« L’unité et le nombre dans les <i>Questiones mathematice</i> de Raoul le Breton », <i>Medievales</i>, 77 (2019), p.&nbsp;111&#8209;127",
         "link": "https://www.puv-editions.fr/ouvrage/mathematiques-savoirs-et-enseignements/"
       },
       {
@@ -361,24 +366,24 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Joël Biard et Aurélien Robert, <i>La philosophie de Blaise de Parme : physique, psychologie, éthique</i>, Florence, SISMEL, Micrologus Library (2019), p. 153-174",
+            "value": "Joël Biard et Aurélien Robert, <i>La philosophie de Blaise de Parme : physique, psychologie, éthique</i>, Florence, SISMEL, Micrologus Library (2019), p.&nbsp;153&#8209;174",
             "link": "https://www.sismel.it/pubblicazioni/1706-la-philosophie-de-blaise-de-parme-physique-psychologie-thique"
           }
         ]
       },
       {
         "dates": ["2020"],
-        "label": "« La notion médiévale de contractio dans l’<i>Arithmetica integra</i> de Michael Stifel (1544) », <i>Revue d'histoire des mathématiques</i>, 26/2 (2020), p. 57-119",
+        "label": "« La notion médiévale de contractio dans l’<i>Arithmetica integra</i> de Michael Stifel (1544) », <i>Revue d'histoire des mathématiques</i>, 26/2 (2020), p.&nbsp;57&#8209;119",
         "link": "https://smf.emath.fr/publications/la-notion-medievale-de-contractio-dans-larithmetica-integra-de-michael-stifel-1544"
       },
       {
         "dates": ["2022"],
-        "label": "« The paradoxes produced by the different ways of determining the rapidity of motion in the anonymous treatise <i>De sex inconvenientibus</i> », <i>Revista española de filosofía Medieval</i>, 29/1 (2022), p. 97-111",
+        "label": "« The paradoxes produced by the different ways of determining the rapidity of motion in the anonymous treatise <i>De sex inconvenientibus</i> », <i>Revista española de filosofía Medieval</i>, 29/1 (2022), p.&nbsp;97&#8209;111",
         "link": "https://journals.uco.es/refime/article/view/15136"
       },
       {
         "dates": ["2024"],
-        "label": "« Les ouvrages mathématiques d’Elie Vinet », <i>Revue française d’histoire du livre</i>, 145 (2024), p. 57 à 75",
+        "label": "« Les ouvrages mathématiques d’Elie Vinet », <i>Revue française d’histoire du livre</i>, 145 (2024), p.&nbsp;57&#8209;75",
         "link": "https://revues.droz.org/RFHL/issue/view/RFHL_145"
       },
       {
@@ -398,7 +403,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Christophe Grellard, <i>Méthodes et statut des sciences à la fin du Moyen Age</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2004), p. 143-158",
+            "value": "Christophe Grellard, <i>Méthodes et statut des sciences à la fin du Moyen Age</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2004), p.&nbsp;143&#8209;158",
             "link": "https://www.septentrion.com/fr/book/?GCOI=27574100135160"
           }
         ]
@@ -412,7 +417,7 @@
           },
           {
             "key": "<i>in</i>",
-            "value": "Jean Celeyrette, <i>De la théologie aux mathématiques : l’infini au XIV<sup>e</sup> siècle</i>, Paris, Les Belles Lettres (2005), Notice : p. 89-95, Traduction : p. 97-135",
+            "value": "Jean Celeyrette, <i>De la théologie aux mathématiques : l’infini au XIV<sup>e</sup> siècle</i>, Paris, Les Belles Lettres (2005), Notice : p.&nbsp;89&#8209;95, Traduction : p.&nbsp;97&#8209;135",
             "link": "https://www.lesbelleslettres.com/livre/9782251181028/de-la-theologie-aux-mathematiques"
           }
         ]
@@ -438,7 +443,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "en collaboration avec Joël Biard, <i>Mathématiques et théorie du mouvement (XIV<sup>e</sup>—XVI<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008), p. 31-57",
+            "value": "en collaboration avec Joël Biard, <i>Mathématiques et théorie du mouvement (XIV<sup>e</sup>—XVI<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008), p.&nbsp;31&#8209;57",
             "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
           }
         ]
@@ -449,7 +454,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Eleanor Robson et Jackie Stedall, <i>The Oxford Handbook of the History of Mathematics</i>, Oxford, Oxford University Press (2008), p. 87-706",
+            "value": "Eleanor Robson et Jackie Stedall, <i>The Oxford Handbook of the History of Mathematics</i>, Oxford, Oxford University Press (2008), p.&nbsp;87&#8209;706",
             "link": "https://global.oup.com/academic/product/the-oxford-handbook-of-the-history-of-mathematics-9780199213122?cc=fr&lang=en&"
           }
         ]
@@ -460,7 +465,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Mathématiques et connaissance du monde réel avant Galilée</i>, Paris, Omniscience (2010), p. 87-112",
+            "value": "<i>Mathématiques et connaissance du monde réel avant Galilée</i>, Paris, Omniscience (2010), p.&nbsp;87&#8209;112",
             "link": "https://www.omniscience.fr/collections/Histoire-des-savoirs-5/MATH%C3%89MATIQUES-ET-CONNAISSANCES-DU-MONDE-R%C3%89EL-AVANT-18.html"
           }
         ]
@@ -471,18 +476,18 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "en collaboration avec Joël Biard, <i>La nature et le vide dans la physique médiévale.</i> Études dédiées à Edward Grant, Turnhout, Brepols (2012), p. 293-378",
+            "value": "en collaboration avec Joël Biard, <i>La nature et le vide dans la physique médiévale.</i> Études dédiées à Edward Grant, Turnhout, Brepols (2012), p.&nbsp;293&#8209;378",
             "link": "https://www.brepols.net/products/IS-9782503544762-1"
           }
         ]
       },
       {
         "dates": ["2012"],
-        "label": "« Qu’est-ce que l’algèbre pour Christoph Clavius ? »",
+        "label": "« Qu’est&#8209;ce que l’algèbre pour Christoph Clavius ? »",
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "en collaboration avec Maryvonne Spiesser et Maria-Rosa Massa Estève, <i>Pluralité de l’algèbre à la Renaissance</i>, Paris, Champion (2012) p. 293-310",
+            "value": "en collaboration avec Maryvonne Spiesser et Maria&#8209;Rosa Massa Estève, <i>Pluralité de l’algèbre à la Renaissance</i>, Paris, Champion (2012) p.&nbsp;293&#8209;310",
             "link": "https://www.honorechampion.com/fr/editions-honore-champion/7907-book-08532398-9782745323989.html"
           }
         ]
@@ -493,7 +498,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "en collaboration avec Philippe Vendrix et Vasco Zara, <i>Proportions</i>, Turnhout, Brepols (2012), p. 17-28",
+            "value": "en collaboration avec Philippe Vendrix et Vasco Zara, <i>Proportions</i>, Turnhout, Brepols (2012), p.&nbsp;17&#8209;28",
             "link": "https://www.brepols.net/products/IS-9782503542218-1"
           }
         ]
@@ -504,7 +509,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Michela Malpangotto, Vincent Jullien et Efthymios Nicolaïdis, <i>L’homme au risque de l’infini. Mélanges d’histoire et de philosophie des sciences offerts à Michel Blay</i>, Turnhout, Brepols (2013) p. 35-47",
+            "value": "Michela Malpangotto, Vincent Jullien et Efthymios Nicolaïdis, <i>L’homme au risque de l’infini. Mélanges d’histoire et de philosophie des sciences offerts à Michel Blay</i>, Turnhout, Brepols (2013) p.&nbsp;35&#8209;47",
             "link": "https://www.brepols.net/products/IS-9782503551425-1"
           }
         ]
@@ -515,7 +520,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Anne-Lise Rey, <i>Méthode et histoire. Quelle histoire font les historiens des sciences ?</i>, Paris, Classique Garnier (2014)",
+            "value": "Anne&#8209;Lise Rey, <i>Méthode et histoire. Quelle histoire font les historiens des sciences ?</i>, Paris, Classique Garnier (2014)",
             "link": "https://classiques-garnier.com/methode-et-histoire-quelle-histoire-font-les-historiens-des-sciences-et-des-techniques.html"
           }
         ]
@@ -526,7 +531,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Véronique Duché, <i>Histoire des traductions en langue française, XV<sup>e</sup> – XV<sup>e</sup> siècles</i>, Lagrasse, Verdier (2015), p. 782-791",
+            "value": "Véronique Duché, <i>Histoire des traductions en langue française, XV<sup>e</sup> – XV<sup>e</sup> siècles</i>, Lagrasse, Verdier (2015), p.&nbsp;782&#8209;791",
             "link": "https://editions-verdier.fr/livre/histoire-des-traductions-en-langue-francaise-xve-et-xviesiecles/"
           }
         ]
@@ -537,7 +542,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Christophe Grellard, <i>Miroir de l’amitié. Mélanges offerts à Joël Biard</i>, Paris, Vrin (2017, p. 153-162",
+            "value": "Christophe Grellard, <i>Miroir de l’amitié. Mélanges offerts à Joël Biard</i>, Paris, Vrin (2017, p.&nbsp;153&#8209;162",
             "link": "https://www.vrin.fr/livre/9782711627929/miroir-de-lamitie"
           }
         ]
@@ -548,28 +553,28 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Joël Biard et Aurélien Robert, <i>La philosophie de Blaise de Parme : physique, psychologie, éthique</i>, Florence, SISMEL, Micrologus Library (2019), p. 153-174",
+            "value": "Joël Biard et Aurélien Robert, <i>La philosophie de Blaise de Parme : physique, psychologie, éthique</i>, Florence, SISMEL, Micrologus Library (2019), p.&nbsp;153&#8209;174",
             "link": "https://www.sismel.it/pubblicazioni/1706-la-philosophie-de-blaise-de-parme-physique-psychologie-thique"
           }
         ]
       },
       {
-        "dates": ["à paraître"],
+        "dates": ["à&nbsp;paraître"],
         "label": "« Les adaptations en français des <i>Éléments</i> d’Euclide par Pierre Forcadel et Jean Errard au XVI<sup>e</sup> siècle »",
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Volume en hommage à Joëlle Ducos (à paraître)"
+            "value": "Volume en hommage à Joëlle Ducos (à&nbsp;paraître)"
           }
         ]
       },
       {
-        "dates": ["à paraître"],
+        "dates": ["à&nbsp;paraître"],
         "label": "« Christoph Clavius, lecteur de Michael Stifel et de Pedro Nunes pour son Algebra »",
         "details": [
           {
             "key": "Ouvrage",
-            "value": "Volume en hommage à E. Knobloch (à paraître)"
+            "value": "Volume en hommage à Eberhard Knobloch (à&nbsp;paraître)"
           }
         ]
       }
@@ -584,11 +589,11 @@
         "details": [
           {
             "key": "Publié sous le nom de",
-            "value": "Sabine Koelblen"
+            "value": "Sabine&nbsp;Koelblen"
           },
           {
             "key": "<i>in</i>",
-            "value": "<i>Actes du troisième colloque maghrébin sur l'histoire des mathématiques (Alger, décembre 1990)</i>, Alger, Association Algérienne d'histoire des mathématiques (1998), p. 195-206"
+            "value": "<i>Actes du troisième colloque maghrébin sur l'histoire des mathématiques (Alger, décembre 1990)</i>, Alger, Association Algérienne d'histoire des mathématiques (1998), p.&nbsp;195&#8209;206"
           }
         ]
       },
@@ -598,11 +603,11 @@
         "details": [
           {
             "key": "Publié sous le nom de",
-            "value": "Sabine Koelblen"
+            "value": "Sabine&nbsp;Koelblen"
           },
           {
             "key": "<i>in</i>",
-            "value": "<i>Actes du cinquième colloque maghrébin sur l'histoire des mathématiques (Hammamet, décembre 1994)</i>, Tunis, Association Tunisienne des Sciences Mathématiques (1998), p. 184-196"
+            "value": "<i>Actes du cinquième colloque maghrébin sur l'histoire des mathématiques (Hammamet, décembre 1994)</i>, Tunis, Association Tunisienne des Sciences Mathématiques (1998), p.&nbsp;184&#8209;196"
           }
         ]
       },
@@ -612,7 +617,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Bernard Joly et Anne Bonnefoy, <i>Actes du congrès d’histoire des sciences et des techniques (Poitiers, 20-22 mai 2004)</i>, <i>Cahiers d’histoire et de philosophie des sciences</i>, SFHST, hors série (2006)"
+            "value": "Bernard Joly et Anne Bonnefoy, <i>Actes du congrès d’histoire des sciences et des techniques (Poitiers, 20&#8209;22 mai 2004)</i>, <i>Cahiers d’histoire et de philosophie des sciences</i>, SFHST, hors série (2006)"
           }
         ]
       },
@@ -622,7 +627,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Joëlle Ducos (éds), <i>Sciences et langues au Moyen Âge/Wissenschaften und Sprachen im Mittelalter. Actes de l’Atelier franco-allemand, Paris 27–30 janvier 2009</i>, « Studia Romanica » 168, Heidelberg, Winter Universitätsverlag (2012), p. 33-43",
+            "value": "Joëlle Ducos (éds), <i>Sciences et langues au Moyen Âge/Wissenschaften und Sprachen im Mittelalter. Actes de l’Atelier franco&#8209;allemand, Paris 27–30 janvier 2009</i>, « Studia Romanica » 168, Heidelberg, Winter Universitätsverlag (2012), p.&nbsp;33&#8209;43",
             "link": ""
           }
         ]
@@ -633,7 +638,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Daniel A. Di Liscia et Edith Sylla (éds), <i>Quantifying Aristotle. The Impact, Spread and Decline of the Calculatores Tradition</i>, Leiden, Brill (2022), p. 153-185",
+            "value": "Daniel A. Di Liscia et Edith Sylla (éds), <i>Quantifying Aristotle. The Impact, Spread and Decline of the Calculatores Tradition</i>, Leiden, Brill (2022), p.&nbsp;153&#8209;185",
             "link": "https://brill.com/display/title/60963?srsltid=AfmBOopFjjQngIe6sy614QlaYMlVIG7lMxrnAezVYXV761LUclCX3KB4"
           }
         ]
@@ -644,7 +649,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Clelia V. Crialesi (éd), <i>Premodern Mathematical Thought. The Latinate Discussion (13th-16th Century)</i>, Leiden, Brill (2025), p. 67-88",
+            "value": "Clelia V. Crialesi (éd), <i>Premodern Mathematical Thought. The Latinate Discussion (13th&#8209;16th Century)</i>, Leiden, Brill (2025), p.&nbsp;67&#8209;88",
             "link": "https://brill.com/display/title/72149?srsltid=AfmBOoo8fDQXw5XrZjIDUZEkjrhP7XHho2xS9OOnU7ubGsI0DxLvW-nO"
           }
         ]
@@ -655,7 +660,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "David Chappuis et Cédric Giraud (éds), <i>Philippe de Vitry (1291-1361) en son temps</i>, Genève, Droz (2026) p. 133-149"
+            "value": "David Chappuis et Cédric Giraud (éds), <i>Philippe de Vitry (1291&#8209;1361) en son temps</i>, Genève, Droz (2026) p.&nbsp;133&#8209;149"
           }
         ]
       },
@@ -665,12 +670,12 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Clelia V. Crialesi et Francesca Galli, <i>Surveying the Realm of Medieval Geometry (12th-15th Centuries)</i>, Florence, SISMEL, Micrologus Library (2026), p. 25-50"
+            "value": "Clelia V. Crialesi et Francesca Galli, <i>Surveying the Realm of Medieval Geometry (12th&#8209;15th Centuries)</i>, Florence, SISMEL, Micrologus Library (2026), p.&nbsp;25&#8209;50"
           }
         ]
       },
       {
-        "dates": ["à paraître"],
+        "dates": ["à&nbsp;paraître"],
         "label": "« The indivisibility of quantity according to Radulphus Brito »",
         "details": [
           {
@@ -686,11 +691,11 @@
     "content": [
       {
         "dates": ["1999"],
-        "label": "Die älteste lateinische Schrift über das indische Rechnen nach al-Hwarizmi, ed., transl. and com. by Menso Folkerts with collabor. of Paul Kunitzsch, Abhandl. Der Bayerischen Akademie der Wis. Phil.-Hist. Klasse, Neue Folge, Heft 113, München, (1997)",
+        "label": "Die älteste lateinische Schrift über das indische Rechnen nach al&#8209;Hwarizmi, ed., transl. and com. by Menso Folkerts with collabor. of Paul Kunitzsch, Abhandl. Der Bayerischen Akademie der Wis. Phil.&#8209;Hist. Klasse, Neue Folge, Heft 113, München, (1997)",
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Historia Mathematica</i>, 26 (1999), p. 289-291"
+            "value": "<i>Historia Mathematica</i>, 26 (1999), p.&nbsp;289&#8209;291"
           }
         ]
       },
@@ -700,7 +705,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Revue d’histoire des sciences</i>, 54/2 (2001), p.264-265"
+            "value": "<i>Revue d’histoire des sciences</i>, 54/2 (2001), p.&nbsp;264&#8209;265"
           }
         ]
       },
@@ -710,17 +715,17 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "« Bulletin de Philosophie médiévale VII », <i>Archives de Philosophie</i>, 66 (2003), p. 544-545"
+            "value": "« Bulletin de Philosophie médiévale VII », <i>Archives de Philosophie</i>, 66 (2003), p.&nbsp;544&#8209;545"
           }
         ]
       },
       {
         "dates": ["2004"],
-        "label": "Abº l-‘Abbæs an-Nayrîzî Exzerpte aus (Ps.- ?) Simplicis’ Kommentar zu den Definitionen, Postulaten und Axiomen in Euclids Elementa I, Eingeleitet ediert und mit arabischen und lateinischen Glossaren versehen von Rüdiger Arnzen (Köln : Essen, 2002)",
+        "label": "Abº l&#8209;‘Abbæs an&#8209;Nayrîzî Exzerpte aus (Ps.&#8209; ?) Simplicis’ Kommentar zu den Definitionen, Postulaten und Axiomen in Euclids Elementa I, Eingeleitet ediert und mit arabischen und lateinischen Glossaren versehen von Rüdiger Arnzen (Köln : Essen, 2002)",
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Historia Mathematica</i>, 31 (2004), p. 115-116"
+            "value": "<i>Historia Mathematica</i>, 31 (2004), p.&nbsp;115&#8209;116"
           }
         ]
       },
@@ -731,7 +736,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Revue d’histoire des sciences</i> 61 (2008), p. 213-215"
+            "value": "<i>Revue d’histoire des sciences</i> 61 (2008), p.&nbsp;213&#8209;215"
           }
         ]
       },
@@ -741,7 +746,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Aestimatio</i> 5 (2008), p. 152-156"
+            "value": "<i>Aestimatio</i> 5 (2008), p.&nbsp;152&#8209;156"
           }
         ]
       },
@@ -751,7 +756,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Archives internationales d’Histoire des sciences</i> 59 (2009), p. 661"
+            "value": "<i>Archives internationales d’Histoire des sciences</i> 59 (2009), p.&nbsp;661"
           }
         ]
       },
@@ -761,23 +766,23 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Revue d’histoire des sciences</i> 63 (2010), p. 307-308"
+            "value": "<i>Revue d’histoire des sciences</i> 63 (2010), p.&nbsp;307&#8209;308"
           }
         ]
       },
       {
         "dates": ["2012"],
-        "label": "Guillaume de Conches : Philosophie et science au XII<sup>e</sup> siècle, études réunies par Barbara Obrist et Irene Caiazzo, Firenze, SISMEL – Edizioni del Galluzo, « Micrologus’ Library » 42, 2001, pp. xxv-522",
+        "label": "Guillaume de Conches : Philosophie et science au XII<sup>e</sup> siècle, études réunies par Barbara Obrist et Irene Caiazzo, Firenze, SISMEL – Edizioni del Galluzo, « Micrologus’ Library » 42, 2001, pp.&nbsp;xxv&#8209;522",
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Isis</i>, 103/4 (2012), p. 780"
+            "value": "<i>Isis</i>, 103/4 (2012), p.&nbsp;780"
           }
         ]
       },
       {
         "dates": ["2012"],
-        "label": "Expertus sum. L’expérience par les sens dans la philosophie naturelle médiévale, Actes du colloque international de Pont-à-Mousson (5-7 février 2009), textes édités par Thomas Bénatouïl et Isabelle Draelants, Micrologus Library 40, Firenze, Sismel-Edizioni del Galluzzo, 2011, 470p",
+        "label": "Expertus sum. L’expérience par les sens dans la philosophie naturelle médiévale, Actes du colloque international de Pont&#8209;à&#8209;Mousson (5&#8209;7 février 2009), textes édités par Thomas Bénatouïl et Isabelle Draelants, Micrologus Library 40, Firenze, Sismel&#8209;Edizioni del Galluzzo, 2011, 470p",
         "details": [
           {
             "key": "<i>in</i>",
@@ -787,12 +792,12 @@
       },
       {
         "dates": ["2014"],
-        "label": "Lire, choisir, écrire : La vulgarisation des savoirs du Moyen Âge à la Renaissance, études réunies par Violaine Giacomotto-Charra et Christine Silvi, Paris : École des Chartes (2014)",
+        "label": "Lire, choisir, écrire : La vulgarisation des savoirs du Moyen Âge à la Renaissance, études réunies par Violaine Giacomotto&#8209;Charra et Christine Silvi, Paris : École des Chartes (2014)",
         "link": "",
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Revue d’histoire des sciences</i>, 67 (2014), p. 364-365"
+            "value": "<i>Revue d’histoire des sciences</i>, 67 (2014), p.&nbsp;364&#8209;365"
           }
         ]
       },
@@ -803,7 +808,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Revue d’histoire des sciences</i>, 67 (2014), p. 368-370"
+            "value": "<i>Revue d’histoire des sciences</i>, 67 (2014), p.&nbsp;368&#8209;370"
           }
         ]
       },
@@ -813,7 +818,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Revue d’histoire des sciences</i> 71/1 (2018), p. 111-112"
+            "value": "<i>Revue d’histoire des sciences</i> 71/1 (2018), p.&nbsp;111&#8209;112"
           }
         ]
       },
@@ -823,7 +828,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Isis, 11/1 (2020), p. 162-163"
+            "value": "Isis, 11/1 (2020), p.&nbsp;162&#8209;163"
           }
         ]
       },
@@ -833,37 +838,37 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>British Journal for the History of Mathematics</i>, 39 (2024), no. 3, 177-192"
+            "value": "<i>British Journal for the History of Mathematics</i>, 39 (2024), no. 3, 177&#8209;192"
           }
         ]
       },
       {
         "dates": ["2025"],
-        "label": "Delaurenti Béatrice, Weill-Parot Nicolas (dir.), L’Action à distance : au Moyen Âge et au-delà",
+        "label": "Delaurenti Béatrice, Weill&#8209;Parot Nicolas (dir.), L’Action à distance : au Moyen Âge et au&#8209;delà",
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>Revue d’histoire des sciences</i>, 78/2 (2025), 493-495"
+            "value": "<i>Revue d’histoire des sciences</i>, 78/2 (2025), 493&#8209;495"
           }
         ]
       },
       {
-        "dates": ["à paraître"],
-        "label": "Maurolico, Francesco Archimedea. (Latin) Dual Italian-English text. Edited by Riccardo Bellé, Pier Daniele Napolitani and Beatrice Sisana. Edizione Nazionale dell'Opera Matematica di Francesco Maurolico [National edition of the mathematical works of Francesco Maurolico], 7. Fabrizio Serra Editore, Pisa, 2022",
+        "dates": ["à&nbsp;paraître"],
+        "label": "Maurolico, Francesco Archimedea. (Latin) Dual Italian&#8209;English text. Edited by Riccardo Bellé, Pier Daniele Napolitani and Beatrice Sisana. Edizione Nazionale dell'Opera Matematica di Francesco Maurolico [National edition of the mathematical works of Francesco Maurolico], 7. Fabrizio Serra Editore, Pisa, 2022",
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "<i>British Journal for the History of Mathematics</i> (à paraître)"
+            "value": "<i>British Journal for the History of Mathematics</i> (à&nbsp;paraître)"
           }
         ]
       },
       {
-        "dates": ["à paraître"],
+        "dates": ["à&nbsp;paraître"],
         "label": "Federica De Felice, The Geometry of Coincidence. Nicholas of Cusa and the Quadrature of the circle",
         "details": [
           {
             "key": "Éditeur",
-            "value": "<i>British Journal for the History of Mathematics</i> (à paraître)"
+            "value": "<i>British Journal for the History of Mathematics</i> (à&nbsp;paraître)"
           }
         ]
       }

@@ -4,7 +4,7 @@
     "content": [
       {
         "periods": [{ "startDate": "2000", "endDate": "2005" }],
-        "label": "Membre du conseil de laboratoire de l'UMR 8519 « Savoirs et Textes », Lille"
+        "label": "Membre du conseil de laboratoire de l'UMR 8519 « Savoirs et Textes&nbsp;», Lille"
       },
       {
         "periods": [{ "startDate": "2005", "endDate": "2011" }],
@@ -35,7 +35,7 @@
 
       {
         "periods": [{ "startDate": "2015", "endDate": "2019" }],
-        "label": "Membre du bureau du GDR « Histoire des mathématiques »"
+        "label": "Membre du bureau du GDR «&nbsp;Histoire des mathématiques&nbsp;»"
       },
 
       {
@@ -50,7 +50,7 @@
 
       {
         "periods": [{ "startDate": "2016", "endDate": "2018" }],
-        "label": "Membre du conseil scientifique de l'ED 400 « Savoirs scientifiques : Epistémologie, Histoire des sciences, didactique des disciplines », Université Paris Diderot"
+        "label": "Membre du conseil scientifique de l'ED 400 «&nbsp;Savoirs scientifiques : Epistémologie, Histoire des sciences, didactique des disciplines&nbsp;», Université Paris Diderot"
       },
 
       {
@@ -92,7 +92,7 @@
         "details": [
           {
             "key": "Pour l'",
-            "value": "HCERES du Centre François Viète (Nantes) et des « Archives Henri Poincaré » (Nancy)"
+            "value": "HCERES du Centre François Viète (Nantes) et des «&nbsp;Archives Henri Poincaré&nbsp;» (Nancy)"
           }
         ]
       }
@@ -201,7 +201,7 @@
           },
           {
             "key": "dirigée par",
-            "value": "Jean-Jacques Szczeciniaz"
+            "value": "Jean&#8209;Jacques Szczeciniaz"
           }
         ]
       },
@@ -223,7 +223,7 @@
             "value": "The telling of the unattainable attempt to avoid the casus irreducibilis for cubic equations: Cardano’s De Regula Aliza"
           },
           {
-            "key": "co-dirigée par",
+            "key": "co&#8209;dirigée par",
             "value": "Massimo Galuzzi (Université de Milan) et Marco Panza (université Paris 7)"
           }
         ]
@@ -270,7 +270,7 @@
             "value": "L’infini en poids, nombre et mesure : la comparaison des incomparables dans l’œuvre de Blaise Pascal"
           },
           {
-            "key": "co-dirigée par",
+            "key": "co&#8209;dirigée par",
             "value": "David Rabouin (Université Paris 7) et Luis Cesar Guimaraes Oliva (Univeristé de São Paulo, Bresil)"
           }
         ]
@@ -290,7 +290,7 @@
           },
           {
             "key": "Sujet :",
-            "value": "L’algèbre des polynômes : le Qisṭāsal-mu‘ādala fī‘ilm al-jabr wa’l-muqābala d’al-Zanjānī (XIII<sup>e</sup> siècle)"
+            "value": "L’algèbre des polynômes : le Qisṭāsal&#8209;mu‘ādala fī‘ilm al&#8209;jabr wa’l&#8209;muqābala d’al&#8209;Zanjānī (XIII<sup>e</sup> siècle)"
           },
           {
             "key": "dirigée par",
@@ -370,7 +370,7 @@
           },
           {
             "key": "Sujet :",
-            "value": "La Recension des Coniques d’Apollonius par Naṣīr al-Dīn al-Ṭūsī : texte, traduction et commentaires du livre I"
+            "value": "La Recension des Coniques d’Apollonius par Naṣīr al&#8209;Dīn al&#8209;Ṭūsī : texte, traduction et commentaires du livre I"
           },
           {
             "key": "dirigée par",
@@ -411,13 +411,13 @@
         "label": "Organisation d'un séminaire d'histoire des mathématiques",
         "details": [
           {
-            "value": "En collaboration avec Bernard Vitrac et Ahmed Djebbar pour la période 2002-2003"
+            "value": "En collaboration avec Bernard Vitrac et Ahmed Djebbar pour la période 2002&#8209;2003"
           }
         ]
       },
       {
         "periods": [{ "startDate": "07/2000", "endDate": "06/2002" }],
-        "label": "Responsable du projet « La réception des Éléments d'Euclide au Moyen-Age et à la Renaissance »",
+        "label": "Responsable du projet «&nbsp;La réception des Éléments d'Euclide au Moyen&#8209;Age et à la Renaissance&nbsp;»",
         "details": [
           { "value": "Projet ayant reçu une Aide à Projet Nouveau du CNRS" },
           {
@@ -429,17 +429,17 @@
       },
       {
         "periods": [{ "startDate": "2003", "endDate": "2006" }],
-        "label": "Responsable du projet « Formes d'articulation entre mathématiques et philosophie naturelle (XIV<sup>e</sup>-XVI<sup>e</sup> siècles) »",
+        "label": "Responsable du projet «&nbsp;Formes d'articulation entre mathématiques et philosophie naturelle (XIV<sup>e</sup>&#8209;XVI<sup>e</sup> siècles)&nbsp;»",
         "details": [
           {
             "key": "Dans le cadre de l'",
-            "value": "AC « Histoire des savoirs » du CNRS"
+            "value": "AC «&nbsp;Histoire des savoirs&nbsp;» du CNRS"
           }
         ]
       },
       {
         "periods": [{ "startDate": "2006", "endDate": "2011" }],
-        "label": "Responsable du projet « Algèbre »",
+        "label": "Responsable du projet «&nbsp;Algèbre&nbsp;»",
         "details": [
           {
             "key": "Au sein de l'",
@@ -450,11 +450,11 @@
       {
         "periods": [{ "startDate": "09/2012", "endDate": "06/2022" }],
         "place": "Laboratoire SPHERE",
-        "label": "Responsable du séminaire d'histoire des mathématiques à la Renaissance ; Co-responsable du sous-axe « Philosophie naturelle de l'Antiquité à l'Age classique »"
+        "label": "Responsable du séminaire d'histoire des mathématiques à la Renaissance ; Co&#8209;responsable du sous&#8209;axe «&nbsp;Philosophie naturelle de l'Antiquité à l'Age classique&nbsp;»"
       },
       {
         "periods": [{ "startDate": "06/2024", "endDate": "12/2025" }],
-        "label": "Porteuse du projet « Point de basculement entre l'aristotélisme et la science classique : la tradition parisienne des Calculatores – PBASC »",
+        "label": "Porteuse du projet «&nbsp;Point de basculement entre l'aristotélisme et la science classique : la tradition parisienne des Calculatores – PBASC&nbsp;»",
         "details": [
           {
             "key": "Financé par",
@@ -464,7 +464,7 @@
       },
       {
         "periods": [{ "startDate": "09/2024", "endDate": "08/2027" }],
-        "label": "Membre du projet « Euclide à l'époque moderne : Une histoire des transmissions, traductions et transformations interculturelles des éléments – EUCLIDES »",
+        "label": "Membre du projet «&nbsp;Euclide à l'époque moderne : Une histoire des transmissions, traductions et transformations interculturelles des éléments – EUCLIDES&nbsp;»",
         "details": [
           {
             "key": "Dirigé par",
@@ -472,17 +472,17 @@
           },
           {
             "key": "Financé par l'",
-            "value": "ANR Appel Franco-allemand en sciences humaines et sociales"
+            "value": "ANR Appel Franco&#8209;allemand en sciences humaines et sociales"
           }
         ]
       },
       {
         "periods": [{ "startDate": "04/2025", "endDate": "03/2026" }],
-        "label": "Membre du projet « Physicoom »",
+        "label": "Membre du projet «&nbsp;Physicoom&nbsp;»",
         "details": [
           {
             "key": "Porté par",
-            "value": "N. Weill-Parot"
+            "value": "N. Weill&#8209;Parot"
           },
           {
             "key": "Financé par",
@@ -492,7 +492,7 @@
       },
       {
         "periods": [{ "startDate": "2023", "endDate": "2028" }],
-        "label": "Membre du Advisory Board du projet « i² – The Impossible and the Imaginable: Late-Medieval Semantics of Impossibility and the Roots of Complex Mathematics » (ERC Starting Grant)",
+        "label": "Membre du Advisory Board du projet «&nbsp;i² – The Impossible and the Imaginable: Late&#8209;Medieval Semantics of Impossibility and the Roots of Complex Mathematics&nbsp;» (ERC Starting Grant)",
         "details": [
           {
             "key": "Dirigé par",
@@ -538,14 +538,14 @@
       },
       {
         "periods": [{ "startDate": "2020" }],
-        "label": "Responsable du thème « La logique et les mathématiques »",
+        "label": "Responsable du thème «&nbsp;La logique et les mathématiques&nbsp;»",
         "details": [
           { "value": "comportant 3 volumes" },
           {
             "key": "Dans l'",
-            "value": "Encyclopédie « Sciences », aux éditions ISTE"
+            "value": "Encyclopédie «&nbsp;Sciences&nbsp;», aux éditions ISTE"
           },
-          { "key": "domaine", "value": "« Histoire des sciences »" }
+          { "key": "domaine", "value": "«&nbsp;Histoire des sciences&nbsp;»" }
         ]
       }
     ]
