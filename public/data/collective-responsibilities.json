@@ -1,0 +1,553 @@
+[
+  {
+    "title": "Participation à des instances collectives",
+    "content": [
+      {
+        "periods": [{ "startDate": "2000", "endDate": "2005" }],
+        "label": "Membre du conseil de laboratoire de l'UMR 8519 « Savoirs et Textes&nbsp;», Lille"
+      },
+      {
+        "periods": [{ "startDate": "2005", "endDate": "2011" }],
+        "label": "Membre du conseil de laboratoire du Centre d’Études Supérieures de la Renaissance (CESR), Tours",
+        "details": [{ "value": "Correspondante formation de l’unité" }]
+      },
+      {
+        "periods": [{ "startDate": "2005", "endDate": "2011" }],
+        "label": "Membre du conseil d’UFR du Centre d’Études Supérieures de la Renaissance (CESR), Tours"
+      },
+      {
+        "periods": [{ "startDate": "2013", "endDate": "2018" }],
+        "label": "Membre du bureau (équivalent du conseil de laboratoire) de l’UMR SPHERE, Paris"
+      },
+
+      {
+        "periods": [{ "startDate": "2016", "endDate": "2018" }],
+        "label": "Membre élue du conseil scientifique du GIS Humanités"
+      },
+
+      {
+        "periods": [{ "startDate": "10/2017", "endDate": "12/2017" }],
+        "label": "Membre du groupe de préfiguration de l’UFR IHSS",
+        "details": [
+          { "value": "Rédaction des statuts et du règlement intérieur" }
+        ]
+      },
+
+      {
+        "periods": [{ "startDate": "2015", "endDate": "2019" }],
+        "label": "Membre du bureau du GDR «&nbsp;Histoire des mathématiques&nbsp;»"
+      },
+
+      {
+        "periods": [{ "startDate": "01/2018", "endDate": "03/2023" }],
+        "label": "Directrice du laboratoire SPHERE, Paris"
+      },
+
+      {
+        "periods": [{ "startDate": "01/2018", "endDate": "03/2023" }],
+        "label": "Membre de droit du conseil scientifique de l’UFR « Institut Humanités, Sciences et Sociétés » (IHSS), auquel est rattaché le laboratoire SPHERE"
+      },
+
+      {
+        "periods": [{ "startDate": "2016", "endDate": "2018" }],
+        "label": "Membre du conseil scientifique de l'ED 400 «&nbsp;Savoirs scientifiques : Epistémologie, Histoire des sciences, didactique des disciplines&nbsp;», Université Paris Diderot"
+      },
+
+      {
+        "periods": [{ "startDate": "01/2018", "endDate": "03/2023" }],
+        "label": "Membre élue du conseil de l’UFR IHSS"
+      },
+
+      {
+        "periods": [{ "startDate": "01/2018", "endDate": "03/2023" }],
+        "label": "Membre élue du département HPS de l’UFR IHSS"
+      },
+
+      {
+        "periods": [{ "startDate": "01/2023" }],
+        "label": "Membre nommée à la Commission administrative paritaire (CAP) du CNRS"
+      }
+    ]
+  },
+  {
+    "title": "Participation à des instances d'évaluation",
+    "content": [
+      {
+        "periods": [{ "startDate": "2016" }],
+        "label": "Membre nommée puis élue à la section 72 du CNU"
+      },
+      {
+        "dates": ["2013", "2016"],
+        "label": "Expertises",
+        "details": [
+          {
+            "key": "Pour l'agence italienne d'évaluation",
+            "value": "ANUR (Agenzia Nazionale di Valutazione del Sistema Universitario e della Ricerca), Agence italienne d'évaluation"
+          }
+        ]
+      },
+      {
+        "dates": ["2016"],
+        "label": "Expertises",
+        "details": [
+          {
+            "key": "Pour l'",
+            "value": "HCERES du Centre François Viète (Nantes) et des «&nbsp;Archives Henri Poincaré&nbsp;» (Nancy)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Participations à des Jurys du CNRS",
+    "content": [
+      {
+        "dates": ["2018"],
+        "label": "Membre de la commission régionale d'interclassement",
+        "details": [
+          {
+            "key": "Pour la",
+            "value": "BAP F, délégation régionale Paris Villejuif"
+          }
+        ]
+      },
+      {
+        "dates": ["2019"],
+        "label": "Membre de la commission régionale d'interclassement",
+        "details": [
+          {
+            "key": "Pour la",
+            "value": "BAP G et J, délégation régionale Paris Villejuif"
+          }
+        ]
+      },
+      {
+        "dates": ["2019"],
+        "label": "Présidente du Jury",
+        "details": [
+          {
+            "key": "De l'",
+            "value": "Examen de sélection professionnelle pour l'accès au grade d'Ingénieur de Recherche Hors Classe (IRHC)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Participation à des jurys de thèse et d'HDR",
+    "content": [
+      {
+        "dates": ["10/2006"],
+        "place": "Université de Tours",
+        "label": "Membre du jury de thèse",
+        "details": [
+          {
+            "key": "en",
+            "value": "Philosophie"
+          },
+          {
+            "key": "de",
+            "value": "Shinichiro Higashi"
+          },
+          {
+            "key": "Sujet :",
+            "value": "Penser les mathématiques au xvi<sup>e</sup> siècle"
+          },
+          {
+            "key": "dirigée par",
+            "value": "Joël Biard"
+          }
+        ]
+      },
+      {
+        "dates": ["11/2007"],
+        "place": "EPHE, Paris",
+        "label": "Membre du jury de thèse",
+        "details": [
+          {
+            "key": "en",
+            "value": "Histoire des mathématiques médiévales"
+          },
+          {
+            "key": "de",
+            "value": "Matthieu Husson"
+          },
+          {
+            "key": "Sujet :",
+            "value": "Les domaines d’application des mathématiques dans la première moitié du quatorzièm<sup>e</sup> siècle"
+          },
+          {
+            "key": "dirigée par",
+            "value": "Danièle Jacquart"
+          }
+        ]
+      },
+      {
+        "dates": ["10/2011"],
+        "place": "Université Paris 7",
+        "label": "Membre du jury de thèse",
+        "details": [
+          {
+            "key": "en",
+            "value": "Epistémologie et histoire des sciences"
+          },
+          {
+            "key": "d'",
+            "value": "Odile Kouteynikoff"
+          },
+          {
+            "key": "Sujet :",
+            "value": "Les domaines d’application des mathématiques dans la première moitié du quatorzièm<sup>e</sup> siècle"
+          },
+          {
+            "key": "dirigée par",
+            "value": "Jean&#8209;Jacques Szczeciniaz"
+          }
+        ]
+      },
+      {
+        "dates": ["10/2013"],
+        "place": "Université Paris 7",
+        "label": "Membre du jury de thèse",
+        "details": [
+          {
+            "key": "en",
+            "value": "SHistoire et philosophie des sciences"
+          },
+          {
+            "key": "de",
+            "value": "Sara Confalioneri"
+          },
+          {
+            "key": "Sujet :",
+            "value": "The telling of the unattainable attempt to avoid the casus irreducibilis for cubic equations: Cardano’s De Regula Aliza"
+          },
+          {
+            "key": "co&#8209;dirigée par",
+            "value": "Massimo Galuzzi (Université de Milan) et Marco Panza (université Paris 7)"
+          }
+        ]
+      },
+      {
+        "dates": ["12/2013"],
+        "place": "Université Montpellier 3",
+        "label": "Membre du jury de thèse",
+        "details": [
+          {
+            "key": "en",
+            "value": "Études psychanalytiques"
+          },
+          {
+            "key": "de",
+            "value": "Thierry Sebbag"
+          },
+          {
+            "key": "Sujet :",
+            "value": "Pour une archéologie de la virginité"
+          },
+          {
+            "key": "dirigée par",
+            "value": "Bernard Salignon"
+          }
+        ]
+      },
+      {
+        "dates": ["12/2016"],
+        "place": "Université Paris 7",
+        "label": "Présidente du jury de thèse",
+        "details": [
+          {
+            "key": "en",
+            "value": "Histoire et philosophie des sciences"
+          },
+
+          {
+            "key": "de",
+            "value": "João F. N. Cortese"
+          },
+          {
+            "key": "Sujet :",
+            "value": "L’infini en poids, nombre et mesure : la comparaison des incomparables dans l’œuvre de Blaise Pascal"
+          },
+          {
+            "key": "co&#8209;dirigée par",
+            "value": "David Rabouin (Université Paris 7) et Luis Cesar Guimaraes Oliva (Univeristé de São Paulo, Bresil)"
+          }
+        ]
+      },
+      {
+        "dates": ["12/2016"],
+        "place": "Université Paris 7",
+        "label": "Présidente du jury de thèse",
+        "details": [
+          {
+            "key": "en",
+            "value": "Histoire et philosophie des sciences"
+          },
+          {
+            "key": "d'",
+            "value": "Eleonora Smmarchi"
+          },
+          {
+            "key": "Sujet :",
+            "value": "L’algèbre des polynômes : le Qisṭāsal&#8209;mu‘ādala fī‘ilm al&#8209;jabr wa’l&#8209;muqābala d’al&#8209;Zanjānī (XIII<sup>e</sup> siècle)"
+          },
+          {
+            "key": "dirigée par",
+            "value": "Pascal Crozet"
+          }
+        ]
+      },
+      {
+        "dates": ["12/2018"],
+        "place": "Université Paris Diderot",
+        "label": "Membre du jury d'HDR",
+        "details": [
+          {
+            "key": "en",
+            "value": "Psychanalyse"
+          },
+          {
+            "key": "de",
+            "value": "Remy Potier"
+          },
+          {
+            "key": "Thème :",
+            "value": "Le numérique à l’épreuve de la Psychanalyse. Enjeux psycho(patho)logique et épistémologiques des algorithmes au quotidien"
+          }
+        ]
+      },
+      {
+        "dates": ["03/2019"],
+        "place": "Université de Limoges",
+        "label": "Présidente du jury d'HDR",
+        "details": [
+          {
+            "key": "en",
+            "value": "Histoire des sciences"
+          },
+          {
+            "key": "de",
+            "value": "Marc Moyon"
+          },
+          {
+            "key": "Thème :",
+            "value": "Des savoirs en circulation : transmissions, appropriations, traductions en histoire des mathématiques"
+          }
+        ]
+      },
+      {
+        "dates": ["12/2019"],
+        "place": "Université de Tours",
+        "label": "Présidente du jury d'HDR",
+        "details": [
+          {
+            "key": "en",
+            "value": "Histoire des sciences"
+          },
+          {
+            "key": "de",
+            "value": "Aurélien Robert"
+          },
+          {
+            "key": "Thème :",
+            "value": "De la substance à l’atome. Sur les traces du matérialisme au Moyen Âge"
+          }
+        ]
+      },
+      {
+        "dates": ["12/2019"],
+        "place": "Université de Paris",
+        "label": "Présidente du jury de thèse",
+        "details": [
+          {
+            "key": "en",
+            "value": "istoire des sciences"
+          },
+          {
+            "key": "de",
+            "value": "Zeinab Karimian"
+          },
+          {
+            "key": "Sujet :",
+            "value": "La Recension des Coniques d’Apollonius par Naṣīr al&#8209;Dīn al&#8209;Ṭūsī : texte, traduction et commentaires du livre I"
+          },
+          {
+            "key": "dirigée par",
+            "value": "Pascal Crozet"
+          }
+        ]
+      },
+      {
+        "dates": ["12/2019"],
+        "place": "Université de Paris",
+        "label": "Membre du jury et directrice de thèse",
+        "details": [
+          {
+            "key": "en",
+            "value": "Histoire et philosophie des sciences"
+          },
+          {
+            "key": "de",
+            "value": "Philippe Debroise"
+          },
+          {
+            "key": "Sujet :",
+            "value": "Mathématiques de l’intensité et Merveilles de la nature. Étude sur le <i>Tractatus de configurationibus qualitatum et motuum</i> de Nicole Oresme"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Activités liées à la recherche",
+    "content": [
+      {
+        "periods": [
+          { "startDate": "10/1997", "endDate": "06/2001" },
+          { "startDate": "10/2002", "endDate": "06/2003" }
+        ],
+        "place": "Lille",
+        "label": "Organisation d'un séminaire d'histoire des mathématiques",
+        "details": [
+          {
+            "value": "En collaboration avec Bernard Vitrac et Ahmed Djebbar pour la période 2002&#8209;2003"
+          }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "07/2000", "endDate": "06/2002" }],
+        "label": "Responsable du projet «&nbsp;La réception des Éléments d'Euclide au Moyen&#8209;Age et à la Renaissance&nbsp;»",
+        "details": [
+          { "value": "Projet ayant reçu une Aide à Projet Nouveau du CNRS" },
+          {
+            "key": "Publication d'",
+            "value": "un numéro spécial de la <i>Revue d'histoire des sciences</i>, 56/2 (2003)",
+            "link": "https://www.persee.fr/issue/rhs_0151-4105_2003_num_56_2"
+          }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "2003", "endDate": "2006" }],
+        "label": "Responsable du projet «&nbsp;Formes d'articulation entre mathématiques et philosophie naturelle (XIV<sup>e</sup>&#8209;XVI<sup>e</sup> siècles)&nbsp;»",
+        "details": [
+          {
+            "key": "Dans le cadre de l'",
+            "value": "AC «&nbsp;Histoire des savoirs&nbsp;» du CNRS"
+          }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "2006", "endDate": "2011" }],
+        "label": "Responsable du projet «&nbsp;Algèbre&nbsp;»",
+        "details": [
+          {
+            "key": "Au sein de l'",
+            "value": "équipe d'histoire des sciences du Centre d’Études Supérieures de la Renaissance (CESR)"
+          }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "09/2012", "endDate": "06/2022" }],
+        "place": "Laboratoire SPHERE",
+        "label": "Responsable du séminaire d'histoire des mathématiques à la Renaissance ; Co&#8209;responsable du sous&#8209;axe «&nbsp;Philosophie naturelle de l'Antiquité à l'Age classique&nbsp;»"
+      },
+      {
+        "periods": [{ "startDate": "06/2024", "endDate": "12/2025" }],
+        "label": "Porteuse du projet «&nbsp;Point de basculement entre l'aristotélisme et la science classique : la tradition parisienne des Calculatores – PBASC&nbsp;»",
+        "details": [
+          {
+            "key": "Financé par",
+            "value": "le GPR Human Past, Université de Bordeaux (11 816 euros)"
+          }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "09/2024", "endDate": "08/2027" }],
+        "label": "Membre du projet «&nbsp;Euclide à l'époque moderne : Une histoire des transmissions, traductions et transformations interculturelles des éléments – EUCLIDES&nbsp;»",
+        "details": [
+          {
+            "key": "Dirigé par",
+            "value": "V. Di Risi et A. Axworthy"
+          },
+          {
+            "key": "Financé par l'",
+            "value": "ANR Appel Franco&#8209;allemand en sciences humaines et sociales"
+          }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "04/2025", "endDate": "03/2026" }],
+        "label": "Membre du projet «&nbsp;Physicoom&nbsp;»",
+        "details": [
+          {
+            "key": "Porté par",
+            "value": "N. Weill&#8209;Parot"
+          },
+          {
+            "key": "Financé par",
+            "value": "PSL Global Seed Fund"
+          }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "2023", "endDate": "2028" }],
+        "label": "Membre du Advisory Board du projet «&nbsp;i² – The Impossible and the Imaginable: Late&#8209;Medieval Semantics of Impossibility and the Roots of Complex Mathematics&nbsp;» (ERC Starting Grant)",
+        "details": [
+          {
+            "key": "Dirigé par",
+            "value": "G. Ciola"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Activités liées à l'édition",
+    "content": [
+      {
+        "periods": [
+          { "startDate": "2002", "endDate": "2005" },
+          { "startDate": "11/2020" }
+        ],
+        "label": "Membre du comité de rédaction de la Revue d'histoire des mathématiques, SMF"
+      },
+      {
+        "periods": [{ "startDate": "2010", "endDate": "2025" }],
+        "label": "Membre du comité éditorial de la Revue Almagest, aux éditions Brepols"
+      },
+      {
+        "periods": [{ "startDate": "2016", "endDate": "2017" }],
+        "label": "Membre du comité de lecture des Cahiers François Viète",
+        "details": [
+          {
+            "value": "Libre accès en ligne",
+            "link": "https://journals.openedition.org/cahierscfv/"
+          }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "2017" }],
+        "label": "Membre du comité scientifique des Cahiers François Viète",
+        "details": [
+          {
+            "value": "Libre accès en ligne",
+            "link": "https://journals.openedition.org/cahierscfv/"
+          }
+        ]
+      },
+      {
+        "periods": [{ "startDate": "2020" }],
+        "label": "Responsable du thème «&nbsp;La logique et les mathématiques&nbsp;»",
+        "details": [
+          { "value": "comportant 3 volumes" },
+          {
+            "key": "Dans l'",
+            "value": "Encyclopédie «&nbsp;Sciences&nbsp;», aux éditions ISTE"
+          },
+          { "key": "domaine", "value": "«&nbsp;Histoire des sciences&nbsp;»" }
+        ]
+      }
+    ]
+  }
+]

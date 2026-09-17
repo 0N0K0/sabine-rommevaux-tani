@@ -1,21 +1,20 @@
-import { Button, Container, Title } from '@mantine/core'
-import { useState } from 'react'
+import { FooterContent } from './content/FooterContent';
+import { HeaderContent } from './content/HeaderContent';
+import { MainContent } from './content/MainContent';
+import { Layout } from './layout/layout';
 
 /**
  * Root application component.
  * @returns {JSX.Element} App markup.
  */
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <Container py="xl">
-      <Title order={1}>Sabine Rommevaux-Tani</Title>
-      <Button mt="md" onClick={() => setCount((count) => count + 1)}>
-        Count is {count}
-      </Button>
-    </Container>
-  )
+    <Layout
+      headerContent={<HeaderContent />}
+      mainContent={<MainContent />}
+      footerContent={<FooterContent />}
+    />
+  );
 }
 
-export default App
+export default App;

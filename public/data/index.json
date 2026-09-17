@@ -1,0 +1,35 @@
+{
+  "files": [
+    {
+      "name": "career",
+      "title": "Parcours professionnel",
+      "displayDates": true
+    },
+    {
+      "name": "scientific-output",
+      "title": "Production scientifique",
+      "displayDates": false
+    },
+    {
+      "name": "scientific-event",
+      "title": "Manifestations scientifiques",
+      "displayDates": true
+    },
+    {
+      "name": "teaching",
+      "title": "Enseignements et encadrements",
+      "displayDates": true
+    },
+
+    {
+      "name": "collective-responsibilities",
+      "title": "Responsabilités collectives",
+      "displayDates": true
+    },
+    {
+      "name": "popularization",
+      "title": "Diffusion des savoirs",
+      "displayDates": true
+    }
+  ]
+}
