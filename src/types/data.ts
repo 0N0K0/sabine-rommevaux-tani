@@ -33,3 +33,8 @@ export interface Data {
   title?: string;
   content?: Content[] | Data[];
 }
+
+export interface Introduction {
+  keyWords: string[];
+  intro: string[];
+}
