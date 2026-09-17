@@ -43,4 +43,10 @@ export const theme = createTheme({
       '#1E326A',
     ],
   },
+
+  fontFamily: 'Montserrat, sans-serif',
+
+  headings: {
+    fontFamily: 'Cormorant Unicase, serif',
+  },
 });
