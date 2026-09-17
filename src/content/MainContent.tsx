@@ -21,10 +21,12 @@ export function MainContent() {
       }}
     >
       <Tabs.List
+        justify="center"
         style={{
           position: 'sticky',
           top: 0,
           zIndex: 10,
+          background: 'white',
         }}
       >
         <Tabs.Tab key="introduction" value="introduction">
