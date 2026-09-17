@@ -19,13 +19,16 @@ export function MainContent() {
           loadFile(value);
         }
       }}
+      style={{
+        height: 'calc(100vh - 72px - 60px)',
+      }}
     >
       <Tabs.List
         justify="center"
         style={{
-          position: 'sticky',
-          top: 0,
-          zIndex: 10,
+          // position: 'sticky',
+          // top: 0,
+          // zIndex: 10,
           background: 'white',
         }}
       >
@@ -38,11 +41,25 @@ export function MainContent() {
           </Tabs.Tab>
         ))}
       </Tabs.List>
-      <Tabs.Panel key="introduction" value="introduction">
+      <Tabs.Panel
+        key="introduction"
+        value="introduction"
+        style={{
+          height: 'calc(100vh - 72px - 60px - 36px)',
+          overflow: 'auto',
+        }}
+      >
         <IntroductionContent />
       </Tabs.Panel>
       {files.map((file) => (
-        <Tabs.Panel key={file.name} value={file.name}>
+        <Tabs.Panel
+          key={file.name}
+          value={file.name}
+          style={{
+            height: 'calc(100vh - 72px - 60px - 36px)',
+            overflow: 'auto',
+          }}
+        >
           {loading ? (
             <p>Chargement...</p>
           ) : (

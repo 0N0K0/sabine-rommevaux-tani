@@ -16,7 +16,7 @@ export function Layout({
       <AppShell.Main
         style={{
           height: '100vh',
-          overflowY: 'auto',
+          overflowY: 'hidden',
         }}
       >
         {mainContent}
