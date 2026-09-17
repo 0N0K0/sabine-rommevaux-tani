@@ -1,6 +1,7 @@
 export interface File {
   name: string;
   title: string;
+  displayDates: boolean;
 }
 
 export interface DataIndex {

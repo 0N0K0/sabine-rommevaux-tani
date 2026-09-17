@@ -2,7 +2,13 @@ import { Button, Card, Text, Typography } from '@mantine/core';
 import type { Content } from '../types/data';
 import { formatDates, formatPeriods } from '../helpers/helpers';
 
-export function ItemContent({ content }: { content: Content }) {
+export function ItemContent({
+  content,
+  displayDates,
+}: {
+  content: Content;
+  displayDates: Boolean;
+}) {
   const Container = content.content ? 'section' : Card;
 
   return (
@@ -45,7 +51,8 @@ export function ItemContent({ content }: { content: Content }) {
           )}
         </Text>
       ))}
-      {(content.place || content.dates || content.periods) && (
+      {(content.place ||
+        (displayDates === true && (content.dates || content.periods))) && (
         <Text>
           {content.place && <span>{content.place}</span>}
 
@@ -73,7 +80,7 @@ export function ItemContent({ content }: { content: Content }) {
         </Button>
       )}
       {content.content?.map((child, index) => (
-        <ItemContent key={index} content={child} />
+        <ItemContent key={index} content={child} displayDates={displayDates} />
       ))}
     </Container>
   );

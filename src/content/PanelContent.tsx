@@ -1,11 +1,16 @@
 import { Masonry } from '../components/Masonry';
 import type { Content, Data } from '../types/data';
 import { isData } from '../types/guards';
-
 import { ItemContent } from './ItemContent';
 import { SectionContent } from './SectionContent';
 
-export function PanelContent({ data }: { data: Data[] | Content[] | null }) {
+export function PanelContent({
+  data,
+  displayDates,
+}: {
+  data: Data[] | Content[] | null;
+  displayDates: Boolean;
+}) {
   if (!data) {
     return null;
   }
@@ -16,7 +21,11 @@ export function PanelContent({ data }: { data: Data[] | Content[] | null }) {
     return (
       <Masonry cols={4} gap={16}>
         {data.map((item, index) => (
-          <ItemContent key={index} content={item as Content} />
+          <ItemContent
+            key={index}
+            content={item as Content}
+            displayDates={displayDates}
+          />
         ))}
       </Masonry>
     );
@@ -25,7 +34,11 @@ export function PanelContent({ data }: { data: Data[] | Content[] | null }) {
   return (
     <>
       {data.map((item, index) => (
-        <SectionContent key={index} data={item as Data} />
+        <SectionContent
+          key={index}
+          data={item as Data}
+          displayDates={displayDates}
+        />
       ))}
     </>
   );

@@ -33,7 +33,11 @@ export function MainContent() {
       </Tabs.List>
       {files.map((file) => (
         <Tabs.Panel key={file.name} value={file.name}>
-          {loading ? <p>Chargement...</p> : <PanelContent data={data} />}
+          {loading ? (
+            <p>Chargement...</p>
+          ) : (
+            <PanelContent data={data} displayDates={file.displayDates} />
+          )}
         </Tabs.Panel>
       ))}
     </Tabs>

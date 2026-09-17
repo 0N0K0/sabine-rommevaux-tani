@@ -2,32 +2,39 @@
   "files": [
     {
       "name": "research-areas",
-      "title": "Domaines de recherche"
+      "title": "Domaines de recherche",
+      "displayDates": true
     },
     {
       "name": "career",
-      "title": "Parcours professionnel"
+      "title": "Parcours professionnel",
+      "displayDates": true
     },
     {
       "name": "scientific-output",
-      "title": "Production scientifique"
+      "title": "Production scientifique",
+      "displayDates": false
     },
     {
       "name": "scientific-event",
-      "title": "Manifestations scientifiques"
+      "title": "Manifestations scientifiques",
+      "displayDates": true
     },
     {
       "name": "teaching",
-      "title": "Enseignements et encadrements"
+      "title": "Enseignements et encadrements",
+      "displayDates": true
     },
 
     {
       "name": "collective-responsibilities",
-      "title": "Responsabilités collectives"
+      "title": "Responsabilités collectives",
+      "displayDates": true
     },
     {
       "name": "popularization",
-      "title": "Diffusion des savoirs"
+      "title": "Diffusion des savoirs",
+      "displayDates": true
     }
   ]
 }
