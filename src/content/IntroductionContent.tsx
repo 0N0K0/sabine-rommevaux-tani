@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import type { Data, Introduction } from '../types/data';
 import { isData } from '../types/guards';
 import { SectionContent } from './SectionContent';
-import { Typography } from '@mantine/core';
+import { Button, Typography } from '@mantine/core';
 
 export function IntroductionContent() {
   const [data, setData] = useState<Data[]>([]);
@@ -35,18 +35,21 @@ export function IntroductionContent() {
     loadHeader();
   }, []);
 
-  if (loading && !data) return <p>Chargement...</p>;
+  if (loading && !data) return null;
 
   if (error) return <p>{error.message}</p>;
-
-  console.log(data);
 
   return (
     <>
       {data.map((item, index) => {
         if (isData(item)) {
           return (
-            <SectionContent key={index} data={item} displayDates={false} />
+            <SectionContent
+              key={index}
+              data={item}
+              displayDates={false}
+              displayItemsLenght={false}
+            />
           );
         }
 
@@ -74,7 +77,7 @@ export function IntroductionContent() {
             {(item as Introduction).intro && (
               <Typography
                 style={{
-                  maxWidth: 'calc(1920px / 3 * 2',
+                  maxWidth: 'calc(1920px / 4 * 3',
                   marginInline: 'auto',
                   textAlign: 'justify',
                 }}
@@ -93,6 +96,9 @@ export function IntroductionContent() {
                 ))}
               </Typography>
             )}
+            <Button radius="xs" size="lg" style={{ marginInline: 'auto' }}>
+              Télécharger mon CV
+            </Button>
           </section>
         );
       })}

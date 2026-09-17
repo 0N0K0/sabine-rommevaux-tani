@@ -2,14 +2,85 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300;400;500;600;700&family=Elsie:wght@400;900&display=swap');
 
 body {
-  background-color: hsl(45, 50%, 98%);
+  background-color: hsl(45, 0%, 97%);
+}
+
+/* Chrome / Edge / Safari */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(0, 0, 0, 0.5);
+  border-radius: 999px;
+  border: 3px solid transparent;
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.8);
+  border: 3px solid transparent;
+  background-clip: padding-box;
+}
+
+/* 🚫 Flèches */
+::-webkit-scrollbar-button {
+  width: 0 !important;
+  height: 0 !important;
+  display: none !important;
 }
 
 .intro-first-paragraph::first-letter {
   float: left;
   font-family: 'Cormorant Unicase', serif;
-  font-size: 4.5rem;
-  line-height: 0.8;
+  font-size: 68px;
+  line-height: 0.75;
   padding-right: 0.1em;
   padding-top: 0.08em;
+  color: var(--mantine-color-gold-5);
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--mantine-color-gold-5);
+  &::first-letter {
+    color: var(--mantine-color-red-5);
+  }
+}
+
+b {
+  color: var(--mantine-color-red-7);
+  font-weight: 500;
+}
+
+li::marker {
+  color: var(--mantine-color-red-5);
+}
+
+image svg {
+  color: var(--mantine-color-gold-5);
+}
+
+.legal-content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+
+  & > p:nth-child(odd) {
+    font-weight: 600;
+    text-align: right;
+  }
+}
+
+.legal-section h3 {
+  font-size: 32px;
+  text-align: center;
 }

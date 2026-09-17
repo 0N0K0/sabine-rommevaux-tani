@@ -9,20 +9,37 @@ export function CardContent({
   content: Content;
   displayDates: Boolean;
 }) {
-  const Container = content.content ? 'section' : Card;
-
   return (
-    <Container>
+    <Card
+      display="flex"
+      style={{ flexDirection: 'column', gap: '8px' }}
+      px="lg"
+      py="xl"
+      radius="xs"
+    >
       {content.label && (
         <Typography>
-          <div dangerouslySetInnerHTML={{ __html: content.label }} />
+          <p
+            style={{
+              fontSize: '18px',
+              fontWeight: '500',
+              paddingBottom: '8px',
+            }}
+            dangerouslySetInnerHTML={{ __html: content.label }}
+          />
         </Typography>
       )}
       {content.details?.map((detail, index) => (
         <Text key={`detail-${index}`}>
           {detail.key && (
             <Typography component="span">
-              <span dangerouslySetInnerHTML={{ __html: detail.key }} />
+              <span
+                style={{
+                  color: 'var(--mantine-color-gold-5)',
+                  fontWeight: '500',
+                }}
+                dangerouslySetInnerHTML={{ __html: detail.key }}
+              />
               {!detail.key?.endsWith("'") && ' '}
             </Typography>
           )}
@@ -38,50 +55,74 @@ export function CardContent({
                 <span dangerouslySetInnerHTML={{ __html: detail.value }} />
               </Typography>
             )
-          )}{' '}
+          )}
           {detail.link && (
-            <Button
-              component="a"
-              href={detail.link}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Consulter
-            </Button>
+            <>
+              {detail.value && <br />}
+              <Button
+                radius="xs"
+                component="a"
+                href={detail.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                mt="8px"
+              >
+                Consulter
+              </Button>
+            </>
           )}
         </Text>
       ))}
+      {content.content?.map((child, index) => (
+        <CardContent key={index} content={child} displayDates={displayDates} />
+      ))}
+      {content.link && (
+        <Button
+          radius="xs"
+          component="a"
+          href={content.link}
+          target="_blank"
+          rel="noopener noreferrer"
+          mt="8px"
+          style={{ width: 'fit-content' }}
+        >
+          Consulter
+        </Button>
+      )}
       {(content.place ||
         (displayDates === true && (content.dates || content.periods))) && (
-        <Text>
-          {content.place && <span>{content.place}</span>}
+        <Typography
+          style={{
+            textAlign: 'right',
+            color: 'var(--mantine-color-gold-5)',
+            fontWeight: '500',
+          }}
+        >
+          {content.place && (
+            <span dangerouslySetInnerHTML={{ __html: content.place }} />
+          )}
 
           {content.place && (content.dates?.length || content.periods?.length)
             ? ', '
             : null}
 
           {content.dates?.length ? (
-            <span>{formatDates(content.dates)}</span>
-          ) : null}
+            <span
+              dangerouslySetInnerHTML={{ __html: formatDates(content.dates) }}
+            />
+          ) : // <span>{formatDates(content.dates)}</span>
+          null}
 
           {content.periods?.length ? (
-            <span>{formatPeriods(content.periods)}</span>
-          ) : null}
-        </Text>
+            <span
+              dangerouslySetInnerHTML={{
+                __html: formatPeriods(content.periods),
+              }}
+            />
+          ) : // <span>{formatPeriods(content.periods)}</span>
+          null}
+        </Typography>
       )}
-      {content.link && (
-        <Button
-          component="a"
-          href={content.link}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Consulter
-        </Button>
-      )}
-      {content.content?.map((child, index) => (
-        <CardContent key={index} content={child} displayDates={displayDates} />
-      ))}
-    </Container>
+    </Card>
   );
 }

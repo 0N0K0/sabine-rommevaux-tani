@@ -11,12 +11,13 @@ export function Layout({
   footerContent,
 }: LayoutProps) {
   return (
-    <AppShell header={{ height: 102 }} footer={{ height: 60 }}>
+    <AppShell header={{ height: '120' }} footer={{ height: 60 }}>
       <AppShell.Header
         px="64"
         py="16"
         style={{
           textAlign: 'center',
+          border: 'none',
         }}
       >
         {headerContent}
@@ -29,7 +30,17 @@ export function Layout({
       >
         {mainContent}
       </AppShell.Main>
-      <AppShell.Footer px="xl">{footerContent}</AppShell.Footer>
+      <AppShell.Footer
+        px="64"
+        py="16"
+        style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(3, 1fr)',
+          alignItems: 'center',
+        }}
+      >
+        {footerContent}
+      </AppShell.Footer>
     </AppShell>
   );
 }

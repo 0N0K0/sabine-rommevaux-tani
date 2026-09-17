@@ -3,10 +3,17 @@ import { useDataFiles } from '../hooks/useDataFiles';
 import { PanelContent } from './PanelContent';
 import { IntroductionContent } from './IntroductionContent';
 
+import arabesque1 from '../assets/images/arabesque_1.svg';
+import arabesque2 from '../assets/images/arabesque_2.svg';
+import arabesque3 from '../assets/images/arabesque_3.svg';
+import arabesque4 from '../assets/images/arabesque_4.svg';
+
+const arabesques = [arabesque2, arabesque3, arabesque4];
+
 export function MainContent() {
   const { files, selected, data, loading, error, loadFile } = useDataFiles();
 
-  if (loading && !data) return <p>Chargement...</p>;
+  if (loading && !data) return null;
 
   if (error) return <p>{error.message}</p>;
 
@@ -26,9 +33,6 @@ export function MainContent() {
       <Tabs.List
         justify="center"
         style={{
-          // position: 'sticky',
-          // top: 0,
-          // zIndex: 10,
           background: 'white',
         }}
       >
@@ -54,34 +58,72 @@ export function MainContent() {
           gap: '48px',
         }}
       >
-        <IntroductionContent />
-      </Tabs.Panel>
-      {files.map((file) => (
-        <Tabs.Panel
-          key={file.name}
-          value={file.name}
-          px="64"
-          py="48"
+        <img
+          src={arabesque1}
+          alt=""
           style={{
-            height: 'calc(100vh - 102px - 60px - 36px)',
-            overflow: 'auto',
-            display: 'flex',
-            flexDirection: 'column',
-            gap: '48px',
+            height: '32px',
           }}
-        >
-          {loading ? (
-            <p>Chargement...</p>
-          ) : (
-            <>
-              <Title order={2} style={{ textAlign: 'center' }}>
-                {file.title}
-              </Title>
-              <PanelContent data={data} displayDates={file.displayDates} />
-            </>
-          )}
-        </Tabs.Panel>
-      ))}
+        />
+        <IntroductionContent />
+        <img
+          src={arabesque1}
+          alt=""
+          style={{
+            height: '32px',
+          }}
+        />
+      </Tabs.Panel>
+      {files.map((file, index) => {
+        const arabesque = arabesques[index % arabesques.length];
+
+        return (
+          <Tabs.Panel
+            key={file.name}
+            value={file.name}
+            px="64"
+            py="48"
+            style={{
+              height: 'calc(100vh - 102px - 60px - 36px)',
+              overflow: 'auto',
+              display: 'flex',
+              flexDirection: 'column',
+              gap: '48px',
+            }}
+          >
+            {loading ? null : (
+              <>
+                <div
+                  style={{
+                    display: 'flex',
+                    flexDirection: 'column',
+                    gap: '8px',
+                  }}
+                >
+                  <Title order={2} style={{ textAlign: 'center' }}>
+                    {file.title}
+                  </Title>
+                  <img
+                    src={arabesque}
+                    alt=""
+                    style={{
+                      height: '24px',
+                    }}
+                  />
+                </div>
+                <PanelContent data={data} displayDates={file.displayDates} />
+                <img
+                  src={arabesque}
+                  alt=""
+                  style={{
+                    height: '32px',
+                  }}
+                />
+              </>
+            )}
+          </Tabs.Panel>
+        );
+      })}
     </Tabs>
   );
 }

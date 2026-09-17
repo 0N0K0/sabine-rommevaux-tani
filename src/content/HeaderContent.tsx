@@ -33,14 +33,16 @@ export function HeaderContent() {
     loadHeader();
   }, []);
 
-  if (loading && !data) return <p>Chargement...</p>;
+  if (loading && !data) return null;
 
   if (error) return <p>{error.message}</p>;
 
   return (
     <>
-      <Title order={1}>{data.title}</Title>
-      <Text>
+      <a href="/" style={{ color: 'inherit', textDecoration: 'none' }}>
+        <Title order={1}>{data.title}</Title>
+      </a>
+      <Text size="18px">
         {data.content?.map((detail: Detail, index) => (
           <>
             {detail.link ? (
@@ -55,7 +57,9 @@ export function HeaderContent() {
               <span>{detail.value}</span>
             )}
 
-            {index < data.content!.length - 1 && ', '}
+            {index < data.content!.length - 1 && (
+              <span style={{ color: 'var(--mantine-color-gold-7)' }}> • </span>
+            )}
           </>
         ))}
       </Text>

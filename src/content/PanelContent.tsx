@@ -38,6 +38,7 @@ export function PanelContent({
           key={index}
           data={item as Data}
           displayDates={displayDates}
+          displayItemsLenght={true}
         />
       ))}
     </>

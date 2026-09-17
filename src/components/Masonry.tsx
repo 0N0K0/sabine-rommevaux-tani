@@ -26,7 +26,7 @@ export function Masonry({ children, cols = 6, gap = 16 }: MasonryProps) {
             minWidth: 0,
             display: 'flex',
             flexDirection: 'column',
-            gap,
+            gap: gap * 2,
           }}
         >
           {column.map((child, index) => (

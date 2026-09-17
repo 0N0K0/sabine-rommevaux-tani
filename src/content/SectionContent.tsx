@@ -10,12 +10,14 @@ interface SectionContentProps {
   data: Data;
   level?: TitleOrder;
   displayDates: Boolean;
+  displayItemsLenght: Boolean;
 }
 
 export function SectionContent({
   data,
   level = 3,
   displayDates,
+  displayItemsLenght,
 }: SectionContentProps) {
   const sections = data.content?.filter(isData) ?? [];
   const items = data.content?.filter((item) => !isData(item)) ?? [];
@@ -31,7 +33,16 @@ export function SectionContent({
         marginInline: 'auto',
       }}
     >
-      {data.title && <Title order={level}>{data.title}</Title>}
+      {data.title && (
+        <Title order={level}>
+          {data.title}
+          {displayItemsLenght ? (
+            <span style={{ fontSize: '24px' }}> ({items.length})</span>
+          ) : (
+            ''
+          )}
+        </Title>
+      )}
 
       {sections.map((item, index) => (
         <SectionContent
@@ -39,6 +50,7 @@ export function SectionContent({
           data={item}
           level={Math.min(level + 1, 6) as TitleOrder}
           displayDates={displayDates}
+          displayItemsLenght={displayItemsLenght}
         />
       ))}
 

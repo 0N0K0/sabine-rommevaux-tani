@@ -45,11 +45,11 @@ function parseDate(value: string): ParsedDate {
 function formatDate(date: ParsedDate): string {
   if (date.day && date.month) {
     const day = date.day === 1 ? '1er' : date.day;
-    return `${day} ${MONTHS[date.month - 1]} ${date.year}`;
+    return `${day}&nbsp;${MONTHS[date.month - 1]}&nbsp;${date.year}`;
   }
 
   if (date.month) {
-    return `${MONTHS[date.month - 1]} ${date.year}`;
+    return `${MONTHS[date.month - 1]}&nbsp;${date.year}`;
   }
 
   return `${date.year}`;
@@ -61,10 +61,10 @@ function joinWithAnd(items: string[]): string {
   }
 
   if (items.length === 2) {
-    return `${items[0]} et ${items[1]}`;
+    return `${items[0]} et&nbsp;${items[1]}`;
   }
 
-  return `${items.slice(0, -1).join(', ')} et ${items.at(-1)}`;
+  return `${items.slice(0, -1).join(', ')} et&nbsp;${items.at(-1)}`;
 }
 
 export function formatDates(values: string[]): string {
@@ -74,7 +74,7 @@ export function formatDates(values: string[]): string {
     const date = dates[0];
 
     if (date.day) {
-      return `le ${formatDate(date)}`;
+      return `le&nbsp;${formatDate(date)}`;
     }
 
     return formatDate(date);
@@ -92,9 +92,9 @@ export function formatDates(values: string[]): string {
       date.day === 1 ? '1er' : date.day!.toString(),
     );
 
-    return `les ${joinWithAnd(days)} ${
+    return `les&nbsp;${joinWithAnd(days)}&nbsp;${
       MONTHS[dates[0].month! - 1]
-    } ${dates[0].year}`;
+    }&nbsp;${dates[0].year}`;
   }
 
   // Même année, avec des jours
@@ -104,30 +104,30 @@ export function formatDates(values: string[]): string {
     const formatted = dates.map((date) => {
       const day = date.day === 1 ? '1er' : date.day;
 
-      return date.month ? `${day} ${MONTHS[date.month - 1]}` : `${day}`;
+      return date.month ? `${day}&nbsp;${MONTHS[date.month - 1]}` : `${day}`;
     });
 
-    return `les ${joinWithAnd(formatted)} ${dates[0].year}`;
+    return `les&nbsp;${joinWithAnd(formatted)}&nbsp;${dates[0].year}`;
   }
 
   // Cas général : mois ou années différents
   const formatted = joinWithAnd(dates.map(formatDate));
 
-  return hasDays ? `les ${formatted}` : formatted;
+  return hasDays ? `les&nbsp;${formatted}` : formatted;
 }
 export function formatPeriod(startValue: string, endValue?: string): string {
   const start = parseDate(startValue);
 
   if (!endValue) {
     if (start.day && start.month) {
-      return `depuis le ${formatDate(start)}`;
+      return `depuis&nbsp;le&nbsp;${formatDate(start)}`;
     }
 
     if (start.month) {
-      return `depuis ${formatDate(start)}`;
+      return `depuis&nbsp;${formatDate(start)}`;
     }
 
-    return `depuis ${start.year}`;
+    return `depuis&nbsp;${start.year}`;
   }
 
   const end = parseDate(endValue);
@@ -139,25 +139,25 @@ export function formatPeriod(startValue: string, endValue?: string): string {
     start.month === end.month &&
     start.year === end.year
   ) {
-    return `du ${start.day} au ${end.day} ${MONTHS[start.month! - 1]} ${start.year}`;
+    return `du&nbsp;${start.day}&nbsp;au&nbsp;${end.day}&nbsp;${MONTHS[start.month! - 1]}&nbsp;${start.year}`;
   }
 
   // 12/06/2025 → 18/07/2025
   if (start.day && end.day && start.year === end.year) {
-    return `du ${start.day} ${MONTHS[start.month! - 1]} au ${end.day} ${MONTHS[end.month! - 1]} ${end.year}`;
+    return `du&nbsp;${start.day}&nbsp;${MONTHS[start.month! - 1]}&nbsp;au&nbsp;${end.day}&nbsp;${MONTHS[end.month! - 1]}&nbsp;${end.year}`;
   }
 
   // 06/2025 → 07/2025
   if (start.month && end.month && start.year === end.year) {
-    return `de ${MONTHS[start.month - 1]} à ${MONTHS[end.month - 1]} ${start.year}`;
+    return `de&nbsp;${MONTHS[start.month - 1]}&nbsp;à&nbsp;${MONTHS[end.month - 1]}&nbsp;${start.year}`;
   }
 
   // 2002 → 2004
   if (!start.month && !end.month) {
-    return `de ${start.year} à ${end.year}`;
+    return `de&nbsp;${start.year}&nbsp;à&nbsp;${end.year}`;
   }
 
-  return `de ${formatDate(start)} à ${formatDate(end)}`;
+  return `de&nbsp;${formatDate(start)}&nbsp;à&nbsp;${formatDate(end)}`;
 }
 
 export function formatPeriods(
