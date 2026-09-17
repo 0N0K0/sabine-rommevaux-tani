@@ -77,44 +77,44 @@ export function formatDates(values: string[]): string {
       return `le ${formatDate(date)}`;
     }
 
-    if (date.month) {
-      return `en ${formatDate(date)}`;
-    }
-
-    return `en ${date.year}`;
+    return formatDate(date);
   }
 
-  // Toutes les dates ont un jour, un même mois et une même année
+  const hasDays = dates.every((date) => date.day !== undefined);
+
+  // Même mois + même année
   const sameMonthAndYear = dates.every(
     (date) => date.month === dates[0].month && date.year === dates[0].year,
   );
 
-  if (sameMonthAndYear && dates.every((date) => date.day)) {
-    const days = dates.map((date) => date.day!.toString());
+  if (hasDays && sameMonthAndYear) {
+    const days = dates.map((date) =>
+      date.day === 1 ? '1er' : date.day!.toString(),
+    );
 
-    return `les ${joinWithAnd(days)} ${MONTHS[dates[0].month! - 1]} ${dates[0].year}`;
+    return `les ${joinWithAnd(days)} ${
+      MONTHS[dates[0].month! - 1]
+    } ${dates[0].year}`;
   }
 
-  // Toutes les dates ont un jour et une même année
-  const sameYear = dates.every(
-    (date) => date.year === dates[0].year && date.day !== undefined,
-  );
+  // Même année, avec des jours
+  const sameYear = dates.every((date) => date.year === dates[0].year);
 
-  if (sameYear) {
+  if (hasDays && sameYear) {
     const formatted = dates.map((date) => {
-      if (date.month) {
-        return `${date.day} ${MONTHS[date.month - 1]}`;
-      }
+      const day = date.day === 1 ? '1er' : date.day;
 
-      return `${date.day}`;
+      return date.month ? `${day} ${MONTHS[date.month - 1]}` : `${day}`;
     });
 
     return `les ${joinWithAnd(formatted)} ${dates[0].year}`;
   }
 
-  return `les ${joinWithAnd(dates.map(formatDate))}`;
-}
+  // Cas général : mois ou années différents
+  const formatted = joinWithAnd(dates.map(formatDate));
 
+  return hasDays ? `les ${formatted}` : formatted;
+}
 export function formatPeriod(startValue: string, endValue?: string): string {
   const start = parseDate(startValue);
 
