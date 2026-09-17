@@ -4,3 +4,12 @@
 body {
   background-color: hsl(45, 50%, 98%);
 }
+
+.intro-first-paragraph::first-letter {
+  float: left;
+  font-family: 'Plain Germanica', serif;
+  font-size: 4.5rem;
+  line-height: 0.8;
+  padding-right: 0.1em;
+  padding-top: 0.08em;
+}

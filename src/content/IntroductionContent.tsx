@@ -82,6 +82,9 @@ export function IntroductionContent() {
                 {(item as Introduction).intro.map((paragraph, index) => (
                   <p
                     key={index}
+                    className={
+                      index === 0 ? 'intro-first-paragraph' : undefined
+                    }
                     dangerouslySetInnerHTML={{ __html: paragraph }}
                     style={{
                       fontSize: index === 0 ? '20px' : '16px',
