@@ -14,7 +14,7 @@ interface SectionContentProps {
 
 export function SectionContent({
   data,
-  level = 2,
+  level = 3,
   displayDates,
 }: SectionContentProps) {
   const sections = data.content?.filter(isData) ?? [];
@@ -34,7 +34,7 @@ export function SectionContent({
       ))}
 
       {items.length > 0 && (
-        <Masonry cols={4} gap={16}>
+        <Masonry cols={Math.min(items.length, 4)} gap={16}>
           {items.map((item, index) => (
             <CardContent
               key={index}

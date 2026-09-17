@@ -3,7 +3,7 @@ import type { File, DataIndex, Data, Content } from '../types/data';
 
 export function useDataFiles() {
   const [files, setFiles] = useState<File[]>([]);
-  const [selected, setSelected] = useState<string | null>(null);
+  const [selected, setSelected] = useState<string>('introduction');
   const [data, setData] = useState<Data[] | Content[] | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<Error | null>(null);
