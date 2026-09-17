@@ -74,7 +74,9 @@ export function MainContent() {
             <p>Chargement...</p>
           ) : (
             <>
-              <Title order={2}>{file.title}</Title>
+              <Title order={2} style={{ textAlign: 'center' }}>
+                {file.title}
+              </Title>
               <PanelContent data={data} displayDates={file.displayDates} />
             </>
           )}
