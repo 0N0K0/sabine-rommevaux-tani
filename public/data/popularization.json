@@ -46,17 +46,6 @@
             "link": "https://www.facebook.com/espacelacroixdavids/posts/899514955199817/"
           }
         ]
-      }
-    ]
-  },
-  {
-    "tile": "Atelier",
-    "content": [
-      {
-        "dates": ["24/11/2024"],
-        "place": "CAP Sciences, Bordeaux",
-        "label": "Animatrice de l'atelier « Le Bureau des enquêtes »",
-        "details": [{ "link": "https://www.cap-sciences.net/" }]
       },
       {
         "dates": ["07/03/2026"],
@@ -67,6 +56,17 @@
             "value": "Les outils à disposition de l'historien pour étudier l'enseignement de la géométrie à l'université de Paris au Moyen Age"
           }
         ]
+      }
+    ]
+  },
+  {
+    "title": "Ateliers",
+    "content": [
+      {
+        "dates": ["24/11/2024"],
+        "place": "CAP Sciences, Bordeaux",
+        "label": "Animatrice de l'atelier « Le Bureau des enquêtes »",
+        "details": [{ "link": "https://www.cap-sciences.net/" }]
       }
     ]
   },
