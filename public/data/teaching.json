@@ -143,24 +143,24 @@
     "content": [
       {
         "dates": ["2013"],
+        "place": "Université de Paris Diderot",
         "details": [
           { "key": "Encadrement de", "value": "Martin Muffato" },
           { "value": "M2 Recherche Histoire et philosophie des sciences" },
-          { "value": "Université de Paris Diderot" },
           {
-            "key": "Mémoire",
+            "key": "Mémoire :",
             "value": "Étude du <i>Traité des quantitez incomensurables</i> de Jacques-Alexandre Le Tenneur (1640), comme réponse à l'Arithmétique de Simon Stevin"
           }
         ]
       },
       {
         "dates": ["2018"],
+        "place": "Université de Paris Diderot",
         "details": [
           { "key": "Encadrement de", "value": "Alessandra Scorcia" },
           { "value": "M2 Recherche Histoire et philosophie des sciences" },
-          { "value": "Université de Paris Diderot" },
           {
-            "key": "Mémoire",
+            "key": "Mémoire :",
             "value": "L'apport mathématique de Piero della Francesca à la tradition latine d'Archimède. Étude philologique et mathématique du traité De spiralibus révisé par Piero della Francesca"
           }
         ]
@@ -178,7 +178,7 @@
             "value": "Philippe Debroise"
           },
           {
-            "key": "Sujet",
+            "key": "Sujet : ",
             "value": "Mathématiques de l'intensité et Merveilles de la nature. Étude sur le <i>Tractatus de configurationibus qualitatum et motuum</i> de Nicole Oresme"
           }
         ]
@@ -191,7 +191,7 @@
             "value": "Nadiejda Tamitegama"
           },
           {
-            "key": "Sujet",
+            "key": "Sujet : ",
             "value": "De elementis arithmetice artis de Jordanus"
           },
           { "value": "Soutenance prévue en 2027" }
