@@ -1,16 +1,11 @@
-import { Document, Page, Text, View } from '@react-pdf/renderer';
-import { styles } from './style';
-import { Header } from './Header';
+import { Document } from '@react-pdf/renderer';
+import { Layout } from './Layout';
+import { Cover } from './Cover';
 
 export const CV = () => (
   <Document>
-    <Page size="A4" style={styles.page}>
-      <Header />
-
-      <View>
-        <Text>Bonjour Onoko !</Text>
-        <Text>Voici mon PDF généré avec React.</Text>
-      </View>
-    </Page>
+    <Layout>
+      <Cover />
+    </Layout>
   </Document>
 );
