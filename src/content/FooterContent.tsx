@@ -1,4 +1,5 @@
 import { Anchor, Text } from '@mantine/core';
+import { Link } from 'react-router-dom';
 
 export function FooterContent() {
   const currentYear = new Date().getFullYear();
@@ -9,12 +10,16 @@ export function FooterContent() {
         ©2026{currentYear !== 2026 ? currentYear : ''} Sabine Rommevaux-Tani
         Tous droits réservés.
       </Text>
-      <Anchor href="/mentions-legales" style={{ textAlign: 'center' }}>
+      <Anchor
+        component={Link}
+        to="/mentions-legales"
+        style={{ textAlign: 'center' }}
+      >
         Mentions légales
       </Anchor>
       <Text size="xs" style={{ textAlign: 'right' }}>
         Site réalisé par{' '}
-        <Anchor href="https://onoko.dev" target="_blank">
+        <Anchor component={Link} to="https://onoko.dev" target="_blank">
           Onoko
         </Anchor>
       </Text>

@@ -1,6 +1,7 @@
 import { Anchor, Button, Text, Title } from '@mantine/core';
 import { useEffect, useState } from 'react';
 import type { Data, Detail } from '../types/data';
+import { Link } from 'react-router-dom';
 
 export function HeaderContent() {
   const [data, setData] = useState<Data>({});
@@ -77,8 +78,8 @@ export function HeaderContent() {
           radius="xs"
           size="sm"
           style={{ width: '100%' }}
-          component="a"
-          href="mailto:sabine.rommevaux-tani@cnrs.fr"
+          component={Link}
+          to="mailto:sabine.rommevaux-tani@cnrs.fr"
         >
           Me Contacter
         </Button>
@@ -86,8 +87,8 @@ export function HeaderContent() {
           radius="xs"
           size="sm"
           style={{ width: '100%' }}
-          component="a"
-          href="/pdf-preview"
+          component={Link}
+          to="/pdf-preview"
           target="_blank"
         >
           Télécharger mon CV
