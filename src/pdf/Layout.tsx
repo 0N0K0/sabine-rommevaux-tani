@@ -4,9 +4,15 @@ import { Header } from './Header';
 import { Footer } from './Footer';
 import type { ReactNode } from 'react';
 
-export const Layout = ({ children }: { children: ReactNode }) => (
+export const Layout = ({
+  header,
+  children,
+}: {
+  header: Boolean;
+  children: ReactNode;
+}) => (
   <Page size="A4" style={styles.page}>
-    <Header />
+    {header && <Header />}
     {children}
     <Footer />
   </Page>

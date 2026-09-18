@@ -20,6 +20,7 @@
   },
   {
     "title": "Domaines de recherche",
+    "ordered": false,
     "content": [
       {
         "label": "Histoire des mathématiques du Moyen Âge latin et de la Renaissance",

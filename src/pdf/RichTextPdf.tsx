@@ -48,8 +48,6 @@ function convertHtmlNode(node: HtmlNode): PdfNode | null {
 function htmlToPdfNodes(html: string): PdfNode[] {
   const document = parseDocument(html);
 
-  // On convertit explicitement les nœuds du parser
-  // vers notre structure HTMLNode.
   const nodes: HtmlNode[] = document.children as unknown as HtmlNode[];
 
   return nodes
@@ -70,7 +68,11 @@ function renderPdfNode(node: PdfNode, index: number): React.ReactNode {
     case 'strong':
     case 'b':
       return (
-        <Text key={index} style={{ fontWeight: 700 }}>
+        <Text
+          key={index}
+          style={{ fontWeight: 500 }}
+          hyphenationPenalty={Infinity}
+        >
           {children}
         </Text>
       );
@@ -78,23 +80,39 @@ function renderPdfNode(node: PdfNode, index: number): React.ReactNode {
     case 'em':
     case 'i':
       return (
-        <Text key={index} style={{ fontStyle: 'italic' }}>
+        <Text
+          key={index}
+          style={{ fontStyle: 'italic' }}
+          hyphenationPenalty={Infinity}
+        >
           {children}
         </Text>
       );
 
     case 'u':
       return (
-        <Text key={index} style={{ textDecoration: 'underline' }}>
+        <Text
+          key={index}
+          style={{ textDecoration: 'underline' }}
+          hyphenationPenalty={Infinity}
+        >
           {children}
         </Text>
       );
 
     case 'br':
-      return <Text key={index}>{'\n'}</Text>;
+      return (
+        <Text key={index} hyphenationPenalty={Infinity}>
+          {'\n'}
+        </Text>
+      );
 
     default:
-      return <Text key={index}>{children}</Text>;
+      return (
+        <Text key={index} hyphenationPenalty={Infinity}>
+          {children}
+        </Text>
+      );
   }
 }
 
@@ -107,7 +125,7 @@ export function RichTextPdf({ html, style }: RichTextPdfProps) {
   const nodes = htmlToPdfNodes(html);
 
   return (
-    <Text style={style}>
+    <Text style={style} hyphenationPenalty={Infinity}>
       {nodes.map((node: PdfNode, index: number) => renderPdfNode(node, index))}
     </Text>
   );

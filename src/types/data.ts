@@ -31,6 +31,8 @@ export interface Content {
 
 export interface Data {
   title?: string;
+  break?: boolean;
+  ordered?: boolean;
   content?: Content[] | Data[];
 }
 

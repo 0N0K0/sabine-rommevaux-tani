@@ -3,12 +3,15 @@ import { styles, type HeadingLevel } from './style';
 import type { Content, Data } from '../types/data';
 import { isData } from '../types/guards';
 import { Item } from './Item';
+import { OrderedList } from './OrderedList';
+import { UnorderedList } from './UnorderedList';
 
 interface SectionProps {
   data: Data;
   level?: HeadingLevel;
   displayDates: Boolean;
   displayItemsLenght: Boolean;
+  id?: string;
 }
 
 export function Section({
@@ -16,16 +19,16 @@ export function Section({
   level = 3,
   displayDates,
   displayItemsLenght,
+  id,
 }: SectionProps) {
   const sections = data.content?.filter(isData) ?? [];
   const items = data.content?.filter((item) => !isData(item)) ?? [];
 
   return (
-    <View>
+    <View style={styles.contentView} break={data.break || false} id={id}>
       {data.title && (
-        <Text style={styles[`h${level}`]}>
+        <Text style={styles[`h${level}`]} hyphenationPenalty={Infinity}>
           {data.title}
-          {displayItemsLenght ? ' (' + items.length + ')' : ''}
         </Text>
       )}
 
@@ -39,17 +42,28 @@ export function Section({
         />
       ))}
 
-      {items.length > 0 && (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
-          {items.map((item, index) => (
-            <Item
-              key={index}
-              content={item as Content}
-              displayDates={displayDates}
-            />
-          ))}
-        </div>
-      )}
+      {items.length > 0 &&
+        (data.ordered ? (
+          <OrderedList
+            items={items.map((item, index) => (
+              <Item
+                key={index}
+                content={item as Content}
+                displayDates={displayDates}
+              />
+            ))}
+          />
+        ) : (
+          <UnorderedList
+            items={items.map((item, index) => (
+              <Item
+                key={index}
+                content={item as Content}
+                displayDates={displayDates}
+              />
+            ))}
+          />
+        ))}
     </View>
   );
 }

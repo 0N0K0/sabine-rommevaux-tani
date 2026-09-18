@@ -1,11 +1,14 @@
-import { Anchor, Text, Title } from '@mantine/core';
+import { Anchor, Button, Text, Title } from '@mantine/core';
 import { useEffect, useState } from 'react';
 import type { Data, Detail } from '../types/data';
+import { BlobProvider } from '@react-pdf/renderer';
+import { CV } from '../pdf/CV';
 
 export function HeaderContent() {
   const [data, setData] = useState<Data>({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<Error | null>(null);
+  const [generatePdf, setGeneratePdf] = useState(false);
 
   useEffect(() => {
     async function loadHeader() {
@@ -63,6 +66,36 @@ export function HeaderContent() {
           </>
         ))}
       </Text>
+      <div
+        style={{
+          display: 'flex',
+          flexDirection: 'column',
+          position: 'absolute',
+          right: '64px',
+          top: '36px',
+        }}
+      >
+        <Button
+          variant="outline"
+          radius="xs"
+          size="sm"
+          style={{ width: '100%' }}
+          component="a"
+          href="mailto:sabine.rommevaux-tani@cnrs.fr"
+        >
+          Me Contacter
+        </Button>
+        <Button
+          radius="xs"
+          size="sm"
+          style={{ width: '100%' }}
+          component="a"
+          href="/pdf-preview"
+          target="_blank"
+        >
+          Télécharger mon CV
+        </Button>
+      </div>
     </>
   );
 }

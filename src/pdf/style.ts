@@ -17,11 +17,6 @@ import MontserratExtraBold from '../assets/fonts/Montserrat-ExtraBold.ttf';
 import MontserratExtraBoldItalic from '../assets/fonts/Montserrat-ExtraBoldItalic.ttf';
 import MontserratBlack from '../assets/fonts/Montserrat-Black.ttf';
 import MontserratBlackItalic from '../assets/fonts/Montserrat-BlackItalic.ttf';
-import CormorantUnicaseLight from '../assets/fonts/CormorantUnicase-Light.ttf';
-import CormorantUnicaseRegular from '../assets/fonts/CormorantUnicase-Regular.ttf';
-import CormorantUnicaseMedium from '../assets/fonts/CormorantUnicase-Medium.ttf';
-import CormorantUnicaseSemiBold from '../assets/fonts/CormorantUnicase-SemiBold.ttf';
-import CormorantUnicaseBold from '../assets/fonts/CormorantUnicase-Bold.ttf';
 
 Font.register({
   family: 'Montserrat',
@@ -110,32 +105,6 @@ Font.register({
   ],
 });
 
-Font.register({
-  family: 'Cormorant Unicase',
-  fonts: [
-    {
-      src: CormorantUnicaseLight,
-      fontWeight: 300,
-    },
-    {
-      src: CormorantUnicaseRegular,
-      fontWeight: 400,
-    },
-    {
-      src: CormorantUnicaseMedium,
-      fontWeight: 500,
-    },
-    {
-      src: CormorantUnicaseSemiBold,
-      fontWeight: 600,
-    },
-    {
-      src: CormorantUnicaseBold,
-      fontWeight: 700,
-    },
-  ],
-});
-
 export type HeadingLevel = 1 | 2 | 3 | 4;
 
 export const styles = StyleSheet.create({
@@ -146,7 +115,6 @@ export const styles = StyleSheet.create({
     paddingRight: '2.5cm',
     fontFamily: 'Montserrat',
     fontSize: 12,
-    textAlign: 'justify',
   },
 
   header: {
@@ -168,39 +136,57 @@ export const styles = StyleSheet.create({
     textAlign: 'right',
   },
 
+  firstPageView: {
+    flexDirection: 'column',
+    gap: '24',
+    justifyContent: 'flex-end',
+    height: '100%',
+  },
+
+  pageView: {
+    flexDirection: 'column',
+    gap: '24',
+  },
+
+  contentView: {
+    flexDirection: 'column',
+    gap: '12',
+  },
+
+  intro: {
+    textIndent: 24,
+    textAlign: 'justify',
+  },
+
   h1: {
-    fontFamily: 'Cormorant Unicase',
     fontSize: 27,
+    textAlign: 'center',
   },
 
   h2: {
-    fontFamily: 'Cormorant Unicase',
     fontSize: 24,
   },
 
   h3: {
-    fontFamily: 'Cormorant Unicase',
     fontSize: 21,
   },
 
   h4: {
-    fontFamily: 'Cormorant Unicase',
     fontSize: 18,
   },
 
   h5: {
-    fontFamily: 'Cormorant Unicase',
     fontSize: 15,
   },
 
   h6: {
-    fontFamily: 'Cormorant Unicase',
     fontSize: 12,
   },
 
   list: {
     flexDirection: 'column',
     width: '100%',
+    gap: 6,
   },
 
   listItem: {
