@@ -283,7 +283,7 @@
       {
         "dates": ["12/1994"],
         "place": "Hammamet",
-        "label": "Les débats autour de la définition de la proportionnalité du livre V des <i>Eléments</i> d'Euclide dans les traditions arabe et latine du x<sup>e</sup> au xvii<sup>e</sup> siècle",
+        "label": "Les débats autour de la définition de la proportionnalité du livre V des <i>Eléments</i> d'Euclide dans les traditions arabe et latine du X<sup>e</sup> au XVII<sup>e</sup> siècle",
         "details": [
           {
             "value": "Cinquième colloque maghrébin sur l'histoire des mathématiques"
@@ -347,7 +347,7 @@
         "label": "Le <i>De continuo</i> de Thomas Bradwardine : ouvrage mathématique ou de philosophie naturelle ?",
         "details": [
           {
-            "value": "Colloque international « Formes d’articulation entre mathématiques et philosophie naturelle (xiv<sup>e</sup> – xvi<sup>e</sup> siècles)"
+            "value": "Colloque international « Formes d’articulation entre mathématiques et philosophie naturelle (XIV<sup>e</sup> – XVI<sup>e</sup> siècles)"
           }
         ]
       },
@@ -364,7 +364,7 @@
       {
         "periods": [{ "startDate": "18/10/2007", "endDate": "21/10/2007" }],
         "place": "Grenade",
-        "label": "Objets mathématiques, objets physiques dans des traités du xive et du xve siècles",
+        "label": "Objets mathématiques, objets physiques dans des traités du XIV<sup>e</sup> et du XV<sup>e</sup> siècles",
         "details": [
           {
             "value": "Colloque final du programme « From Natural Philosophy to Science » de l’ESF"
@@ -384,7 +384,7 @@
       {
         "periods": [{ "startDate": "03/06/2008", "endDate": "07/06/2008" }],
         "place": "Villejuif",
-        "label": "Types de démonstration des des traités de philosophie naturelle des XIV<sup>e</sup> et XV<sup>e</sup> siècles",
+        "label": "Types de démonstration des traités de philosophie naturelle des XIV<sup>e</sup> et XV<sup>e</sup> siècles",
         "details": [
           {
             "value": "Colloque «&nbsp;Démonstration&nbsp;»"
@@ -412,7 +412,7 @@
         "details": [
           {
             "key": "dans",
-            "value": "<i>Sciences et langues au Moyen Âge</i>, atelier franco&#8209;allemand, organisé par Joëlle Ducos et Raymund Wilhelm"
+            "value": "<i>Sciences et langues au Moyen Âge</i>, atelier franco&#8209;allemand"
           },
           {
             "key": "organisé par",
@@ -751,11 +751,11 @@
         "label": "L'irrationnalité dans la recension des <i>Éléments</i> de Campanus",
         "details": [
           {
-            "key": "organisé par",
-            "value": "Sabine Rommevaux"
+            "value": "Séminaire d’Histoire des mathématiques"
           },
           {
-            "value": "Séminaire d’Histoire des mathématiques"
+            "key": "organisé par",
+            "value": "Sabine Rommevaux"
           }
         ]
       },
@@ -1347,11 +1347,11 @@
         "label": "Les rôles des figures dans l’Arithmetica Integra de Michael Stifel (1544)",
         "details": [
           {
-            "key": "en collaboration avec",
-            "value": "Odile Kouteynikoff"
+            "value": "Séminaire d’histoire des mathématiques à la Renaissance"
           },
           {
-            "value": "Séminaire d’histoire des mathématiques à la Renaissance"
+            "key": "en collaboration avec",
+            "value": "Odile Kouteynikoff"
           }
         ]
       },

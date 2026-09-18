@@ -65,7 +65,7 @@
           },
           {
             "key": "<i>in</i>",
-            "value": "Joël Biard et Sabine Rommevaux, <i>La question de Blaise de Parme sur le contact entre une sphère et un plan</i>, Early Science and Medicine, 14 (2009), p.&nbsp;505&#8209;538",
+            "value": "Joël Biard et Sabine Rommevaux, « La question de Blaise de Parme sur le contact entre une sphère et un plan », <i>Early Science and Medicine</i>, 14 (2009), p.&nbsp;505&#8209;538",
             "link": "https://brill.com/view/journals/esm/14/4/article-p476_3.xml?srsltid=AfmBOop02pFQS6WYY7EbBmQoRIyOStsgDtxbLXk8iReknq5DXb3ZKkv7"
           }
         ]
@@ -161,7 +161,7 @@
       },
       {
         "dates": ["2010"],
-        "label": "Thomas Bradwardine, <i>Traité sur les rapports entre les mouvements</i>, suivi de Nicole Oresme, <i>Sur les rapports de rapports</i>, Paris, Les Belles Lettres",
+        "label": "Thomas Bradwardine, <i>Traité sur les rapports entre les mouvements</i>, suivi de Nicole Oresme, <i>Sur les rapports de rapports</i>, Paris, Les Belles Lettres (2010)",
         "link": "https://www.lesbelleslettres.com/livre/9782251181097/traite-des-rapports-entre-les-rapidites-dans-les-mouvements-suivi-de-sur-les-rapports-de-rapports",
         "details": [
           {
@@ -186,7 +186,7 @@
       },
       {
         "dates": ["2008"],
-        "label": "en collaboration avec Joël Biard (éds.), <i>Mathématiques et théorie du mouvement (xiv<sup>e</sup>&#8209;xvi<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008)",
+        "label": "en collaboration avec Joël Biard (éds.), <i>Mathématiques et théorie du mouvement (XIV<sup>e</sup>&#8209;XVI<sup>e</sup> siècles)</i>, Villeneuve d’Ascq, Presses universitaires du Septentrion (2008)",
         "link": "https://www.septentrion.com/fr/book/?GCOI=27574100820910"
       },
       {
@@ -297,7 +297,7 @@
       },
       {
         "dates": ["2012"],
-        "label": "« Christoph Clavius, un promoteur des mathématiques à la Renaissance », <i>Seizièm<sup>e</sup> siècle</i>, 8 (2012), p.&nbsp;127&#8209;140",
+        "label": "« Christoph Clavius, un promoteur des mathématiques à la Renaissance », <i>Seizième siècle</i>, 8 (2012), p.&nbsp;127&#8209;140",
         "link": "https://www.persee.fr/doc/xvi_1774-4466_2012_num_8_1_1047"
       },
       {
@@ -588,7 +588,7 @@
       },
       {
         "dates": ["1998 "],
-        "label": "« Les débats autour de la définition de la proportionnalité du livre V des <i>Eléments</i> d'Euclide dans les traditions arabe et latine du xe au xvii<sup>e</sup> siècle »",
+        "label": "« Les débats autour de la définition de la proportionnalité du livre V des <i>Eléments</i> d'Euclide dans les traditions arabe et latine du xe au XVII<sup>e</sup> siècle »",
         "details": [
           {
             "key": "Publié sous le nom de",
@@ -602,7 +602,7 @@
       },
       {
         "dates": ["2006"],
-        "label": "« Les paradoxes de la mathématisation du continu au xiv<sup>e</sup> siècle »",
+        "label": "« Les paradoxes de la mathématisation du continu au XIV<sup>e</sup> siècle »",
         "details": [
           {
             "key": "<i>in</i>",
@@ -612,7 +612,7 @@
       },
       {
         "dates": ["2012"],
-        "label": "« La constitution d’un vocabulaire mathématique dans les traductions des éléments d’Euclide du xiie siècle »",
+        "label": "« La constitution d’un vocabulaire mathématique dans les traductions des éléments d’Euclide du XIIIe siècle »",
         "details": [
           {
             "key": "<i>in</i>",
@@ -655,7 +655,7 @@
       },
       {
         "dates": ["2026"],
-        "label": "« L’enseignement de la géométrie des figures planes à l’université de Paris aux xiiie et xiv<sup>e</sup> siècles »",
+        "label": "« L’enseignement de la géométrie des figures planes à l’université de Paris aux XIII<sup>e</sup> et XIV<sup>e</sup> siècles »",
         "details": [
           {
             "key": "<i>in</i>",
@@ -670,6 +670,9 @@
           {
             "key": "<i>in</i>",
             "value": "Charles Girard et Parwana Emamzadah (éds), <i>The Philosophy of Radulphus Brito</i>, Turnhout, Brepols"
+          },
+          {
+            "value": "à&nbsp;paraître"
           }
         ]
       }
