@@ -1,10 +1,7 @@
 import { Title, type TitleOrder } from '@mantine/core';
-
 import type { Content, Data } from '../types/data';
 import { isData } from '../types/guards';
-
 import { CardContent } from './CardContent';
-import { Masonry } from '../components/Masonry';
 
 interface SectionContentProps {
   data: Data;
