@@ -1,19 +1,17 @@
-import { FooterContent } from './content/FooterContent';
-import { HeaderContent } from './content/HeaderContent';
-import { MainContent } from './content/MainContent';
-import { Layout } from './layout/layout';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Home from './pages/Home';
+import MentionsLegales from './pages/MentionsLegales';
+import { PdfPreview } from './pages/PdfPreview';
 
-/**
- * Root application component.
- * @returns {JSX.Element} App markup.
- */
 function App() {
   return (
-    <Layout
-      headerContent={<HeaderContent />}
-      mainContent={<MainContent />}
-      footerContent={<FooterContent />}
-    />
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/mentions-legales" element={<MentionsLegales />} />
+        <Route path="/pdf-preview" element={<PdfPreview />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
