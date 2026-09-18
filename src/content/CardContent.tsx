@@ -1,6 +1,7 @@
 import { Button, Card, Text, Typography } from '@mantine/core';
 import type { Content } from '../types/data';
 import { formatDates, formatPeriods } from '../helpers/helpers';
+import { Link } from 'react-router-dom';
 
 export function CardContent({
   content,
@@ -61,8 +62,8 @@ export function CardContent({
               {detail.value && <br />}
               <Button
                 radius="xs"
-                component="a"
-                href={detail.link}
+                component={Link}
+                to={detail.link}
                 target="_blank"
                 rel="noopener noreferrer"
                 mt="8px"
@@ -79,8 +80,8 @@ export function CardContent({
       {content.link && (
         <Button
           radius="xs"
-          component="a"
-          href={content.link}
+          component={Link}
+          to={content.link}
           target="_blank"
           rel="noopener noreferrer"
           mt="8px"
