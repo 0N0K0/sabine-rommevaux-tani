@@ -13,8 +13,8 @@ export function CardContent({
     <Card
       display="flex"
       style={{ flexDirection: 'column', gap: '8px' }}
-      px="lg"
-      py="xl"
+      px="xl"
+      py="lg"
       radius="xs"
     >
       {content.label && (

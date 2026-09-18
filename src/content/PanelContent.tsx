@@ -18,8 +18,19 @@ export function PanelContent({
   const isMasonry = !isData(data[0]);
 
   if (isMasonry) {
+    // return (
+    //   <Masonry cols={4} gap={16}>
+    //     {data.map((item, index) => (
+    //       <CardContent
+    //         key={index}
+    //         content={item as Content}
+    //         displayDates={displayDates}
+    //       />
+    //     ))}
+    //   </Masonry>
+    // );
     return (
-      <Masonry cols={4} gap={16}>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
         {data.map((item, index) => (
           <CardContent
             key={index}
@@ -27,7 +38,7 @@ export function PanelContent({
             displayDates={displayDates}
           />
         ))}
-      </Masonry>
+      </div>
     );
   }
 
