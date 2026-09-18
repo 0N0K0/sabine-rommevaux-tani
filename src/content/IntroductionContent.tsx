@@ -98,24 +98,6 @@ export function IntroductionContent() {
                 ))}
               </Typography>
             )}
-            <BlobProvider document={<CV />}>
-              {({ url, loading }) => (
-                <Button
-                  loading={loading}
-                  disabled={!url}
-                  onClick={() => {
-                    if (url) {
-                      window.open(url, '_blank');
-                    }
-                  }}
-                  radius="xs"
-                  size="lg"
-                  style={{ marginInline: 'auto' }}
-                >
-                  Télécharger mon CV
-                </Button>
-              )}
-            </BlobProvider>
           </section>
         );
       })}

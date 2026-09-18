@@ -1,6 +1,7 @@
 [
   {
     "title": "Participation à des instances collectives",
+    "ordered": true,
     "content": [
       {
         "periods": [{ "startDate": "2000", "endDate": "2005" }],
@@ -50,7 +51,7 @@
 
       {
         "periods": [{ "startDate": "2016", "endDate": "2018" }],
-        "label": "Membre du conseil scientifique de l'ED 400 «&nbsp;Savoirs scientifiques : Epistémologie, Histoire des sciences, didactique des disciplines&nbsp;», Université Paris Diderot"
+        "label": "Membre du conseil scientifique de l'ED 400 «&nbsp;Savoirs scientifiques&nbsp;: Epistémologie, Histoire des sciences, didactique des disciplines&nbsp;», Université Paris Diderot"
       },
 
       {
@@ -71,6 +72,7 @@
   },
   {
     "title": "Participation à des instances d'évaluation",
+    "ordered": true,
     "content": [
       {
         "periods": [{ "startDate": "2016" }],
@@ -100,6 +102,7 @@
   },
   {
     "title": "Participations à des Jurys du CNRS",
+    "ordered": true,
     "content": [
       {
         "dates": ["2018"],
@@ -135,6 +138,7 @@
   },
   {
     "title": "Participation à des jurys de thèse et d'HDR",
+    "ordered": true,
     "content": [
       {
         "dates": ["10/2006"],
@@ -150,7 +154,7 @@
             "value": "Shinichiro Higashi"
           },
           {
-            "key": "Sujet :",
+            "key": "Sujet&nbsp;:",
             "value": "Penser les mathématiques au XVI<sup>e</sup> siècle"
           },
           {
@@ -173,7 +177,7 @@
             "value": "Matthieu Husson"
           },
           {
-            "key": "Sujet :",
+            "key": "Sujet&nbsp;:",
             "value": "Les domaines d’application des mathématiques dans la première moitié du quatorzième siècle"
           },
           {
@@ -196,7 +200,7 @@
             "value": "Odile Kouteynikoff"
           },
           {
-            "key": "Sujet :",
+            "key": "Sujet&nbsp;:",
             "value": "Les domaines d’application des mathématiques dans la première moitié du quatorzième siècle"
           },
           {
@@ -219,7 +223,7 @@
             "value": "Sara Confalioneri"
           },
           {
-            "key": "Sujet :",
+            "key": "Sujet&nbsp;:",
             "value": "The telling of the unattainable attempt to avoid the casus irreducibilis for cubic equations: Cardano’s De Regula Aliza"
           },
           {
@@ -242,7 +246,7 @@
             "value": "Thierry Sebbag"
           },
           {
-            "key": "Sujet :",
+            "key": "Sujet&nbsp;:",
             "value": "Pour une archéologie de la virginité"
           },
           {
@@ -266,8 +270,8 @@
             "value": "João F. N. Cortese"
           },
           {
-            "key": "Sujet :",
-            "value": "L’infini en poids, nombre et mesure : la comparaison des incomparables dans l’œuvre de Blaise Pascal"
+            "key": "Sujet&nbsp;:",
+            "value": "L’infini en poids, nombre et mesure&nbsp;: la comparaison des incomparables dans l’œuvre de Blaise Pascal"
           },
           {
             "key": "co&#8209;dirigée par",
@@ -289,8 +293,8 @@
             "value": "Eleonora Smmarchi"
           },
           {
-            "key": "Sujet :",
-            "value": "L’algèbre des polynômes : le Qisṭāsal&#8209;mu‘ādala fī‘ilm al&#8209;jabr wa’l&#8209;muqābala d’al&#8209;Zanjānī (XIII<sup>e</sup> siècle)"
+            "key": "Sujet&nbsp;:",
+            "value": "L’algèbre des polynômes&nbsp;: le Qisṭāsal&#8209;mu‘ādala fī‘ilm al&#8209;jabr wa’l&#8209;muqābala d’al&#8209;Zanjānī (XIII<sup>e</sup> siècle)"
           },
           {
             "key": "dirigée par",
@@ -312,7 +316,7 @@
             "value": "Remy Potier"
           },
           {
-            "key": "Thème :",
+            "key": "Thème&nbsp;:",
             "value": "Le numérique à l’épreuve de la Psychanalyse. Enjeux psycho(patho)logique et épistémologiques des algorithmes au quotidien"
           }
         ]
@@ -331,8 +335,8 @@
             "value": "Marc Moyon"
           },
           {
-            "key": "Thème :",
-            "value": "Des savoirs en circulation : transmissions, appropriations, traductions en histoire des mathématiques"
+            "key": "Thème&nbsp;:",
+            "value": "Des savoirs en circulation&nbsp;: transmissions, appropriations, traductions en histoire des mathématiques"
           }
         ]
       },
@@ -350,7 +354,7 @@
             "value": "Aurélien Robert"
           },
           {
-            "key": "Thème :",
+            "key": "Thème&nbsp;:",
             "value": "De la substance à l’atome. Sur les traces du matérialisme au Moyen Âge"
           }
         ]
@@ -369,8 +373,8 @@
             "value": "Zeinab Karimian"
           },
           {
-            "key": "Sujet :",
-            "value": "La Recension des Coniques d’Apollonius par Naṣīr al&#8209;Dīn al&#8209;Ṭūsī : texte, traduction et commentaires du livre I"
+            "key": "Sujet&nbsp;:",
+            "value": "La Recension des Coniques d’Apollonius par Naṣīr al&#8209;Dīn al&#8209;Ṭūsī&nbsp;: texte, traduction et commentaires du livre I"
           },
           {
             "key": "dirigée par",
@@ -392,7 +396,7 @@
             "value": "Philippe Debroise"
           },
           {
-            "key": "Sujet :",
+            "key": "Sujet&nbsp;:",
             "value": "Mathématiques de l’intensité et Merveilles de la nature. Étude sur le <i>Tractatus de configurationibus qualitatum et motuum</i> de Nicole Oresme"
           }
         ]
@@ -401,6 +405,7 @@
   },
   {
     "title": "Activités liées à la recherche",
+    "ordered": true,
     "content": [
       {
         "periods": [
@@ -450,11 +455,11 @@
       {
         "periods": [{ "startDate": "09/2012", "endDate": "06/2022" }],
         "place": "Laboratoire SPHERE",
-        "label": "Responsable du séminaire d'histoire des mathématiques à la Renaissance ; Co&#8209;responsable du sous&#8209;axe «&nbsp;Philosophie naturelle de l'Antiquité à l'Age classique&nbsp;»"
+        "label": "Responsable du séminaire d'histoire des mathématiques à la Renaissance&nbsp;; Co&#8209;responsable du sous&#8209;axe «&nbsp;Philosophie naturelle de l'Antiquité à l'Age classique&nbsp;»"
       },
       {
         "periods": [{ "startDate": "06/2024", "endDate": "12/2025" }],
-        "label": "Porteuse du projet «&nbsp;Point de basculement entre l'aristotélisme et la science classique : la tradition parisienne des Calculatores – PBASC&nbsp;»",
+        "label": "Porteuse du projet «&nbsp;Point de basculement entre l'aristotélisme et la science classique&nbsp;: la tradition parisienne des Calculatores – PBASC&nbsp;»",
         "details": [
           {
             "key": "Financé par",
@@ -464,7 +469,7 @@
       },
       {
         "periods": [{ "startDate": "09/2024", "endDate": "08/2027" }],
-        "label": "Membre du projet «&nbsp;Euclide à l'époque moderne : Une histoire des transmissions, traductions et transformations interculturelles des éléments – EUCLIDES&nbsp;»",
+        "label": "Membre du projet «&nbsp;Euclide à l'époque moderne&nbsp;: Une histoire des transmissions, traductions et transformations interculturelles des éléments – EUCLIDES&nbsp;»",
         "details": [
           {
             "key": "Dirigé par",
@@ -504,6 +509,7 @@
   },
   {
     "title": "Activités liées à l'édition",
+    "ordered": true,
     "content": [
       {
         "periods": [

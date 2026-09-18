@@ -1,6 +1,7 @@
 [
   {
     "title": "Ouvrages de recherche",
+    "ordered": true,
     "content": [
       {
         "dates": ["2005"],
@@ -21,6 +22,7 @@
   },
   {
     "title": "Editions critiques",
+    "ordered": true,
     "content": [
       {
         "dates": ["2005"],
@@ -147,6 +149,7 @@
   },
   {
     "title": "Traductions commentées",
+    "ordered": true,
     "content": [
       {
         "dates": ["2005"],
@@ -173,6 +176,7 @@
   },
   {
     "title": "Direction d’ouvrages collectifs",
+    "ordered": true,
     "content": [
       {
         "dates": ["2003"],
@@ -213,10 +217,11 @@
   },
   {
     "title": "Articles dans des revues à comité de lecture",
+    "ordered": true,
     "content": [
       {
         "dates": ["1993"],
-        "label": "« Un exercice de combinatoire : les six grandeurs en proportion », <i>Sciences et techniques en perspective</i>, 26 (1993), p.&nbsp;1&#8209;21",
+        "label": "« Un exercice de combinatoire&nbsp;: les six grandeurs en proportion », <i>Sciences et techniques en perspective</i>, 26 (1993), p.&nbsp;1&#8209;21",
         "details": [
           {
             "key": "Publié sous le nom de",
@@ -267,7 +272,7 @@
       },
       {
         "dates": ["2006"],
-        "label": "« Un débat dans les mathématiques de la Renaissance : le statut de l’angle de contingence », <i>Journal de la Renaissance</i>, IV (2006), p.&nbsp;291&#8209;302",
+        "label": "« Un débat dans les mathématiques de la Renaissance&nbsp;: le statut de l’angle de contingence », <i>Journal de la Renaissance</i>, IV (2006), p.&nbsp;291&#8209;302",
         "link": "https://www.brepolsonline.net/content/journals/10.1484/J.JR.2.301812"
       },
       {
@@ -277,12 +282,12 @@
       },
       {
         "dates": ["2007"],
-        "label": "« \"La sphère touche le plan en un point\" : un problème mathématique ? », <i>Revue d’histoire des sciences</i>, 60/1 (2007), p.&nbsp;151&#8209;165",
+        "label": "« \"La sphère touche le plan en un point\"&nbsp;: un problème mathématique&nbsp;? », <i>Revue d’histoire des sciences</i>, 60/1 (2007), p.&nbsp;151&#8209;165",
         "link": "https://shs.cairn.info/article/RHS_601_0151?lang=fr&ID_ARTICLE=RHS_601_0151"
       },
       {
         "dates": ["2007"],
-        "label": "« La similitude des équimultiples dans la définition de la proportion non continue de l’édition des <i>Éléments</i> d’Euclide par Campanus : une difficulté dans la réception de la théorie des proportions au Moyen Âge », <i>Revue d'histoire des mathématiques</i>, 13/2 (2007), p.&nbsp;301&#8209;322",
+        "label": "« La similitude des équimultiples dans la définition de la proportion non continue de l’édition des <i>Éléments</i> d’Euclide par Campanus&nbsp;: une difficulté dans la réception de la théorie des proportions au Moyen Âge », <i>Revue d'histoire des mathématiques</i>, 13/2 (2007), p.&nbsp;301&#8209;322",
         "link": "https://www.numdam.org/item/RHM_2007__13_2_301_0/"
       },
       {
@@ -302,7 +307,7 @@
       },
       {
         "dates": ["2013"],
-        "label": "« Une Quæstio médiévale : est&#8209;ce que la diagonale d’un carré est commensurable au côté de ce carré ? », Images des mathématiques (2013)",
+        "label": "« Une Quæstio médiévale&nbsp;: est&#8209;ce que la diagonale d’un carré est commensurable au côté de ce carré&nbsp;? », Images des mathématiques (2013)",
         "link": "https://doi.org/10.60868/hm4q-ym83",
         "details": [
           {
@@ -312,7 +317,7 @@
       },
       {
         "dates": ["2013"],
-        "label": "« A treatise on proportion in the tradition of Thomas Bradwardine : the <i>De proportionibus libri duo</i> (1528) of Jean Fernel », <i>Historia Mathematica</i>, 40 (2013), p.&nbsp;164&#8209;182",
+        "label": "« A treatise on proportion in the tradition of Thomas Bradwardine&nbsp;: the <i>De proportionibus libri duo</i> (1528) of Jean Fernel », <i>Historia Mathematica</i>, 40 (2013), p.&nbsp;164&#8209;182",
         "link": "https://www.sciencedirect.com/science/article/pii/S0315086013000037"
       },
       {
@@ -337,7 +342,7 @@
       },
       {
         "dates": ["2016"],
-        "label": "« La réception par quelques mathématiciens européens du XVI<sup>e</sup> siècle des travaux des algébristes italiens sur les équations du troisième degré : réticence de la plupart et avancées significatives de Stevin », <i>Revue d'histoire des mathématiques</i>, 22/1 (2016), p.&nbsp;1&#8209;52",
+        "label": "« La réception par quelques mathématiciens européens du XVI<sup>e</sup> siècle des travaux des algébristes italiens sur les équations du troisième degré&nbsp;: réticence de la plupart et avancées significatives de Stevin », <i>Revue d'histoire des mathématiques</i>, 22/1 (2016), p.&nbsp;1&#8209;52",
         "link": "https://smf.emath.fr/publications/la-reception-par-quelques-mathematiciens-europeens-du-xvie-siecle-des-travaux-des"
       },
       {
@@ -385,6 +390,7 @@
   },
   {
     "title": "Chapitres d’ouvrages de recherche",
+    "ordered": true,
     "content": [
       {
         "dates": ["2004"],
@@ -406,7 +412,7 @@
           },
           {
             "key": "<i>in</i>",
-            "value": "Jean Celeyrette, <i>De la théologie aux mathématiques : l’infini au XIV<sup>e</sup> siècle</i>, Paris, Les Belles Lettres (2005), Notice : p.&nbsp;89&#8209;95, Traduction : p.&nbsp;97&#8209;135",
+            "value": "Jean Celeyrette, <i>De la théologie aux mathématiques&nbsp;: l’infini au XIV<sup>e</sup> siècle</i>, Paris, Les Belles Lettres (2005), Notice&nbsp;: p.&nbsp;89&#8209;95, Traduction&nbsp;: p.&nbsp;97&#8209;135",
             "link": "https://www.lesbelleslettres.com/livre/9782251181028/de-la-theologie-aux-mathematiques"
           }
         ]
@@ -439,7 +445,7 @@
       },
       {
         "dates": ["2008"],
-        "label": "« The transmission of the Elements to the Latin West : three case studies »",
+        "label": "« The transmission of the Elements to the Latin West&nbsp;: three case studies »",
         "details": [
           {
             "key": "<i>in</i>",
@@ -450,7 +456,7 @@
       },
       {
         "dates": ["2010"],
-        "label": "« Le <i>De continuo</i> de Thomas Bradwardine : un traité de philosophique naturelle ou de mathématiques ? »",
+        "label": "« Le <i>De continuo</i> de Thomas Bradwardine&nbsp;: un traité de philosophique naturelle ou de mathématiques&nbsp;? »",
         "details": [
           {
             "key": "<i>in</i>",
@@ -472,7 +478,7 @@
       },
       {
         "dates": ["2012"],
-        "label": "« Qu’est&#8209;ce que l’algèbre pour Christoph Clavius ? »",
+        "label": "« Qu’est&#8209;ce que l’algèbre pour Christoph Clavius&nbsp;? »",
         "details": [
           {
             "key": "<i>in</i>",
@@ -509,7 +515,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Anne&#8209;Lise Rey, <i>Méthode et histoire. Quelle histoire font les historiens des sciences ?</i>, Paris, Classique Garnier (2014)",
+            "value": "Anne&#8209;Lise Rey, <i>Méthode et histoire. Quelle histoire font les historiens des sciences&nbsp;?</i>, Paris, Classique Garnier (2014)",
             "link": "https://classiques-garnier.com/methode-et-histoire-quelle-histoire-font-les-historiens-des-sciences-et-des-techniques.html"
           }
         ]
@@ -527,7 +533,7 @@
       },
       {
         "dates": ["2017"],
-        "label": "« La détermination de la rapidité d’augmentation dans le <i>De sex inconvenientibus</i> : comparaison avec les développements sur le même sujet de William Heytesbury »",
+        "label": "« La détermination de la rapidité d’augmentation dans le <i>De sex inconvenientibus</i>&nbsp;: comparaison avec les développements sur le même sujet de William Heytesbury »",
         "details": [
           {
             "key": "<i>in</i>",
@@ -542,7 +548,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "Joël Biard et Aurélien Robert, <i>La philosophie de Blaise de Parme : physique, psychologie, éthique</i>, Florence, SISMEL, Micrologus Library (2019), p.&nbsp;153&#8209;174",
+            "value": "Joël Biard et Aurélien Robert, <i>La philosophie de Blaise de Parme&nbsp;: physique, psychologie, éthique</i>, Florence, SISMEL, Micrologus Library (2019), p.&nbsp;153&#8209;174",
             "link": "https://www.sismel.it/pubblicazioni/1706-la-philosophie-de-blaise-de-parme-physique-psychologie-thique"
           }
         ]
@@ -571,6 +577,7 @@
   },
   {
     "title": "Contributions à des actes de colloque avec comité de lecture",
+    "ordered": true,
     "content": [
       {
         "dates": ["1998"],
@@ -680,6 +687,8 @@
   },
   {
     "title": "Analyses d’ouvrages",
+    "ordered": true,
+    "break": true,
     "content": [
       {
         "dates": ["1999"],

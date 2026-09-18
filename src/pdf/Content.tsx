@@ -7,6 +7,7 @@ import { useEffect, useState } from 'react';
 import { Item } from './Item';
 import { isData } from '../types/guards';
 import { Section } from './Section';
+import { TableOfContents } from './TableOfContents';
 
 export function Content() {
   const { files } = useDataFiles();
@@ -42,6 +43,10 @@ export function Content() {
 
   return (
     <>
+      <Layout header={true}>
+        <TableOfContents files={files} data={data} />
+      </Layout>
+
       {files.map((file, index) => {
         const fileData = data[file.name];
 
@@ -50,27 +55,32 @@ export function Content() {
         }
 
         return (
-          <Layout key={index}>
-            <View>
-              <Text style={styles.h2}>{file.title}</Text>
-              <View>
-                {!isData(fileData[0])
-                  ? fileData.map((item, index) => (
-                      <Item
-                        key={index}
-                        content={item as Content}
-                        displayDates={file.displayDates}
-                      />
-                    ))
-                  : fileData.map((item, index) => (
-                      <Section
-                        key={index}
-                        data={item as Data}
-                        displayDates={file.displayDates}
-                        displayItemsLenght={true}
-                      />
-                    ))}
-              </View>
+          <Layout key={index} header={true}>
+            <View style={styles.pageView}>
+              <Text
+                style={styles.h2}
+                hyphenationPenalty={Infinity}
+                id={`file-${file.name}`}
+              >
+                {file.title}
+              </Text>
+              {!isData(fileData[0])
+                ? fileData.map((item, index) => (
+                    <Item
+                      key={index}
+                      content={item as Content}
+                      displayDates={file.displayDates}
+                    />
+                  ))
+                : fileData.map((item, index) => (
+                    <Section
+                      key={index}
+                      id={`${file.name}-${index}`}
+                      data={item as Data}
+                      displayDates={file.displayDates}
+                      displayItemsLenght={true}
+                    />
+                  ))}
             </View>
           </Layout>
         );

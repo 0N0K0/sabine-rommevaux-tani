@@ -1,13 +1,14 @@
 [
   {
     "title": "Conférences grand public",
+    "ordered": true,
     "content": [
       {
         "dates": ["07/10/2023", "08/10/2023"],
         "place": "Les Médiévales de Fournols",
         "label": "Conférence grand public",
         "details": [
-          { "value": "L'université médiévale : un lieu de débat" },
+          { "value": "L'université médiévale&nbsp;: un lieu de débat" },
           {
             "link": "https://www.fetes-medievales.com/site/les-medievales-de-fournols"
           }
@@ -39,6 +40,7 @@
   },
   {
     "title": "Ateliers",
+    "ordered": true,
     "content": [
       {
         "dates": ["24/11/2024"],
@@ -50,6 +52,7 @@
   },
   {
     "title": "Articles dans des ouvrages de vulgarisation",
+    "ordered": true,
     "content": [
       {
         "dates": ["02/2000"],
@@ -57,7 +60,7 @@
         "details": [
           {
             "key": "<i>in</i>",
-            "value": "« Mathématiques : ce que les Grecs ont vraiment inventé », <i>Les cahiers de Sciences et Vie</i>, 55 (02/2000), p.&nbsp;82&#8209;89"
+            "value": "« Mathématiques&nbsp;: ce que les Grecs ont vraiment inventé », <i>Les cahiers de Sciences et Vie</i>, 55 (02/2000), p.&nbsp;82&#8209;89"
           }
         ]
       },
@@ -74,7 +77,7 @@
       },
       {
         "dates": ["2013"],
-        "label": "« Une Quæstio médiévale : est&#8209;ce que la diagonale d’un carré est commensurable au côté de ce carré ? », Images des mathématiques (2013)",
+        "label": "« Une Quæstio médiévale&nbsp;: est&#8209;ce que la diagonale d’un carré est commensurable au côté de ce carré&nbsp;? », Images des mathématiques (2013)",
         "link": "https://doi.org/10.60868/hm4q-ym83",
         "details": [
           {

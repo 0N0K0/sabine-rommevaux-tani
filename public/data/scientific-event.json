@@ -1,6 +1,7 @@
 [
   {
     "title": "Organisation de colloques internationaux",
+    "ordered": true,
     "content": [
       {
         "periods": [{ "startDate": "15/03/2002", "endDate": "16/03/2002" }],
@@ -42,7 +43,7 @@
       {
         "periods": [{ "startDate": "18/11/2021", "endDate": "19/11/2021" }],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13<sup>e</sup> siècle",
+        "label": "Raoul le Breton, les artiens et les théologiens&nbsp;: formes de savoir à Paris à la fin du 13<sup>e</sup> siècle",
         "details": [
           {
             "key": "organisé avec",
@@ -54,6 +55,7 @@
   },
   {
     "title": "Organisation de journées d’études",
+    "ordered": true,
     "content": [
       {
         "dates": ["07/12/2002"],
@@ -164,12 +166,12 @@
       {
         "dates": ["12/01/2017"],
         "place": "Espace Mendès France, Poitiers",
-        "label": "Le legs médiéval : héritage humaniste des érudits arabes et latins du Moyen Age"
+        "label": "Le legs médiéval&nbsp;: héritage humaniste des érudits arabes et latins du Moyen Age"
       },
       {
         "dates": ["21/06/2018"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Peut&#8209;on parler de la génération comme d’un mouvement ?",
+        "label": "Peut&#8209;on parler de la génération comme d’un mouvement&nbsp;?",
         "details": [
           {
             "key": "organisé avec",
@@ -180,7 +182,7 @@
       {
         "dates": ["18/10/2018"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (XIII<sup>e</sup>&#8209;XIV<sup>e</sup> siècle)",
+        "label": "Les Météorologiques d’Aristote dans la scolastique latine&nbsp;: travaux et éditions en cours (XIII<sup>e</sup>&#8209;XIV<sup>e</sup> siècle)",
         "details": [
           {
             "key": "organisé avec",
@@ -213,7 +215,7 @@
       {
         "dates": ["23/06/2022"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Problemata de philosophie naturelle : l’imaginaire, le merveilleux, le quotidien",
+        "label": "Problemata de philosophie naturelle&nbsp;: l’imaginaire, le merveilleux, le quotidien",
         "details": [
           {
             "key": "organisé avec",
@@ -269,6 +271,7 @@
   },
   {
     "title": "Conférences invitées dans des congrès internationaux",
+    "ordered": true,
     "content": [
       {
         "dates": ["12/1990"],
@@ -423,7 +426,7 @@
       {
         "periods": [{ "startDate": "13/05/2009", "endDate": "15/05/2009" }],
         "place": "Tours",
-        "label": "Qu’est&#8209;ce qu’algèbre pour Christoph Clavius ?",
+        "label": "Qu’est&#8209;ce qu’algèbre pour Christoph Clavius&nbsp;?",
         "details": [
           {
             "value": "Colloque «&nbsp;Unité et pluralité de l’algèbre&nbsp;»"
@@ -457,7 +460,7 @@
       {
         "periods": [{ "startDate": "21/10/2010", "endDate": "22/10/2010" }],
         "place": "Toulouse",
-        "label": "Question d’une mathématicienne à l’histoire des mathématiques : Qu’est&#8209;ce que l’algèbre à la Renaissance ?",
+        "label": "Question d’une mathématicienne à l’histoire des mathématiques&nbsp;: Qu’est&#8209;ce que l’algèbre à la Renaissance&nbsp;?",
         "details": [
           {
             "value": "Colloque d’histoire des mathématiques en l’honneur de Maryvonne Spiesser"
@@ -596,7 +599,7 @@
         "label": "Considérations sur l’altération, l’augmentation et le mouvement local dans la seconde rédaction des Questions de Blaise de Parme sur le livre VII de la Physique",
         "details": [
           {
-            "value": "Colloque international «&nbsp;Blaise de Parme : Physique et psychologie&nbsp;»"
+            "value": "Colloque international «&nbsp;Blaise de Parme&nbsp;: Physique et psychologie&nbsp;»"
           },
           {
             "key": "organisé par",
@@ -628,7 +631,7 @@
             "value": "Aurélien Robert (Laboratoire SPHERE)"
           },
           {
-            "value": "Colloque international «&nbsp;Raoul le Breton, les artiens et les théologiens : formes de savoir à Paris à la fin du 13<sup>e</sup> siècle&nbsp;»"
+            "value": "Colloque international «&nbsp;Raoul le Breton, les artiens et les théologiens&nbsp;: formes de savoir à Paris à la fin du 13<sup>e</sup> siècle&nbsp;»"
           },
           {
             "key": "organisé avec",
@@ -685,7 +688,7 @@
         "label": "Nombre du philosophe, nombre du mathématicien",
         "details": [
           {
-            "value": "Colloque international «&nbsp;Quid sit numerus ? Théories et conceptualisations du nombre au Moyen Âge et à la Renaissance&nbsp;»"
+            "value": "Colloque international «&nbsp;Quid sit numerus&nbsp;? Théories et conceptualisations du nombre au Moyen Âge et à la Renaissance&nbsp;»"
           }
         ]
       },
@@ -744,6 +747,7 @@
   },
   {
     "title": "Autres conférences",
+    "ordered": true,
     "content": [
       {
         "dates": ["06/2000"],
@@ -762,7 +766,7 @@
       {
         "dates": ["06/2000"],
         "place": "REHSEIS, Paris",
-        "label": "Le commentaire de Campanus aux <i>Éléments</i> d’Euclide : l’exemple de l’irrationalité",
+        "label": "Le commentaire de Campanus aux <i>Éléments</i> d’Euclide&nbsp;: l’exemple de l’irrationalité",
         "details": [
           {
             "value": "Journée d’études internationale sur la «&nbsp;Pratique des commentaires en mathématiques&nbsp;»"
@@ -779,7 +783,7 @@
         "label": "Présentation générale du commentaire de Clavius au livre V des <i>Éléments</i>",
         "details": [
           {
-            "value": "Séminaire d’histoire des mathématiques : Antiquité, Moyen Âge, Renaissance"
+            "value": "Séminaire d’histoire des mathématiques&nbsp;: Antiquité, Moyen Âge, Renaissance"
           },
           {
             "key": "organisé avec",
@@ -793,7 +797,7 @@
         "label": "La théorie des médiétés dans l’Arithmétique de Jordanus, le commentaire de Clavius aux <i>Éléments</i>, et l’Algèbre de Clavius",
         "details": [
           {
-            "value": "Séminaire d’histoire des mathématiques : Antiquité, Moyen Âge, Renaissance"
+            "value": "Séminaire d’histoire des mathématiques&nbsp;: Antiquité, Moyen Âge, Renaissance"
           },
           {
             "key": "organisé avec",
@@ -886,7 +890,7 @@
         "details": [
           {
             "key": "dans le cadre du",
-            "value": "Séminaire de l’IHP «&nbsp;Les <i>Éléments</i> d’Euclide à la Renaissance : un texte d’enseignement ?&nbsp;»"
+            "value": "Séminaire de l’IHP «&nbsp;Les <i>Éléments</i> d’Euclide à la Renaissance&nbsp;: un texte d’enseignement&nbsp;?&nbsp;»"
           },
           {
             "key": "organisé par",
@@ -907,7 +911,7 @@
       {
         "dates": ["02/2008"],
         "place": "Paris",
-        "label": "Qu’est&#8209;ce qu’un rapport ? : les réponses de Campanus et de Blaise de Parme",
+        "label": "Qu’est&#8209;ce qu’un rapport&nbsp;?&nbsp;: les réponses de Campanus et de Blaise de Parme",
         "details": [
           {
             "value": "Séminaire «&nbsp;Épistémologie et histoire des idées mathématiques&nbsp;»"
@@ -997,7 +1001,7 @@
       {
         "dates": ["06/01/2010"],
         "place": "Limoges",
-        "label": "Pourquoi étudier une théorie de l’aimant erronée du XIV<sup>e</sup> siècle ?",
+        "label": "Pourquoi étudier une théorie de l’aimant erronée du XIV<sup>e</sup> siècle&nbsp;?",
         "details": [
           {
             "value": "Séminaire d’histoire des sciences"
@@ -1014,7 +1018,7 @@
         "label": "La lecture arithmétique du Livre X des <i>Éléments</i> d’Euclide par Stifel",
         "details": [
           {
-            "value": "Journée d’études «&nbsp;Autour de l’Arithmetica integra de Stifel (1544) : deuxième partie&nbsp;»"
+            "value": "Journée d’études «&nbsp;Autour de l’Arithmetica integra de Stifel (1544)&nbsp;: deuxième partie&nbsp;»"
           },
           {
             "key": "organisée par",
@@ -1039,7 +1043,7 @@
       {
         "dates": ["24/02/2012"],
         "place": "Maison Française d’Oxford",
-        "label": "La réception des Calculatores d’Oxford en France et en Italie : quelques exemples",
+        "label": "La réception des Calculatores d’Oxford en France et en Italie&nbsp;: quelques exemples",
         "details": [
           {
             "value": "History of Science Seminar"
@@ -1145,7 +1149,7 @@
       {
         "periods": [{ "startDate": "04/11/2013", "endDate": "11/11/2013" }],
         "place": "Marseille",
-        "label": "Qu’est&#8209;ce qu’un corpus mathématique au Moyen Âge latin ?",
+        "label": "Qu’est&#8209;ce qu’un corpus mathématique au Moyen Âge latin&nbsp;?",
         "details": [
           {
             "value": "École thématique du CNRS «&nbsp;Sources en histoire des mathématiques&nbsp;»"
@@ -1159,7 +1163,7 @@
       {
         "dates": ["16/01/2014"],
         "place": "Espace Mendès France, Poitiers",
-        "label": "Une théorie en apparente contradiction avec les résultats de l’expérience : le magnétisme",
+        "label": "Une théorie en apparente contradiction avec les résultats de l’expérience&nbsp;: le magnétisme",
         "details": [
           {
             "value": "Journée d’études «&nbsp;Cadres théoriques en confrontation avec la nature et l’expérience au Moyen Âge&nbsp;»"
@@ -1208,7 +1212,7 @@
       {
         "dates": ["07/04/2014"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Démonstrations géométriques des algorithmes de résolution des équations du second degré : al&#8209;Khwarizmi, Abu Kamil, Nuñez",
+        "label": "Démonstrations géométriques des algorithmes de résolution des équations du second degré&nbsp;: al&#8209;Khwarizmi, Abu Kamil, Nuñez",
         "details": [
           {
             "value": "Séminaire d’histoire des mathématiques"
@@ -1268,7 +1272,7 @@
       {
         "dates": ["18/03/2015"],
         "place": "Grenoble",
-        "label": "Pourquoi faire des mathématiques au Moyen Âge ?",
+        "label": "Pourquoi faire des mathématiques au Moyen Âge&nbsp;?",
         "details": [
           {
             "value": "Semaine des mathématiques"
@@ -1281,7 +1285,7 @@
       },
       {
         "dates": ["17/04/2015"],
-        "label": "La résolution des équations du troisième degré par Simon Stevin dans l’Arithmetique (1585) : des avancées significatives par rapport à l’exposé de G. Cardano dans l’Ars magna (1545)",
+        "label": "La résolution des équations du troisième degré par Simon Stevin dans l’Arithmetique (1585)&nbsp;: des avancées significatives par rapport à l’exposé de G. Cardano dans l’Ars magna (1545)",
         "details": [
           {
             "value": "Séminaires Mathématiques arabes – Mathématiques à la Renaissance"
@@ -1301,7 +1305,7 @@
       {
         "dates": ["07/10/2015"],
         "place": "ENS",
-        "label": "Pourquoi Gérard Simon m’a&#8209;t&#8209;il suggéré d’étudier la construction keplérienne des logarithmes ?",
+        "label": "Pourquoi Gérard Simon m’a&#8209;t&#8209;il suggéré d’étudier la construction keplérienne des logarithmes&nbsp;?",
         "details": [
           {
             "value": "Journée d’études «&nbsp;Gérard Simon, le philosophe et l’historien&nbsp;»"
@@ -1334,7 +1338,7 @@
         "label": "Expériences de pensée et recours aux «&nbsp;experimenta&nbsp;» dans un texte de philosophie naturelle anonyme du XIV<sup>e</sup> siècle, le <i>De sex inconvenientibus</i>",
         "details": [
           {
-            "value": "Journée d’études «&nbsp;Place de l’étrange, du surprenant, de l’inexplicable dans le corpus des textes médiévaux en langue arabe, persane et latine (1) : L’examen de l’attitude des savants&nbsp;»"
+            "value": "Journée d’études «&nbsp;Place de l’étrange, du surprenant, de l’inexplicable dans le corpus des textes médiévaux en langue arabe, persane et latine (1)&nbsp;: L’examen de l’attitude des savants&nbsp;»"
           },
           {
             "key": "dans le cadre du",
@@ -1361,7 +1365,7 @@
         "label": "Ce que les éditeurs des <i>Éléments</i> d’Euclide à la Renaissance doivent à ce «&nbsp;barbare&nbsp;» de Campanus",
         "details": [
           {
-            "value": "Journée d’études «&nbsp;Le legs médiéval : héritage humaniste des érudits arabes et latins du Moyen Âge&nbsp;»"
+            "value": "Journée d’études «&nbsp;Le legs médiéval&nbsp;: héritage humaniste des érudits arabes et latins du Moyen Âge&nbsp;»"
           },
           {
             "key": "organisée par",
@@ -1372,7 +1376,7 @@
       {
         "dates": ["23/02/2017"],
         "place": "Laboratoire SPHERE, Paris",
-        "label": "Une théorie de la mesure des rapports dans le <i>Chilias Logarithmorum</i> de Kepler (1624) : un ancrage médiéval",
+        "label": "Une théorie de la mesure des rapports dans le <i>Chilias Logarithmorum</i> de Kepler (1624)&nbsp;: un ancrage médiéval",
         "details": [
           {
             "value": "Séminaire «&nbsp;Mathématiques à l’Âge classique&nbsp;»"
@@ -1386,7 +1390,7 @@
       {
         "dates": ["28/03/2017"],
         "place": "Nantes",
-        "label": "Comment dépasser le strict cadre des autorités : l’exemple du <i>De sex inconvenientibus</i>, traité anonyme de philosophie naturelle du XIV<sup>e</sup> siècle",
+        "label": "Comment dépasser le strict cadre des autorités&nbsp;: l’exemple du <i>De sex inconvenientibus</i>, traité anonyme de philosophie naturelle du XIV<sup>e</sup> siècle",
         "details": [
           {
             "value": "Séminaire du Centre François Viète"
@@ -1396,7 +1400,7 @@
       {
         "dates": ["21/12/2017"],
         "place": "EPHE, Paris",
-        "label": "Nombres qui dénomment, nombres génériques, nombres qui quantifient arbitrairement : plusieurs aspects de l’usage des nombres dans des traités de mathématiques et de philosophie naturelle des XIII<sup>e</sup> et XIV<sup>e</sup> siècles",
+        "label": "Nombres qui dénomment, nombres génériques, nombres qui quantifient arbitrairement&nbsp;: plusieurs aspects de l’usage des nombres dans des traités de mathématiques et de philosophie naturelle des XIII<sup>e</sup> et XIV<sup>e</sup> siècles",
         "details": [
           {
             "value": "Séminaire «&nbsp;Nombre et figure au Moyen Âge&nbsp;»"
@@ -1442,7 +1446,7 @@
         "label": "La détermination de la rapidité de la génération des formes élémentaires dans le <i>De sex inconvenientibus</i>, traité anonyme du XIV<sup>e</sup> siècle",
         "details": [
           {
-            "value": "Journée d’études «&nbsp;Peut&#8209;on parler de la génération comme d’un mouvement ?&nbsp;»"
+            "value": "Journée d’études «&nbsp;Peut&#8209;on parler de la génération comme d’un mouvement&nbsp;?&nbsp;»"
           },
           {
             "key": "organisée avec",
@@ -1456,7 +1460,7 @@
         "label": "Les références aux <i>Météorologiques</i> dans le <i>De sex inconvenientibus</i>, à propos de la génération des qualités premières par les corps célestes au moyen de la lumière",
         "details": [
           {
-            "value": "Journée d’études «&nbsp;Les Météorologiques d’Aristote dans la scolastique latine : travaux et éditions en cours (13<sup>e</sup>&#8209;14<sup>e</sup> siècles)&nbsp;»"
+            "value": "Journée d’études «&nbsp;Les Météorologiques d’Aristote dans la scolastique latine&nbsp;: travaux et éditions en cours (13<sup>e</sup>&#8209;14<sup>e</sup> siècles)&nbsp;»"
           },
           {
             "key": "organisée avec",
@@ -1514,7 +1518,7 @@
         "label": "Les ajouts à la seconde édition de Clavius des <i>Éléments</i> d’Euclide",
         "details": [
           {
-            "value": "Journée d’études «&nbsp;Euclid on the road transcultural, Workshop III : On Clavius’ Edition of Euclid&nbsp;»"
+            "value": "Journée d’études «&nbsp;Euclid on the road transcultural, Workshop III&nbsp;: On Clavius’ Edition of Euclid&nbsp;»"
           },
           {
             "key": "organisée par",
@@ -1586,7 +1590,7 @@
         "label": "Remarques préliminaires sur les <i>Problemata</i> dans les <i>Questiones super libros physicorum</i> de Blaise de Parme",
         "details": [
           {
-            "value": "Journée d’études «&nbsp;Problemata de philosophie naturelle : l’imaginaire, le merveilleux, le quotidien&nbsp;»"
+            "value": "Journée d’études «&nbsp;Problemata de philosophie naturelle&nbsp;: l’imaginaire, le merveilleux, le quotidien&nbsp;»"
           },
           {
             "key": "organisée avec",
@@ -1611,7 +1615,7 @@
       {
         "dates": ["14/06/2024"],
         "place": "Lettres Sorbonne Université, Paris",
-        "label": "La dispute à la faculté des arts : pédagogie et innovation",
+        "label": "La dispute à la faculté des arts&nbsp;: pédagogie et innovation",
         "details": [
           {
             "value": "Journée d’études «&nbsp;Querelles. Penser par la dispute, de controverses médiévales en questions de médiévistes&nbsp;»"

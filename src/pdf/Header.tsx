@@ -26,7 +26,9 @@ export function Header() {
 
   return (
     <View style={styles.header} fixed>
-      <Text style={styles.headerText}>{data.title}</Text>
+      <Text style={styles.headerText} hyphenationPenalty={Infinity}>
+        {data.title}
+      </Text>
     </View>
   );
 }

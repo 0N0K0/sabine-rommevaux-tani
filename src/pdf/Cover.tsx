@@ -48,22 +48,26 @@ export function Cover() {
   }, []);
 
   return (
-    <Layout>
-      <View>
-        <Text style={styles.h1}>{headerData.title}</Text>
-        <Text>
-          {headerData.content?.map((detail: Detail, index) => (
-            <Text key={index}>
-              {detail.link ? (
-                <Link href={detail.link}>{detail.value}</Link>
-              ) : (
-                detail.value
-              )}
+    <Layout header={false}>
+      <View style={styles.firstPageView}>
+        <View style={{ paddingBottom: 12 }}>
+          <Text style={styles.h1} hyphenationPenalty={Infinity}>
+            {headerData.title}
+          </Text>
+          <Text style={{ textAlign: 'center' }} hyphenationPenalty={Infinity}>
+            {headerData.content?.map((detail: Detail, index) => (
+              <Text key={index} hyphenationPenalty={Infinity}>
+                {detail.link ? (
+                  <Link href={detail.link}>{detail.value}</Link>
+                ) : (
+                  detail.value
+                )}
 
-              {index < headerData.content!.length - 1 && ' • '}
-            </Text>
-          ))}
-        </Text>
+                {index < headerData.content!.length - 1 && ' • '}
+              </Text>
+            ))}
+          </Text>
+        </View>
         {introData.map((item, index) => {
           if (isData(item)) {
             return (
@@ -77,10 +81,14 @@ export function Cover() {
           }
 
           return (
-            <View key={index}>
+            <View key={index} style={styles.contentView}>
               {(item as Introduction).intro &&
                 (item as Introduction).intro.map((paragraph, index) => (
-                  <RichTextPdf key={index} html={paragraph} />
+                  <RichTextPdf
+                    key={index}
+                    html={paragraph}
+                    style={styles.intro}
+                  />
                 ))}
             </View>
           );

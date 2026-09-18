@@ -14,26 +14,32 @@ export function Item({
   return (
     <View>
       {content.label && (
-        <Text>
-          <RichTextPdf html={content.label} />
-        </Text>
+        <RichTextPdf html={content.label} style={{ fontWeight: 500 }} />
       )}
       {content.details?.map((detail, index) => (
         <View key={index}>
-          {detail.key && (
-            <Text>
-              <RichTextPdf html={detail.key} />
-              {!detail.key?.endsWith("'") && ' '}
-            </Text>
-          )}
           {Array.isArray(detail.value) ? (
-            <UnorderedList items={detail.value} />
+            <>
+              {detail.key && <RichTextPdf html={detail.key} />}
+              <UnorderedList
+                items={detail.value.map((value, valueIndex) => (
+                  <RichTextPdf key={valueIndex} html={value} />
+                ))}
+              />
+            </>
           ) : (
-            detail.value && <RichTextPdf html={detail.value} />
+            <Text hyphenationPenalty={Infinity}>
+              {detail.key && (
+                <>
+                  <RichTextPdf html={detail.key} />
+                  {!detail.key.endsWith("'") && ' '}
+                </>
+              )}
+              {detail.value && <RichTextPdf html={detail.value} />}
+            </Text>
           )}
           {detail.link && (
             <Text>
-              {detail.value && '\n'}
               <Link href={detail.link}>{detail.link}</Link>
             </Text>
           )}
@@ -45,7 +51,7 @@ export function Item({
       {content.link && <Link href={content.link}>{content.link}</Link>}
       {(content.place ||
         (displayDates === true && (content.dates || content.periods))) && (
-        <Text>
+        <Text hyphenationPenalty={Infinity}>
           {content.place && <RichTextPdf html={content.place} />}
 
           {content.place && (content.dates?.length || content.periods?.length)

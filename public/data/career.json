@@ -1,6 +1,7 @@
 [
   {
     "title": "Formation",
+    "ordered": false,
     "content": [
       {
         "label": "Maîtrise de mathématiques pures",
@@ -17,15 +18,15 @@
         "place": "Université de Nantes",
         "details": [
           {
-            "key": "Directeur :",
+            "key": "Directeur&nbsp;:",
             "value": "Jean Dhombres"
           },
           {
-            "key": "Sujet :",
-            "value": "Un jalon dans l'histoire de la théorie des proportions au XVI<sup>e</sup> siècle : le commentaire de Clavius au livre V des Éléments d'Euclide"
+            "key": "Sujet&nbsp;:",
+            "value": "Un jalon dans l'histoire de la théorie des proportions au XVI<sup>e</sup> siècle&nbsp;: le commentaire de Clavius au livre V des Éléments d'Euclide"
           },
           {
-            "key": "Mention :",
+            "key": "Mention&nbsp;:",
             "value": "Très honorable, avec félicitations"
           }
         ]
@@ -36,8 +37,8 @@
         "place": "Université de Tours",
         "details": [
           {
-            "key": "Thème :",
-            "value": "Théorie des rapports (XIII<sup>e</sup>&#8209;XVI<sup>e</sup> siècles) : réception, assimilation, innovation"
+            "key": "Thème&nbsp;:",
+            "value": "Théorie des rapports (XIII<sup>e</sup>&#8209;XVI<sup>e</sup> siècles)&nbsp;: réception, assimilation, innovation"
           }
         ]
       }
@@ -45,6 +46,7 @@
   },
   {
     "title": "Activités professionnelles",
+    "ordered": false,
     "content": [
       {
         "periods": [{ "startDate": "09/1988", "endDate": "08/1990" }],
@@ -85,6 +87,7 @@
   },
   {
     "title": "Invitations de recherche",
+    "ordered": false,
     "content": [
       {
         "periods": [{ "startDate": "16/07/2008", "endDate": "31/07/2008" }],
@@ -100,6 +103,7 @@
   },
   {
     "title": "Sociétés savantes",
+    "ordered": false,
     "content": [
       {
         "label": "Membre de la Société internationale pour l'étude de la philosophie médiévale (SIEPM)"
