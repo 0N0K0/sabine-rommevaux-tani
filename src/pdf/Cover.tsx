@@ -5,6 +5,7 @@ import { isData } from '../types/guards';
 import { Section } from './Section';
 import { RichTextPdf } from './RichTextPdf';
 import { styles } from './style';
+import { Layout } from './Layout';
 
 export function Cover() {
   const [headerData, setHeaderData] = useState<Data>({});
@@ -47,42 +48,44 @@ export function Cover() {
   }, []);
 
   return (
-    <View>
-      <Text style={styles.h1}>{headerData.title}</Text>
-      <Text>
-        {headerData.content?.map((detail: Detail, index) => (
-          <Text key={index}>
-            {detail.link ? (
-              <Link href={detail.link}>{detail.value}</Link>
-            ) : (
-              detail.value
-            )}
+    <Layout>
+      <View>
+        <Text style={styles.h1}>{headerData.title}</Text>
+        <Text>
+          {headerData.content?.map((detail: Detail, index) => (
+            <Text key={index}>
+              {detail.link ? (
+                <Link href={detail.link}>{detail.value}</Link>
+              ) : (
+                detail.value
+              )}
 
-            {index < headerData.content!.length - 1 && ' • '}
-          </Text>
-        ))}
-      </Text>
-      {introData.map((item, index) => {
-        if (isData(item)) {
+              {index < headerData.content!.length - 1 && ' • '}
+            </Text>
+          ))}
+        </Text>
+        {introData.map((item, index) => {
+          if (isData(item)) {
+            return (
+              <Section
+                key={index}
+                data={item}
+                displayDates={false}
+                displayItemsLenght={false}
+              />
+            );
+          }
+
           return (
-            <Section
-              key={index}
-              data={item}
-              displayDates={false}
-              displayItemsLenght={false}
-            />
+            <View key={index}>
+              {(item as Introduction).intro &&
+                (item as Introduction).intro.map((paragraph, index) => (
+                  <RichTextPdf key={index} html={paragraph} />
+                ))}
+            </View>
           );
-        }
-
-        return (
-          <View key={index}>
-            {(item as Introduction).intro &&
-              (item as Introduction).intro.map((paragraph, index) => (
-                <RichTextPdf key={index} html={paragraph} />
-              ))}
-          </View>
-        );
-      })}
-    </View>
+        })}
+      </View>
+    </Layout>
   );
 }

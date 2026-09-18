@@ -1,11 +1,10 @@
 import { Document } from '@react-pdf/renderer';
-import { Layout } from './Layout';
 import { Cover } from './Cover';
+import { Content } from './Content';
 
 export const CV = () => (
   <Document>
-    <Layout>
-      <Cover />
-    </Layout>
+    <Cover />
+    <Content />
   </Document>
 );

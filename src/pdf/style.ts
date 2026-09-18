@@ -146,6 +146,7 @@ export const styles = StyleSheet.create({
     paddingRight: '2.5cm',
     fontFamily: 'Montserrat',
     fontSize: 12,
+    textAlign: 'justify',
   },
 
   header: {
@@ -169,27 +170,27 @@ export const styles = StyleSheet.create({
 
   h1: {
     fontFamily: 'Cormorant Unicase',
-    fontSize: 42,
+    fontSize: 27,
   },
 
   h2: {
     fontFamily: 'Cormorant Unicase',
-    fontSize: 36,
+    fontSize: 24,
   },
 
   h3: {
     fontFamily: 'Cormorant Unicase',
-    fontSize: 30,
+    fontSize: 21,
   },
 
   h4: {
     fontFamily: 'Cormorant Unicase',
-    fontSize: 24,
+    fontSize: 18,
   },
 
   h5: {
     fontFamily: 'Cormorant Unicase',
-    fontSize: 18,
+    fontSize: 15,
   },
 
   h6: {
