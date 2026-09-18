@@ -3,6 +3,8 @@ import type { Data, Introduction } from '../types/data';
 import { isData } from '../types/guards';
 import { SectionContent } from './SectionContent';
 import { Button, Typography } from '@mantine/core';
+import { BlobProvider } from '@react-pdf/renderer';
+import { CV } from '../pdf/CV';
 
 export function IntroductionContent() {
   const [data, setData] = useState<Data[]>([]);
@@ -96,9 +98,24 @@ export function IntroductionContent() {
                 ))}
               </Typography>
             )}
-            <Button radius="xs" size="lg" style={{ marginInline: 'auto' }}>
-              Télécharger mon CV
-            </Button>
+            <BlobProvider document={<CV />}>
+              {({ url, loading }) => (
+                <Button
+                  loading={loading}
+                  disabled={!url}
+                  onClick={() => {
+                    if (url) {
+                      window.open(url, '_blank');
+                    }
+                  }}
+                  radius="xs"
+                  size="lg"
+                  style={{ marginInline: 'auto' }}
+                >
+                  Télécharger mon CV
+                </Button>
+              )}
+            </BlobProvider>
           </section>
         );
       })}

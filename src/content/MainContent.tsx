@@ -27,7 +27,7 @@ export function MainContent() {
         }
       }}
       style={{
-        height: 'calc(100vh - 102px - 60px)',
+        height: 'calc(100vh - 144px - 60px)',
       }}
     >
       <Tabs.List
@@ -51,7 +51,7 @@ export function MainContent() {
         px="64"
         py="48"
         style={{
-          height: 'calc(100vh - 102px - 60px - 36px)',
+          height: 'calc(100vh - 144px - 60px - 36px)',
           overflow: 'auto',
           display: 'flex',
           flexDirection: 'column',
@@ -84,7 +84,7 @@ export function MainContent() {
             px="64"
             py="48"
             style={{
-              height: 'calc(100vh - 102px - 60px - 36px)',
+              height: 'calc(100vh - 144px - 60px - 36px)',
               overflow: 'auto',
               display: 'flex',
               flexDirection: 'column',

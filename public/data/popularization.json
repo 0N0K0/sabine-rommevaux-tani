@@ -3,33 +3,6 @@
     "title": "Conférences grand public",
     "content": [
       {
-        "periods": [{ "startDate": "2014", "endDate": "2017" }],
-        "place": "Espace Mendès France, Poitiers",
-        "details": [
-          {
-            "value": "Cycle de conférences destinées aux étudiants de Master et au grand public"
-          }
-        ],
-        "content": [
-          {
-            "dates": ["16/01/2014"],
-            "label": "Cadres théoriques en confrontation avec la nature et l'expérience au Moyen Age"
-          },
-          {
-            "dates": ["15/01/2015"],
-            "label": "Les libertés de la pensée médiévale"
-          },
-          {
-            "dates": ["14/01/2016"],
-            "label": "L'apport de la science et de la philosophie arabe à l'Europe occidentale"
-          },
-          {
-            "dates": ["12/01/2017"],
-            "label": "Le legs médiéval : héritage humaniste des érudits arabes et latins du Moyen Age"
-          }
-        ]
-      },
-      {
         "dates": ["07/10/2023", "08/10/2023"],
         "place": "Les Médiévales de Fournols",
         "label": "Conférence grand public",
@@ -55,6 +28,7 @@
         "dates": ["07/03/2026"],
         "place": "Les Samedis de Cabara",
         "label": "Conférence grand public",
+        "link": "https://www.sudouest.fr/gironde/cabara/cabara-la-geometrie-etait-elle-enseignee-au-moyen-age-un-theme-peu-ordinaire-pour-un-samedi-de-cabara-27904181.php",
         "details": [
           {
             "value": "Les outils à disposition de l'historien pour étudier l'enseignement de la géométrie à l'université de Paris au Moyen Age"

@@ -12,6 +12,8 @@
   "dependencies": {
     "@mantine/core": "^9.4.1",
     "@mantine/hooks": "^9.4.1",
+    "@react-pdf/renderer": "^4.9.0",
+    "htmlparser2": "^12.0.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
   },
