@@ -11,10 +11,15 @@ export function Layout({
   footerContent,
 }: LayoutProps) {
   return (
-    <AppShell header={{ height: '120' }} footer={{ height: 60 }}>
+    <AppShell
+      header={{
+        height: '144',
+      }}
+      footer={{ height: 60 }}
+    >
       <AppShell.Header
         px="64"
-        py="16"
+        py="32"
         style={{
           textAlign: 'center',
           border: 'none',

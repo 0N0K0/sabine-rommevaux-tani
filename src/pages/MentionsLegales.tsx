@@ -10,7 +10,7 @@ export default function MentionsLegales() {
       mainContent={
         <div
           style={{
-            height: 'calc(100vh - 102px - 60px)',
+            height: 'calc(100vh - 144px - 60px)',
             overflow: 'auto',
             padding: '48px 64px',
           }}
