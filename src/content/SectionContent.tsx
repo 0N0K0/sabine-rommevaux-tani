@@ -55,7 +55,16 @@ export function SectionContent({
       ))}
 
       {items.length > 0 && (
-        <Masonry cols={Math.min(items.length, 4)} gap={16}>
+        // <Masonry cols={Math.min(items.length, 4)} gap={16}>
+        //   {items.map((item, index) => (
+        //     <CardContent
+        //       key={index}
+        //       content={item as Content}
+        //       displayDates={displayDates}
+        //     />
+        //   ))}
+        // </Masonry>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
           {items.map((item, index) => (
             <CardContent
               key={index}
@@ -63,7 +72,7 @@ export function SectionContent({
               displayDates={displayDates}
             />
           ))}
-        </Masonry>
+        </div>
       )}
     </section>
   );
