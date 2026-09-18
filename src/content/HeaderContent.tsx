@@ -1,14 +1,11 @@
 import { Anchor, Button, Text, Title } from '@mantine/core';
 import { useEffect, useState } from 'react';
 import type { Data, Detail } from '../types/data';
-import { BlobProvider } from '@react-pdf/renderer';
-import { CV } from '../pdf/CV';
 
 export function HeaderContent() {
   const [data, setData] = useState<Data>({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<Error | null>(null);
-  const [generatePdf, setGeneratePdf] = useState(false);
 
   useEffect(() => {
     async function loadHeader() {

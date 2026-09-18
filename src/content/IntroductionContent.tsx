@@ -2,9 +2,7 @@ import { useEffect, useState } from 'react';
 import type { Data, Introduction } from '../types/data';
 import { isData } from '../types/guards';
 import { SectionContent } from './SectionContent';
-import { Button, Typography } from '@mantine/core';
-import { BlobProvider } from '@react-pdf/renderer';
-import { CV } from '../pdf/CV';
+import { Typography } from '@mantine/core';
 
 export function IntroductionContent() {
   const [data, setData] = useState<Data[]>([]);
