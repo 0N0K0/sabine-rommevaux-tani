@@ -1,5 +1,6 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
+import LegalNotices from './pages/LegalNotices';
 import Page from './pages/Page';
 import { useFiles } from './hooks/useFiles';
 
@@ -22,6 +23,8 @@ function App() {
             />
           );
         })}
+
+        <Route path="/legal-notices" element={<LegalNotices />} />
       </Routes>
     </BrowserRouter>
   );
