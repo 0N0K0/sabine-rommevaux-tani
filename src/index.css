@@ -64,3 +64,19 @@ b {
 li::marker {
   color: var(--mantine-color-red-5);
 }
+
+.legal-content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+
+  & > p:nth-child(odd) {
+    font-weight: 600;
+    text-align: right;
+  }
+}
+
+.legal-section h3 {
+  font-size: 32px;
+  text-align: center;
+}
