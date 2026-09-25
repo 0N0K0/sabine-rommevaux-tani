@@ -1,8 +1,9 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
-import LegalNotices from './pages/LegalNotices';
-import Page from './pages/Page';
 import { useFiles } from './hooks/useFiles';
+import Page from './pages/Page';
+import { PdfPreview } from './pages/PdfPreview';
+import LegalNotices from './pages/LegalNotices';
 
 function App() {
   const files = useFiles();
@@ -24,6 +25,7 @@ function App() {
           );
         })}
 
+        <Route path="/pdf-preview" element={<PdfPreview />} />
         <Route path="/legal-notices" element={<LegalNotices />} />
       </Routes>
     </BrowserRouter>
