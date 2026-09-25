@@ -3,6 +3,7 @@ import type { Data, Detail } from '../types/data';
 import { Navbar } from './Navbar';
 import { useMediaQuery } from '@mantine/hooks';
 import { useFile } from '../hooks/useFile';
+import { useFiles } from '../hooks/useFiles';
 
 export function Header() {
   const { data, loading, error } = useFile('header');
@@ -10,6 +11,8 @@ export function Header() {
   if (loading && !data) return null;
 
   if (error) return <p>{error.message}</p>;
+
+  const files = useFiles();
 
   const isDesktop = useMediaQuery('(min-width: 1150px)');
   const isTablet = useMediaQuery('(min-width: 902px)');
@@ -100,7 +103,7 @@ export function Header() {
         </Button>
       </Stack>
 
-      <Navbar />
+      <Navbar files={files} />
     </>
   );
 }

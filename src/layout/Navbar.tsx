@@ -1,8 +1,9 @@
 import { Burger, Drawer, Scroller, Stack, Tabs, Text } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
 import { useLocation } from 'react-router-dom';
+import type { File } from '../types/data';
 
-export function Navbar() {
+export function Navbar({ files }: { files: File[] }) {
   const [opened, { open, close }] = useDisclosure(false);
   const location = useLocation();
 
@@ -18,6 +19,19 @@ export function Navbar() {
             >
               Introduction
             </Tabs.Tab>
+            {files.map((link) => {
+              return (
+                <Tabs.Tab
+                  key={link.name}
+                  value={`/${link.name}`}
+                  renderRoot={(props) => (
+                    <a href={`/${link.name}`} {...props} />
+                  )}
+                >
+                  {link.title}
+                </Tabs.Tab>
+              );
+            })}
           </Scroller>
         </Tabs.List>
       </Tabs>
@@ -46,6 +60,22 @@ export function Navbar() {
           >
             Accueil
           </Text>
+          {files.map((link) => {
+            const active = location.pathname === `/${link.name}`;
+            return (
+              <Text
+                key={link.name}
+                component="a"
+                href={`/${link.name}`}
+                fw={active ? 600 : 400}
+                c={active ? 'gold' : 'inherit'}
+                td="none"
+                onClick={close}
+              >
+                {link.title}
+              </Text>
+            );
+          })}
         </Stack>
       </Drawer>
     </>
