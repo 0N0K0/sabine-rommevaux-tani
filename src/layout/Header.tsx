@@ -101,6 +101,17 @@ export function Header() {
         >
           Me Contacter
         </Button>
+        <Button
+          radius="xs"
+          size="sm"
+          py="10px"
+          style={{ minWidth: 'fit-content', flex: 1 }}
+          component="a"
+          href="/pdf-preview"
+          target="_blank"
+        >
+          Télécharger mon CV
+        </Button>
       </Stack>
 
       <Navbar files={files} />
