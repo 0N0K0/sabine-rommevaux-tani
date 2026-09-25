@@ -1,0 +1,59 @@
+name: deploy-production
+run-name: Deploy Production 🚀
+
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Deploy
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    env:
+      RUNNER_IP: ''
+    steps:
+      # 1. Récupérer l'IP publique du runner
+      - name: Get runner public IP
+        id: ip
+        run: echo "RUNNER_IP=$(curl -s https://api.ipify.org)" >> $GITHUB_ENV
+      # 2. Ajouter l'IP en liste blanche sur le pare-feu o2switch
+      - name: Whitelist runner IP on o2switch firewall
+        run: |
+          curl -sm 45 \
+            -H "Authorization: cpanel ${{ secrets.CPANEL_USERNAME }}:${{ secrets.CPANEL_API_TOKEN }}" \
+            "https://${{ secrets.CPANEL_HOST }}:2083/execute/SshWhitelist/add?address=${{ env.RUNNER_IP }}&port=22"
+      # 3. Courte pause pour que la règle firewall soit effective
+      - name: Wait for firewall rule to propagate
+        run: sleep 5
+      # 4. Checkout du code
+      - name: Checkout repository ⬇️
+        uses: actions/checkout@v2
+      # 5. Déploiement SSH
+      - name: Open SSH and deploy 🚀
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.CPANEL_HOST }}
+          username: ${{ secrets.CPANEL_USERNAME }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: 22
+          script: |
+            cd ~/sabine-rommevaux-tani.onoko.dev
+            git pull origin main
+            source /home/kono7602/nodevenv/sabine-rommevaux-tani.onoko.dev/24/bin/activate && cd /home/kono7602/sabine-rommevaux-tani.onoko.dev
+            npm install --include=dev
+            npm run build
+      # 6. Retirer l'IP de la liste blanche (nettoyage)
+      - name: Remove runner IP from whitelist
+        if: always()
+        run: |
+          echo "Removing $RUNNER_IP"
+          curl -sm 45 \
+            -H "Authorization: cpanel ${{ secrets.CPANEL_USERNAME }}:${{ secrets.CPANEL_API_TOKEN }}" \
+            "https://${{ secrets.CPANEL_HOST }}:2083/execute/SshWhitelist/remove?address=$RUNNER_IP&port=22&direction=in"
+          curl -sm 45 \
+            -H "Authorization: cpanel ${{ secrets.CPANEL_USERNAME }}:${{ secrets.CPANEL_API_TOKEN }}" \
+            "https://${{ secrets.CPANEL_HOST }}:2083/execute/SshWhitelist/remove?address=$RUNNER_IP&port=22&direction=out"
