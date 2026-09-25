@@ -1,20 +1,29 @@
-import { Button, Container, Title } from '@mantine/core';
-import { useState } from 'react';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Home from './pages/Home';
+import Page from './pages/Page';
+import { useFiles } from './hooks/useFiles';
 
-/**
- * Root application component.
- * @returns {JSX.Element} App markup.
- */
 function App() {
-  const [count, setCount] = useState(0);
+  const files = useFiles();
 
   return (
-    <Container py="xl">
-      <Title order={1}>Sabine Rommevaux-Tani</Title>
-      <Button mt="md" onClick={() => setCount((count) => count + 1)}>
-        Count is {count}
-      </Button>
-    </Container>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+
+        {files.map((file, index) => {
+          const slug = file.name;
+
+          return (
+            <Route
+              key={file.name}
+              path={`/${slug}`}
+              element={<Page file={file} index={index} />}
+            />
+          );
+        })}
+      </Routes>
+    </BrowserRouter>
   );
 }
 

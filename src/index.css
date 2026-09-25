@@ -1,4 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300;400;500;600;700&display=swap');
+
 body {
-  /* Espacement */
   margin: 0;
+  background-color: hsl(45, 0%, 97%);
+}
+
+/* Chrome / Edge / Safari */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(0, 0, 0, 0.5);
+  border-radius: 999px;
+  border: 3px solid transparent;
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.8);
+  border: 3px solid transparent;
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-button {
+  width: 0 !important;
+  height: 0 !important;
+  display: none !important;
+}
+
+.intro-first-paragraph::first-letter {
+  float: left;
+  font-family: 'Cormorant Unicase', serif;
+  font-size: 68px;
+  line-height: 0.75;
+  padding-right: 0.1em;
+  padding-top: 0.08em;
+  color: var(--mantine-color-gold-5);
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--mantine-color-gold-5);
+  &::first-letter {
+    color: var(--mantine-color-red-5);
+  }
+}
+
+b {
+  color: var(--mantine-color-red-7);
+  font-weight: 500;
+}
+
+li::marker {
+  color: var(--mantine-color-red-5);
 }

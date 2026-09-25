@@ -4,10 +4,15 @@ import { MantineProvider } from '@mantine/core';
 import '@mantine/core/styles.css';
 import './index.css';
 import App from './App';
+import { theme } from './theme/theme.ts';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <MantineProvider classNamesPrefix="onoko" forceColorScheme="light">
+    <MantineProvider
+      classNamesPrefix="onoko"
+      forceColorScheme="light"
+      theme={theme}
+    >
       <App />
     </MantineProvider>
   </StrictMode>,
